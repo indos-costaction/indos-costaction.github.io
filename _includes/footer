@@ -7,6 +7,7 @@
         </td>
         <td style="text-align: center;">
           <p>&copy; {{ 'now' | date: "%Y" }} {{ site.description }}.</p>
+          <p>Contribute to this website on <a href="https://github.com/indos-costaction/indos-costaction.github.io">GitHub</a>.</p>
           <p>All rights reserved.</p>
         </td>
         <td style="text-align: right;">

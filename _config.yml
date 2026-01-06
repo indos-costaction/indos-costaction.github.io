@@ -2,7 +2,7 @@ title: Improving Neuroimaging Data for Sharing
 email: robert.oostenveld@donders.ru.nl
 description: INDoS COST Action
 baseurl: ""
-url: "https://indos-costaction.github.io"
+url: "https://www.indos-costaction.eu"
 logo: /assets/images/logo-v5.png
 
 # Build settings
@@ -10,6 +10,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Navigation
 header_pages:

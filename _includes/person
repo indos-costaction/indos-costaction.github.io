@@ -30,9 +30,9 @@ Parameters:
     <h4>{{ person.fullname }}</h4>
     {% if showphoto == "yes" %}
         {% if person.photo %}
-            <p><img src="/assets/images/profile/{{ person.photo }}" height=150px></p>
+            <p><img src="/assets/images/people/{{ person.photo }}" height=150px></p>
         {% else %}
-            <p><img src="/assets/images/profile/avatar.jpg" height=150px></p>
+            <p><img src="/assets/images/people/avatar.jpg" height=150px></p>
         {% endif %}
     {% endif %}
     {% if showemail == "yes" %}

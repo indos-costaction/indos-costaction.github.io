@@ -10,7 +10,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>This Working Group focuses on improving the reliability and usability of neuroimaging data by developing shared standards and guidelines for quality assessment (QA) and quality control (QC) across different imaging modalities, including MRI, MEG, EEG, and fNIRS. By bringing together experts and existing initiatives, WG1 aims to establish clear, transparent, and interoperable QA/QC practices that make it easier for researchers to evaluate data quality before use. These efforts will reduce duplication of work, enhance reproducibility, and support the use of neuroimaging data in advanced applications such as AI.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="robert" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Vice-leader:</h4>{% include person id="michal" %}</td>
   </table>
 </div>
 
@@ -19,7 +19,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>WG2 is dedicated to improving the way neuroimaging data and experimental information are described and annotated. Metadata plays a crucial role in making data findable, interoperable, and reusable, but current practices are often inconsistent or incomplete. This Working Group will extend and refine existing standards, such as BIDS, and foster collaboration between metadata developers, software tool creators, and researchers. By improving metadata practices, WG2 will make it easier to discover, understand, and reuse neuroimaging datasets across research groups and disciplines.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="lyuba" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Vice-leader:</h4>{% include person id="andjela" %}</td>
   </table>
 </div>
 
@@ -28,7 +28,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>Preprocessing is a critical step in preparing neuroimaging data for analysis, but current practices are often ad hoc and poorly documented. WG3 aims to standardize and rationalize preprocessing procedures to enhance transparency, reproducibility, and interoperability. Focusing initially on EEG and MEG, this Working Group will define best practices and documentation standards for preprocessing pipelines, drawing on successful examples from MRI. The outcome will be clearer, more reusable pipelines that support consistent and trustworthy analyses across research sites.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="oscar" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Vice-leader:</h4>{% include person id="guiomar" %}</td>
   </table>
 </div>
 
@@ -37,7 +37,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>Sharing human neuroimaging data raises important ethical and legal questions, particularly regarding privacy and compliance with regulations such as the GDPR. WG4 will clarify and address these challenges by developing guidelines, tools, and training that help researchers navigate legal frameworks while maximizing the scientific and societal benefits of data sharing. It will also foster ethical discussions within the community, balancing openness and transparency with respect for participants’ rights and researchers’ concerns, ultimately supporting responsible and sustainable data sharing practices.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="camille" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Vice-leader:</h4>{% include person id="jochem" %}</td>
   </table>
 </div>
 

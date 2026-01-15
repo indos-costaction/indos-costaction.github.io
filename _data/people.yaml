@@ -46,6 +46,12 @@
   email: camille.maumet@inria.fr
   photo: camille.jpg
 
+- id: andjela
+  fullname: Dr. Anđela Šoškić
+  affiliation: University of Belgrade, Serbia
+  email: andjela.soskic@f.bg.ac.rs 
+  photo: andjela.jpg
+
 - id: tba
   fullname: to be announced
   affiliation:

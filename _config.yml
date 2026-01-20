@@ -3,7 +3,7 @@ email: robert.oostenveld@donders.ru.nl
 description: INDoS COST Action
 baseurl: ""
 url: "https://www.indos-costaction.eu"
-logo: /assets/images/logo-v5.png
+logo: /assets/images/logo-v6.png
 
 # Build settings
 markdown: kramdown

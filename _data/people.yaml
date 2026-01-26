@@ -52,6 +52,18 @@
   email: andjela.soskic@f.bg.ac.rs 
   photo: andjela.jpg
 
+- id: mathew
+  fullname: Mathew Birdsall Abrams, Ph.D. MPH
+  affiliation: INCF
+  email: mathew.abrams@incf.org
+  photo: mathew.jpg
+
+- id: esin
+  fullname: Prof. Esin Ozturk-Isik
+  affiliation: Bogazici University, Istanbul, Turkey
+  email: esin.ozturk@boun.edu.tr
+  photo: esin.jpg
+
 - id: tba
   fullname: to be announced
   affiliation:

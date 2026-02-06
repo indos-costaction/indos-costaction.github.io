@@ -2,7 +2,7 @@
 title: Style Guide
 ---
 
-The INDoS logo comes in multiple formats and is complemented by a [brand guide](/assets/pdf/INDoS _ Brand Guide.pdf) that explains how to use the logo, including the color scheme and fonts. You can download a [zip file](https://github.com/indos-costaction/indos-costaction.github.io/blob/main/INDoS logo.zip) that contains all logo variantions in different file formats.
+The INDoS logo comes in multiple formats and is complemented by a [brand guide](/assets/pdf/INDoS _ Brand Guide.pdf) that explains how to use the logo, including the color scheme and fonts. You can download a [zip file](https://github.com/indos-costaction/indos-costaction.github.io/raw/refs/heads/main/INDoS%20logo.zip) that contains all logo variantions in different file formats.
 
 ## Logo top
 

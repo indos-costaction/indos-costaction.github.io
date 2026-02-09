@@ -5,7 +5,11 @@
   --logo-turquoise: #60BFAF;
   --logo-lavender: #BE5EAC;
   --logo-purple: #5D288F;
-  --tagline-blue: #122B62;
+  --logo-blue: #122B62;
+/* https://ec.europa.eu/component-library/v1.15.0/eu/components/detail/eu-style-color/ */
+  --ec-blue: #004494;
+  --ec-yellow: #ffd617;
+  --ec-grey: #404040;
 }
 
 .bg-logo-orange {
@@ -24,8 +28,8 @@
   background-color: var(--logo-purple);
 }
 
-.bg-tagline-blue {
-  background-color: var(--tagline-blue);
+.bg-logo-blue {
+  background-color: var(--logo-blue);
 }
 
 /* Reset and Base Styles */
@@ -94,14 +98,14 @@ body {
   font-size: 2rem;
   margin-top: 0rem;
   margin-bottom: 1rem;
-  color: var(--tagline-blue);
+  color: var(--logo-blue);
 }
 
 .page-content h2 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
-  color: var(--tagline-blue);
+  color: var(--logo-blue);
 }
 
 .page-content h3 {
@@ -180,7 +184,7 @@ body {
 }
 
 .narrow-card h4 {
-  color: var(--tagline-blue);
+  color: var(--logo-blue);
   font-size: 1.1rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
@@ -202,7 +206,7 @@ body {
 }
 
 .wide-card h3 {
-  color: var(--tagline-blue);
+  color: var(--logo-blue);
   font-size: 1.2rem;
   font-style: italic;
   font-weight: normal;
@@ -212,7 +216,7 @@ body {
 }
 
 .wide-card h4 {
-  color: var(--tagline-blue);
+  color: var(--logo-blue);
   font-size: 1.1rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
@@ -221,7 +225,7 @@ body {
 /* Footer Styles */
 
 .site-footer {
-  background-color: var(--tagline-blue);
+  background-color: var(--logo-blue);
   color: #ecf0f1;
   padding: 2rem 0;
   margin-top: 3rem;

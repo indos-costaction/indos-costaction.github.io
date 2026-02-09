@@ -64,7 +64,7 @@ Pantone 2084c
 
 <div style="width: 50px; height: 50px;" class="bg-logo-purple"></div>
 
-## Color of name and tagline
+## Color of name and tagline - blue
 
 HEX: #122B62  
 RGB: 18, 43, 98  

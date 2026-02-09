@@ -12,21 +12,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Navigation
-header_pages:
-  - index.md
-  - collaborators.md
-  - workgroups.md
-  - contact.md
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - STRUCTURE.md
-  - LICENSE.md
-
 defaults:
   -
     scope:
@@ -34,3 +19,14 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - STRUCTURE.md
+  - LICENSE.md
+  - README.md
+  - '**/README.md'
+

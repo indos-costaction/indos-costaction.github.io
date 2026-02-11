@@ -27,6 +27,13 @@ We welcome inquiries from researchers, students, and industry partners intereste
   {% include person id="guiomar" photo="no" affiliation="no"  %}
 </div>
 
+For any administrative inquiries and questions regarding reimbursement of expenses, please contact:
+
+<div class="wide-card">
+  <h3>Grand Holder Manager</h3>
+  {% include person id="mojca" photo="no" affiliation="no"  %}
+</div>
+
 ## Mailing Address
 
 INDoS COST Action  

@@ -64,6 +64,12 @@
   email: esin.ozturk@boun.edu.tr
   photo: esin.jpg
 
+- id: mojca
+  fullname: M.Sc. Mojca Premuš
+  affiliation: University of Ljubljana, Ljubljana, Slovenia
+  email: mojca.premus@fgg.uni-lj.si
+  photo: mojca.jpg
+
 - id: tba
   fullname: to be announced
   affiliation:

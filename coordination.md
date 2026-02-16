@@ -26,6 +26,11 @@ Below you can find information about the core team coordinating our COST Action.
     <h3>Grant Holder Scientific Representative</h3>
     {% include person id="urban" %}
   </div>
+  
+  <div class="narrow-card">
+    <h3>Grant Holder Manager</h3>
+    {% include person id="mojca" %}
+  </div>
 
   <div class="narrow-card">
     <h3>Grant Awarding Coordinator</h3>

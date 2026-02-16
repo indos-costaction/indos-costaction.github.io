@@ -152,6 +152,17 @@ body {
   border-bottom-color: #2980b9;
 }
 
+.message-warning {
+  background-color: #f8d7da;
+  color: #a80a0a;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.message-warning h1 {
+  color: #a80a0a;
+}
+
 /* Coordinator Styles */
 
 .narrow-grid {

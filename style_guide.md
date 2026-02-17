@@ -4,7 +4,7 @@ title: Style Guide
 
 The INDoS logo comes in multiple formats and is complemented by a [brand guide](/assets/pdf/INDoS _ Brand Guide.pdf) that explains how to use the logo, including the color scheme and fonts. You can download a [zip file](https://github.com/indos-costaction/indos-costaction.github.io/raw/refs/heads/main/INDoS%20logo.zip) that contains all INDoS logo variantions in different file formats.
 
-There are also logo's and guidelines for the [COST Action brand identify](https://www.cost.eu/about/visual-identity/) and for the [EU emblem](https://ec.europa.eu/regional_policy/information-sources/logo-download-center_en).
+There are also logos and guidelines for the [COST Action brand identify](https://www.cost.eu/about/visual-identity/) and for the [EU emblem](https://ec.europa.eu/regional_policy/information-sources/logo-download-center_en).
 
 ## Logo top
 

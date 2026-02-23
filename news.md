@@ -8,6 +8,14 @@ Stay connected and receive the latest updates:
 - Subscribe to our mailing list (details to be added, TODO).
 - Attend our workshops and conferences (links to be added, TODO).
 
+## 23 February 2026 - WG1 and WG4 kick-off meetings
+
+Working group 1 on _Quality Assessment and Quality Control_ will have its first online kick-off meeting on Tuesday 3 March, at 14:00-15:00 CET. 
+
+Working group 4 on _Ethics, Practices, and Regulations_ will have its first online kick-off meeting on Wednesday, 4 March at 14:00-15:00 (CET).
+
+We hope that many of you will join. The locations for both meetings have been announced through the respective mailing lists. If you signed up and have been accepted for one of the working groups, you should automatically have been added to the corresponding mailing lists and received the announcement. If you have any questions, please contact the [WG leads](https://www.indos-costaction.eu/working-groups).
+
 ## 6 February 2026 - new logo
 
 We have a new logo, please see the [style guide](/style_guide) for further details.

@@ -8,9 +8,13 @@ Stay connected and receive the latest updates:
 - Subscribe to our mailing list (details to be added, TODO).
 - Attend our workshops and conferences (links to be added, TODO).
 
+## 2 March 2026 - WG3 kick-off meeting
+
+Working group 3 on _Automated Preprocessing Pipelines_ will have its online kick-off meeting on Tuesday 17 March, at 14:00-15:00 CET. The zoom link for the meeting was posted on the WG3 mailing list.
+
 ## 23 February 2026 - WG1 and WG4 kick-off meetings
 
-Working group 1 on _Quality Assessment and Quality Control_ will have its first online kick-off meeting on Tuesday 3 March, at 14:00-15:00 CET. 
+Working group 1 on _Quality Assessment and Quality Control_ will have its first online kick-off meeting on Tuesday 3 March, at 14:00-15:00 CET.
 
 Working group 4 on _Ethics, Practices, and Regulations_ will have its first online kick-off meeting on Wednesday, 4 March at 14:00-15:00 (CET).
 

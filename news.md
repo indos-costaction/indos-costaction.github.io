@@ -8,6 +8,10 @@ Stay connected and receive the latest updates:
 - Subscribe to our mailing list (details to be added, TODO).
 - Attend our workshops and conferences (links to be added, TODO).
 
+## 6 March 2026 - Call for grant applications
+
+We have opened the call to apply for Young Researcher and Innovator (YRI) conference grants, Inclusiveness Target Country (ITC) conference grants, and for Short-Term Scientific Mission (STSM) grants. See the [grants](/grants) page for details on how to apply.
+
 ## 2 March 2026 - WG3 kick-off meeting
 
 Working group 3 on _Automated Preprocessing Pipelines_ will have its online kick-off meeting on Tuesday 17 March, at 14:00-15:00 CET. The zoom link for the meeting was posted on the WG3 mailing list.

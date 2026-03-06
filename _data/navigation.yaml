@@ -7,6 +7,9 @@
 - title: Working Groups
   url: /working-groups
   match: working-groups
+- title: Grants
+  url: /grants
+  match: grants
 - title: News
   url: /news
   match: news

@@ -17,6 +17,25 @@ Our mission is to make neuroimaging data truly [FAIR](https://www.go-fair.org/fa
 - **Support dissemination and adoption** Ensure that the Action’s outputs—guidelines, tools, and standards—are widely communicated, openly accessible, and adopted by the neuroimaging community and beyond.
 - **Advance FAIR and open science** Contribute to a shift toward more transparent, efficient, and ethical research practices in neuroimaging, aligning with European and international open science goals.
 
+## About COST Action
+
+<!-- this section is required by COST -->
+
+<table>
+<tr>
+<td style="padding-left: 0px; vertical-align: middle; text-align: left;">
+COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
+</td>
+<td style="padding-left: 50px; vertical-align: middle; text-align: center;">
+<a href="https://www.cost.eu" style="text-decoration:none"><img src="assets/images/logo/COST_LOGO_darkgrey_transparentbackground.png" height=50px><br></a>
+<a href="https://www.cost.eu">www.cost.eu</a>
+</td>
+<td style="padding-left: 50px; vertical-align: middle; text-align: center;">
+<a href="https://commission.europa.eu"><img src="assets/images/logo/EN-Funded by the EU-POS.png" height=50px></a>
+</td>
+</tr>
+</table>
+
 ## Join Our Network
 
 We welcome researchers and students interested in improving neuroimaging data for sharing. If you would like to join our network or collaborate with us, please see the [contact page](/contact).
@@ -26,7 +45,3 @@ We welcome researchers and students interested in improving neuroimaging data fo
 - Check the [news](/news) to see what is going on.
 - [Join](/join) one of the working groups to be added to the mailing list.
 - Follow our activities on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
-
-## About COST Action
-
-[COST](https://www.cost.eu/) (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.

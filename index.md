@@ -26,3 +26,7 @@ We welcome researchers and students interested in improving neuroimaging data fo
 - Check the [news](/news) to see what is going on.
 - [Join](/join) one of the working groups to be added to the mailing list.
 - Follow our activities on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
+
+## About COST Action
+
+[COST](https://www.cost.eu/) (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.

@@ -10,9 +10,15 @@ The [YRI grant application procedure](/assets/docs/Call-for-Young-Researcher-And
 
 ## Inclusiveness Target Country (ITC) conference grants
 
-An Inclusiveness Target Country (ITC) conference grant supports a presentation of own work given by a researcher/innovator affiliated in an Inclusiveness Target Country / Near Neighbour Country. The purpose is foster grantees’ participation in high-level conferences fully organized by a third party, i.e. not organized or co-organized by the COST Action. An ITC Conference Grantee receives support for attending and presenting their work (poster/oral presentation) at a conference.
+An Inclusiveness Target Country (ITC) conference grant supports a presentation of own work given by a researcher/innovator affiliated in an Inclusiveness Target Country / Near Neighbour Country. The purpose is foster grantees’ participation in high-level conferences fully organized by a third party, i.e. not organized or co-organized by the COST Action. An ITC Conference Grantee receives support for attending and presenting their work (oral presentation) at a conference.
 
 The [ICT grant application procedure](/assets/docs/Call-for-ITC-conference-support-2026_final.pdf) explains how you can apply.
+
+## Dissemination Conference grants (DCG)
+
+A Dissemination Conference grant provides financial support to INDos participants for their participation in high-level conferences fully organised by a third party, to present INDoS, their activities, and results (oral presentation) and for developing new contacts and potential future collaborations. .
+
+The [DC grant application procedure](/assets/docs/Call-for-dissemination-conference-support-2026.pdf) explains how you can apply.
 
 ## Short-Term Scientific Mission (STSM) grants
 

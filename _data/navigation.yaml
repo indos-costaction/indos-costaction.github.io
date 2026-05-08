@@ -13,6 +13,12 @@
 - title: Join
   url: /join
   match: join
+- title: Tools
+  url: /tools
+  match: tools
+- title: Calendar
+  url: /calendar
+  match: calendar
 - title: News
   url: /news
   match: news

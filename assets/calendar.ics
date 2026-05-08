@@ -1,353 +1,94 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Calendar Labs//Calendar 1.0//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Netherlands Holidays
-X-WR-TIMEZONE:UTC
+PRODID:-//SabreDAV//SabreDAV//EN
+X-WR-CALNAME:INDoS (cost_user)
+X-APPLE-CALENDAR-COLOR:#3C6EBA
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VTIMEZONE
+TZID:Europe/Ljubljana
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:hdz6do785@calendarlabs.com
-DTSTART;VALUE=DATE:20250101
-DTEND;VALUE=DATE:20250101
-DTSTAMP:20260105T100021Z
+CREATED:20260506T080442Z
+DTSTAMP:20260506T200423Z
+LAST-MODIFIED:20260506T200423Z
+SEQUENCE:6
+UID:755092b6-951e-4337-84c5-cecede82d484
+DTSTART;TZID=Europe/Ljubljana:20260508T140000
+DTEND;TZID=Europe/Ljubljana:20260508T150000
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:New Year's Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
+SUMMARY:INDoS WG1
+LOCATION:announced via the mailing list
+DESCRIPTION:organized by Karel López Vilaret
 END:VEVENT
 BEGIN:VEVENT
-UID:gdnj6kg3v@calendarlabs.com
-DTSTART;VALUE=DATE:20250418
-DTEND;VALUE=DATE:20250418
-DTSTAMP:20260105T100021Z
+CREATED:20260506T080904Z
+DTSTAMP:20260506T081711Z
+LAST-MODIFIED:20260506T081711Z
+SEQUENCE:7
+UID:251e4519-3e56-4906-b950-a809cf98ed13
+DTSTART;TZID=Europe/Ljubljana:20260504T130000
+DTEND;TZID=Europe/Ljubljana:20260504T140000
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Good Friday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
+SUMMARY:INDoS core
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO
+EXDATE;TZID=Europe/Ljubljana:20260615T130000
+DESCRIPTION:organized by Jochem Rieger
 END:VEVENT
 BEGIN:VEVENT
-UID:ty5ixlu7z@calendarlabs.com
-DTSTART;VALUE=DATE:20250420
-DTEND;VALUE=DATE:20250420
-DTSTAMP:20260105T100021Z
+CREATED:20260506T080557Z
+DTSTAMP:20260506T201340Z
+LAST-MODIFIED:20260506T201340Z
+SEQUENCE:6
+UID:73a01648-3461-4f42-8389-d4d3bb703333
+DTSTART;TZID=Europe/Ljubljana:20260508T150000
+DTEND;TZID=Europe/Ljubljana:20260508T160000
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Easter Sunday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
+SUMMARY:INDoS WG5
+LOCATION:announced via the mailing list
+DESCRIPTION:organized by Mathew Abrams
+RRULE:FREQ=MONTHLY;BYDAY=FR;BYSETPOS=1
 END:VEVENT
 BEGIN:VEVENT
-UID:yzagi8ukc@calendarlabs.com
-DTSTART;VALUE=DATE:20250421
-DTEND;VALUE=DATE:20250421
-DTSTAMP:20260105T100021Z
+CREATED:20260506T081439Z
+DTSTAMP:20260506T081501Z
+LAST-MODIFIED:20260506T081501Z
+SEQUENCE:3
+UID:b32ab1c3-be91-4c7e-94fc-24ae1480838c
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Easter Monday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
+SUMMARY:WG/MC COST meeting
+LOCATION:Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-UID:ywef86r31@calendarlabs.com
-DTSTART;VALUE=DATE:20250427
-DTEND;VALUE=DATE:20250427
-DTSTAMP:20260105T100021Z
+CREATED:20260506T081214Z
+DTSTAMP:20260506T081833Z
+LAST-MODIFIED:20260506T081833Z
+SEQUENCE:7
+UID:b4b7a618-5240-4e83-8316-d7c57c5bc9f4
+DTSTART;TZID=Europe/Ljubljana:20260520T130000
+DTEND;TZID=Europe/Ljubljana:20260520T140000
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:King's Birthday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/netherlands/kings-birthday.php to know more about King's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:tu8htttk9@calendarlabs.com
-DTSTART;VALUE=DATE:20250505
-DTEND;VALUE=DATE:20250505
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Liberation Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/netherlands/liberation-day.php to know more about Liberation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:mspkcqfud@calendarlabs.com
-DTSTART;VALUE=DATE:20250529
-DTEND;VALUE=DATE:20250529
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Ascension Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:ln3hjv4ip@calendarlabs.com
-DTSTART;VALUE=DATE:20250608
-DTEND;VALUE=DATE:20250608
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Whit Sunday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/france/whit-sunday.php to know more about Whit Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:9unf1l8vs@calendarlabs.com
-DTSTART;VALUE=DATE:20250609
-DTEND;VALUE=DATE:20250609
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Whit Monday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:97on55fug@calendarlabs.com
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251225
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Christmas Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:4ystzr6d4@calendarlabs.com
-DTSTART;VALUE=DATE:20251226
-DTEND;VALUE=DATE:20251226
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:2nd Day of Christmas
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about 2nd Day of Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:v1ef352yg@calendarlabs.com
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260101
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:New Year's Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:in2iukt9y@calendarlabs.com
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260403
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Good Friday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:lk0r1eair@calendarlabs.com
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260405
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Easter Sunday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:qv8khj3zw@calendarlabs.com
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260406
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Easter Monday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:6d3yvadet@calendarlabs.com
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260427
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:King's Birthday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/netherlands/kings-birthday.php to know more about King's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:ondk1w2jf@calendarlabs.com
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260505
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Liberation Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/netherlands/liberation-day.php to know more about Liberation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:8j1mbufh0@calendarlabs.com
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260514
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Ascension Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:swh6cpr7r@calendarlabs.com
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260524
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Whit Sunday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/france/whit-sunday.php to know more about Whit Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:dn9yvnacn@calendarlabs.com
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260525
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Whit Monday
-DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:wcfp08i5c@calendarlabs.com
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261225
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Christmas Day
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:bo9lq3uwh@calendarlabs.com
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261226
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:2nd Day of Christmas
-DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about 2nd Day of Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
-LOCATION:Netherlands
-END:VEVENT
-BEGIN:VEVENT
-UID:e491d75f4702318694a689acd88f4513
-DTSTART:20260301T010000Z
-DTEND:20260301T011500Z
-DTSTAMP:20260105T100021Z
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-SEQUENCE:0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-SUMMARY:Netherlands Holidays in your calendar!
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and will auto-update with any schedule changes. Discover more exciting calendars at https://calendarlabs.com/ical-calendar
-LOCATION:Powered by CalendarLabs.com
+SUMMARY:INDoS WG4
+RRULE:FREQ=MONTHLY;BYDAY=WE;BYSETPOS=3
+DESCRIPTION:organized by Alexandros Karakasidis
+LOCATION:announced via the mailing list
+ vz8
 END:VEVENT
 END:VCALENDAR

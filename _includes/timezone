@@ -1,0 +1,5 @@
+<span id="user-timezone">unknown</span>
+<script>
+  const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  document.getElementById('user-timezone').textContent = userTimeZone;
+</script>

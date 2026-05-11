@@ -2,7 +2,7 @@
 title: Calendar
 ---
 
-The meeting times below are according to the <b><span id="user-timezone">?</span></b> time zone.
+The meeting times below are according to the <b>{% include timezone %}</b> time zone.
 
 The links to online meetings are not shown; these are typically announced through the respective mailing list.
 
@@ -12,8 +12,3 @@ The links to online meetings are not shown; these are typically announced throug
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     allowTransparency="true" scrolling="no"
     frameborder="0" height="600px" width="100%"></iframe>
-
-<script>
-  const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-  document.getElementById('user-timezone').textContent = userTimeZone;
-</script>

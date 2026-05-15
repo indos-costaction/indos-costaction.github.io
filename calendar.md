@@ -2,9 +2,9 @@
 title: Calendar
 ---
 
-The meeting times below are according to the <b>{% include timezone %}</b> time zone.
+The 📅 meeting times below are according to the <b>{% include timezone %}</b> time zone.
 
-The links to online meetings are not shown; these are typically announced through the respective mailing list.
+The links to online meetings 👨‍💻 are not shown; these are typically announced through the respective mailing list.
 
 <iframe id="open-web-calendar" 
     style="background:url('/assets/images/circular-loader.gif') center center no-repeat;"

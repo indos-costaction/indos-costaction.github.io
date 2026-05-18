@@ -4,6 +4,17 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## 15 June 2026 - INDoS Annnual Meeting (aligned with OHBM)
+
+On Monday 15 June we will have our annual meeting at Novotel, located at Avenue Jean Gabriel Domergue, Bordeaux, France. This is a hybrid meeting, INDoS members are also able to attend online. The online link will be sent via the email list. The program for the day is as follows:
+
+- From 09:00 to 11:00 - Management Committee Meeting
+- From 11:15 to 12:30 - Working Group 1 Meeting
+- From 12:30 to 13:30 - Lunch
+- From 13:45 to 15:00 - Working Group 2 Meeting
+- From 15:15 to 16:00 - Working Group 3 Meeting
+- From 16:45 to 18:00 - Working Group 4 Meeting
+
 ## 6 March 2026 - Call for grant applications
 
 We have opened the call to apply for Young Researcher and Innovator (YRI) conference grants, Inclusiveness Target Country (ITC) conference grants, and for Short-Term Scientific Mission (STSM) grants. See the [grants](/grants) page for details on how to apply.

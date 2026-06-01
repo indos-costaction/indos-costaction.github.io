@@ -122,18 +122,26 @@ body {
   color: #3f4f5f;
 }
 
+.page-content h5 {
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-top: 1.1rem;
+  margin-bottom: 0.4rem;
+  color: #3f4f5f;
+}
+
 .page-content {
   font-size: 1.1rem;
   line-height: 1.8;
 }
 
 .page-content p {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .page-content ul,
 .page-content ol {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   padding-left: 2rem;
 }
 
@@ -174,7 +182,7 @@ body {
 
 .narrow-card {
   background: #f8f9fa;
-  padding: 1.5rem;
+  padding: 1.0rem;
   border-radius: 8px;
   border-left: 4px solid #3498db;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -190,7 +198,7 @@ body {
   font-size: 1.2rem;
   font-style: italic;
   font-weight: normal;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   display: block;
 }
 
@@ -205,8 +213,8 @@ body {
 
 .wide-card {
   background: #f8f9fa;  
-  padding: 2rem;
-  margin-bottom: 2rem;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
   border-radius: 8px;
   border-left: 4px solid #3498db;
 }
@@ -222,7 +230,7 @@ body {
   font-style: italic;
   font-weight: normal;
   margin-top: 0rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   display: block;
 }
 

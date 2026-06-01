@@ -3,75 +3,98 @@
   affiliation: University of Oldenburg, Germany
   email: jochem.rieger@uni-oldenburg.de
   photo: jochem.jpg
+  roles:
+    - Action chair
+    - WG4 co-leader
 
 - id: guiomar
   fullname: Dr. Guiomar Niso
   affiliation: Cajal Institute CSIC, Madrid, Spain
   email: guiomar.niso@cajal.csic.es
   photo: guiomar.jpg
-
-- id: robert
-  fullname: Dr. Robert Oostenveld
-  affiliation: Donders Institute, Radboud University Nijmegen, The Netherlands
-  email: robert.oostenveld@donders.ru.nl
-  photo: robert.jpg
+  roles:
+    - Action vice-chair
+    - WG3 co-leader
 
 - id: urban
   fullname: Dr. Urban Mahrl
   affiliation: Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia
   email: urban.marhl@imfm.si
   photo: urban.jpg
-
-- id: michal
-  fullname: Dr. Michal Mikl
-  affiliation: CEITEC - Central European Institute of Technology, Brno, Czechia
-  email: michal.mikl@ceitec.muni.cz
-  photo: michal.jpg
-
-- id: lyuba
-  fullname: Dr. Lyuba Zehl
-  affiliation: EBRAINS AISBL, Brussels, Belgium
-  email: lyuba.zehl@ebrains.eu
-  photo: lyuba.jpg
-
-- id: oscar
-  fullname: Dr. Oscar Esteban
-  affiliation: HES-SO Valais-Wallis, Switzerland
-  email: oscar.esteban@hevs.ch
-  photo: oscar.jpg
-  
-- id: camille
-  fullname: Dr. Camille Maumet
-  affiliation: Inria, Université Rennes, CNRS, Inserm, France
-  email: camille.maumet@inria.fr
-  photo: camille.jpg
-
-- id: andjela
-  fullname: Dr. Anđela Šoškić
-  affiliation: University of Belgrade, Serbia
-  email: andjela.soskic@f.bg.ac.rs 
-  photo: andjela.jpg
-
-- id: mathew
-  fullname: Mathew Birdsall Abrams, Ph.D. MPH
-  affiliation: INCF, Stockholm, Sweden
-  email: mathew.abrams@incf.org
-  photo: mathew.jpg
-
-- id: esin
-  fullname: Prof. Esin Ozturk-Isik
-  affiliation: Bogazici University, Istanbul, Turkey
-  email: esin.ozturk@boun.edu.tr
-  photo: esin.jpg
+  roles:
+    - Grant holder scientific representative
 
 - id: mojca
   fullname: M.Sc. Mojca Premuš
   affiliation: University of Ljubljana, Ljubljana, Slovenia
   email: mojca.premus@fgg.uni-lj.si
   photo: mojca.jpg
+  roles:
+    - Grant holder manager
 
-- id: tba
-  fullname: to be announced
-  affiliation:
-  email: 
-  photo: avatar.jpg
+- id: michal
+  fullname: Dr. Michal Mikl
+  affiliation: CEITEC - Central European Institute of Technology, Brno, Czechia
+  email: michal.mikl@ceitec.muni.cz
+  photo: michal.jpg
+  roles:
+    - Grant awarding coordinator
+    - WG1 co-leader
+
+- id: robert
+  fullname: Dr. Robert Oostenveld
+  affiliation: Donders Institute, Radboud University Nijmegen, The Netherlands
+  email: robert.oostenveld@donders.ru.nl
+  photo: robert.jpg
+  roles:
+    - Science communication coordinator
+    - WG1 leader
+
+- id: lyuba
+  fullname: Dr. Lyuba Zehl
+  affiliation: EBRAINS AISBL, Brussels, Belgium
+  email: lyuba.zehl@ebrains.eu
+  photo: lyuba.jpg
+  roles:
+    - WG2 leader
+
+- id: andjela
+  fullname: Dr. Anđela Šoškić
+  affiliation: University of Belgrade, Serbia
+  email: andjela.soskic@f.bg.ac.rs 
+  photo: andjela.jpg
+  roles:
+    - WG2 co-leader
+
+- id: oscar
+  fullname: Dr. Oscar Esteban
+  affiliation: HES-SO Valais-Wallis, Switzerland
+  email: oscar.esteban@hevs.ch
+  photo: oscar.jpg
+  roles:
+    - WG3 leader
+  
+- id: camille
+  fullname: Dr. Camille Maumet
+  affiliation: Inria, Université Rennes, CNRS, Inserm, France
+  email: camille.maumet@inria.fr
+  photo: camille.jpg
+  roles:
+    - WG4 leader
+
+- id: mathew
+  fullname: Mathew Birdsall Abrams, Ph.D. MPH
+  affiliation: INCF, Stockholm, Sweden
+  email: mathew.abrams@incf.org
+  photo: mathew.jpg
+  roles:
+    - WG5 leader
+
+- id: esin
+  fullname: Prof. Esin Ozturk-Isik
+  affiliation: Bogazici University, Istanbul, Turkey
+  email: esin.ozturk@boun.edu.tr
+  photo: esin.jpg
+  roles:
+    - WG5 co-leader
+

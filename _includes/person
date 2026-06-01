@@ -2,10 +2,17 @@
 This piece of Liquid template language code includes a person's details from the _data/people.yml file.
 Parameters:
 - id: The unique identifier of the person (required).
+- roles: "yes" or "no" to show or hide the list of roles (default = "no")
 - photo: "yes" or "no" to show or hide the photo (default = "yes")
 - email: "yes" or "no" to show or hide the email (default = "yes")
 - affiliation: "yes" or "no" to show or hide the affiliation (default = "yes")
 {% endcomment %}
+
+{% if include.roles == nill or include.roles == "" %}
+    {% assign showroles = "no" %}
+{% else %}
+    {% assign showroles = include.roles %}
+{% endif %}
 
 {% if include.photo == nill or include.photo == "" %}
     {% assign showphoto = "yes" %}
@@ -26,8 +33,19 @@ Parameters:
 {% endif %}
 
 {% assign person = site.data.people | where: "id", include.id | first %}
+
 {% if person %}
+    {% if showroles == "yes" %}
+    <h4>
+    {% for role in person.roles %}
+    {{ role }}{% unless forloop.last %}<br> {% endunless %}
+    {% endfor %}
+    </h4>
+    {{ person.fullname }}
+    {% else %}
     <h4>{{ person.fullname }}</h4>
+    {% endif %}
+
     {% if showphoto == "yes" %}
         {% if person.photo %}
             <p><img src="/assets/images/people/{{ person.photo }}" height=150px></p>

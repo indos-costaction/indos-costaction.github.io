@@ -6,6 +6,8 @@ The 📅 meeting times below are according to the <b>{% include timezone %}</b> 
 
 The links to online meetings 👨‍💻 are not shown; these are typically announced through the respective mailing list.
 
+Send an email to <a href="mailto:urban.marhl@imfm.si">Urban Marhl</a> to add your meeting or event to this calendar.
+
 <iframe id="open-web-calendar" 
     style="background:url('/assets/images/circular-loader.gif') center center no-repeat;"
     src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://www.indos-costaction.eu/assets/calendar.ics"

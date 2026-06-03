@@ -15,6 +15,18 @@ On Monday 15 June we will have our annual meeting at Novotel, located at Avenue 
 - From 15:15 to 16:00 - Working Group 3 Meeting
 - From 16:45 to 18:00 - Working Group 4 Meeting
 
+## 12-13 June 2026 - BrainHack TrainTrack sessions at OHBM
+
+As part of the INDoS and EEG101 collaboration (two COST Actions), we are hosting two hands-on TrainTrack sessions at the [OHBM BrainHack](https://ancplaboldenburg.github.io/indos-eeg101-workshops-brainhack/) for anyone interested in BIDS workflows, EEG/MEG quality control, and open neuroimaging tools.
+
+**12 June, 13:30–15:00 — BIDS Manager.** Learn how to simplify raw-to-BIDS conversion, metadata handling, and dataset curation across MRI, MEG, EEG, and physiological recordings using a software tool that supports conversion, metadata editing, validation, and review. See the [BIDS Manager documentation](https://ancplaboldenburg.github.io/bids_manager_documentation/index.html).
+
+**13 June, 09:00–10:30 — MEEGqc.** Explore a BIDS-aligned software tool for standardized and reproducible quality assessment and quality control of MEG and EEG data. See the [MEEGqc documentation](https://ancplaboldenburg.github.io/megqc_documentation/).
+
+If you would like to get practical experience during the sessions, please install the software in advance by following the installation instructions in the documentation.
+
+Online participation is free via the [meeting room](https://meeting.uol.de/rooms/3ss-lbo-iqr-hpr/join). See the [full programme and workshop details](https://ancplaboldenburg.github.io/indos-eeg101-workshops-brainhack/).
+
 ## 6 March 2026 - Call for grant applications
 
 We have opened the call to apply for Young Researcher and Innovator (YRI) conference grants, Inclusiveness Target Country (ITC) conference grants, and for Short-Term Scientific Mission (STSM) grants. See the [grants](/grants) page for details on how to apply.

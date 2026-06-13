@@ -177,7 +177,6 @@ DTEND;TZID=Europe/Ljubljana:20260520T140000
 STATUS:CONFIRMED
 SUMMARY:INDoS WG4 (Computational Privacy Survey Group Meeting)
 LOCATION:announced via the mailing list
- vz8
 DESCRIPTION:organized by Alexandros Karakasidis
 END:VEVENT
 BEGIN:VEVENT
@@ -193,7 +192,6 @@ SUMMARY:INDoS WG4
 RRULE:FREQ=MONTHLY;BYDAY=WE;BYSETPOS=3
 DESCRIPTION:organized by Alexandros Karakasidis
 LOCATION:announced via the mailing list
- vz8
 EXDATE;TZID=Europe/Ljubljana:20260520T130000
 END:VEVENT
 BEGIN:VEVENT
@@ -211,76 +209,38 @@ LOCATION:announced via the mailing list
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN=Lyuba Zehl:mailto:Lyuba.Zehl@ebrains.eu
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Urban Marhl:mailto:u
- rban.marhl@imfm.si
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Lyuba Zehl:mailto:Ly
- uba.Zehl@ebrains.eu
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=indos-wg2@listserv.u
- ni-oldenburg.de:mailto:indos-wg2@listserv.uni-oldenburg.de
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Marco Aiello:mailto:
- marcoaiello1978@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Emel Taşvuran Horat
- a:mailto:ethorata@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Margarida Julià Sap
- é:mailto:Margarita.Julia@uab.cat
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=SUBHASHIS DAS:mailto
- :subhashis@usal.es
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jochem Rieger:mailto
- :jochem.rieger@uni-oldenburg.de
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gabriela Marcu:mailt
- o:gabriela.marcu@ulbsibiu.ro
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Kübra Eren:mailto:k
- braren@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jovana Kljajic:mailt
- o:jovana.kljajic18@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ARZU KALYON:mailto:a
- rzu.kalyon@medeniyet.edu.tr
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=basak.guzel@idu.edu.
- tr:mailto:basak.guzel@idu.edu.tr
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Katarina Stekić Sto
- janović:mailto:katarinastekic@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Mark Mikkelsen:mailt
- o:mark.mikkelsen@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pawlik Mateusz:mailt
- o:Mateusz.Pawlik@plus.ac.at
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Anđela Šoškić:ma
- ilto:a.soskic@outlook.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gökçe Hale Hatay:m
- ailto:g.hale.hatay@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Haris Styliadis:mail
- to:styliadis@hotmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jan Petr:mailto:jan.
- honza.petr@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Phillips Christophe:
- mailto:C.Phillips@uliege.be
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Maria Jesus Mora-Cor
- ral:mailto:maria.mora@um.edu.mt
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Nurgül Bulut:mailto
- :nrgl.bulut@hotmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Patricia Clement:mai
- lto:Patricia.Clement@UGent.be
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Małgorzata Wierzba:
- mailto:m.wierzba@nencki.edu.pl
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gülnihal DENİZ:mai
- lto:gulnihal.deniz@erzurum.edu.tr
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Burcu SIRMATEL:mailt
- o:burcusirmatel@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Belal TAVASHI:mailto
- :belal.tawashi99@gmail.com
-ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Nicolas Coquery:mail
- to:nicolas.coquery@inrae.fr
-DESCRIPTION;LANGUAGE=en-US:──────────\nLyuba Zehl (EBRA
- INS AISBL) is inviting you to a scheduled Zoom meeting.\nJoin Zoom Meeting
- \nhttps://ebrains-eu.zoom.us/j/81893221962?pwd=P8uByj8WlzbYhmAWC0m8hh0lwwd
- sMu.1\n\nMeeting ID: 818 9322 1962\nPasscode: 477301\n\n---\n\nOne tap mob
- ile\n+3215795132\,\,81893221962#\,\,\,\,*477301# Belgium\n+3222909360\,\,8
- 1893221962#\,\,\,\,*477301# Belgium\n\n---\n\nJoin by SIP\n• 81893221962
- @zoomcrc.com\nPasscode: 477301\n\nJoin instructions\nhttps://ebrains-eu.zo
- om.us/meetings/81893221962/invitations?signature=HLqrOGfopeI9hReIg2Zj6z579
- eJucoz9IVKsSEendRo\n\n\n──────────\n
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Urban Marhl:mailto:urban.marhl@imfm.si
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Lyuba Zehl:mailto:Lyuba.Zehl@ebrains.eu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=indos-wg2@listserv.uni-oldenburg.de:mailto:indos-wg2@listserv.uni-oldenburg.de
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Marco Aiello:mailto:marcoaiello1978@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Emel Taşvuran Horata:mailto:ethorata@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Margarida Julià Sapé:mailto:Margarita.Julia@uab.cat
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=SUBHASHIS DAS:mailto:subhashis@usal.es
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jochem Rieger:mailto:jochem.rieger@uni-oldenburg.de
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gabriela Marcu:mailto:gabriela.marcu@ulbsibiu.ro
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Kübra Eren:mailto:kbraren@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jovana Kljajic:mailto:jovana.kljajic18@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ARZU KALYON:mailto:arzu.kalyon@medeniyet.edu.tr
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=basak.guzel@idu.edu.tr:mailto:basak.guzel@idu.edu.tr
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Katarina Stekić Stojanović:mailto:katarinastekic@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Mark Mikkelsen:mailto:mark.mikkelsen@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pawlik Mateusz:mailto:Mateusz.Pawlik@plus.ac.at
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Anđela Šoškić:mailto:a.soskic@outlook.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gökçe Hale Hatay:mailto:g.hale.hatay@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Haris Styliadis:mailto:styliadis@hotmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jan Petr:mailto:jan.honza.petr@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Phillips Christophe:mailto:C.Phillips@uliege.be
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Maria Jesus Mora-Corral:mailto:maria.mora@um.edu.mt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Nurgül Bulut:mailto:nrgl.bulut@hotmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Patricia Clement:mailto:Patricia.Clement@UGent.be
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Małgorzata Wierzba:mailto:m.wierzba@nencki.edu.pl
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gülnihal DENİZ:mailto:gulnihal.deniz@erzurum.edu.tr
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Burcu SIRMATEL:mailto:burcusirmatel@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Belal TAVASHI:mailto:belal.tawashi99@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Nicolas Coquery:mailto:nicolas.coquery@inrae.fr
+DESCRIPTION:announced via the mailing list
 RRULE:FREQ=MONTHLY;BYDAY=1FR;UNTIL=20291230T130000Z
-UID:040000008200E00074C5B7101A82E00800000000D5759600A7BADC01000000000000000
- 010000000C0549C194BFD1442A822D5275B8A242B
+UID:040000008200E00074C5B7101A82E00800000000D5759600A7BADC01000000000000000010000000C0549C194BFD1442A822D5275B8A242B
 SUMMARY;LANGUAGE=en-US:INDoS WG2 Meeting
 DTSTART;TZID=Europe/Paris:20260403T140000
 DTEND;TZID=Europe/Paris:20260403T150000
@@ -290,8 +250,7 @@ DTSTAMP:20260603T161837Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
-LOCATION;LANGUAGE=en-US:https://ebrains-eu.zoom.us/j/81893221962?pwd=P8uByj
- 8WlzbYhmAWC0m8hh0lwwdsMu.1
+LOCATION:announced via the mailing list
 X-MICROSOFT-CDO-APPT-SEQUENCE:4
 X-MICROSOFT-CDO-OWNERAPPTID:2124660274
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
@@ -303,13 +262,9 @@ X-MICROSOFT-DONOTFORWARDMEETING:TRUE
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-X-MICROSOFT-LOCATIONDISPLAYNAME:https://ebrains-eu.zoom.us/j/81893221962?pw
- d=P8uByj8WlzbYhmAWC0m8hh0lwwdsMu.1
+X-MICROSOFT-LOCATIONDISPLAYNAME:announced via the mailing list
 X-MICROSOFT-LOCATIONSOURCE:None
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://ebrains-eu.zoom.us/j/8189322
- 1962?pwd=P8uByj8WlzbYhmAWC0m8hh0lwwdsMu.1"\,"LocationAnnotation":""\,"Loca
- tionUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"
- LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-LOCATIONS:announced via the mailing list
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260604T110216Z

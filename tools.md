@@ -22,7 +22,7 @@ For internal communication we make use of the following mailing lists :
 
 - [indos-all](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-all) for everyone
 - [indos-wg1](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-wg1) for working group 1
-- [indos-wg2](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-sg2) for working group 2
+- [indos-wg2](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-wg2) for working group 2
 - [indos-wg3](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-wg3) for working group 3
 - [indos-wg4](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-wg4) for working group 4
 - [indos-wg5](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-wg5) for working group 5

@@ -1,6 +1,8 @@
 ---
-title: WG3 Training School
+title: Training
 ---
+
+## WG3 Training School
 
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is a
 two-day, in-person working meeting of the INDoS COST Action (CA24161).

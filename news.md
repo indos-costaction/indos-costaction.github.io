@@ -6,7 +6,7 @@ Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) an
 
 ## 27-28 August 2026 - WG3 Training School (Madrid)
 
-Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School — a two-day, in-person working meeting — at the CSIC Campus Serrano in Madrid on 27–28 August 2026. The programme runs across the three WG3 task forces (training materials, the literature review on preprocessing and provenance, and the inventory of tools and workflows), concludes the Federated Journal Club, and closes with an optional co-working session. Attendance is by invitation for registered INDoS members. See the [Training School page](/training-school-2026) for the full programme, venue, and reimbursement details.
+Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School — a two-day, in-person working meeting — at the CSIC Campus Serrano in Madrid on 27–28 August 2026. The programme runs across the three WG3 task forces (training materials, the literature review on preprocessing and provenance, and the inventory of tools and workflows), concludes the Federated Journal Club, and closes with an optional co-working session. Attendance is by invitation for registered INDoS members. See the [Training](/training) page for the full programme, venue, and reimbursement details.
 
 ## 5 July 2026 - Second call for STSM grant applications
 

@@ -37,6 +37,9 @@
 - title: Calendar
   url: /calendar
   match: calendar
+- title: Training School
+  url: /training-school-2026
+  match: training-school-2026
 - title: News
   url: /news
   match: news

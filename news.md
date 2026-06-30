@@ -4,6 +4,10 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## Summer 2026 - Federated Journal Club
+
+Working Group 3 (Automated Preprocessing Pipelines) is launching a **Federated Journal Club**: a summer-long, trainee-driven activity to collaboratively read and critically annotate the neuroimaging-preprocessing literature across nine modalities. Pick up to three papers from a curated pool, annotate them, and climb a live leaderboard; the best-ranked participants are invited to the WG3 Training School in Madrid, and everyone who contributes can co-author the resulting open publication in Aperture Neuro. Open to all interested trainees, with no AI allowed. See the [Federated Journal Club page](/federated-journal-club) for the paper pool, the rules, and how to take part.
+
 ## 15 June 2026 - INDoS Annnual Meeting (aligned with OHBM)
 
 On Monday 15 June we will have our annual meeting at Novotel, located at Avenue Jean Gabriel Domergue, Bordeaux, France. This is a hybrid meeting, INDoS members are also able to attend online. The online link will be sent via the email list. The program for the day is as follows:

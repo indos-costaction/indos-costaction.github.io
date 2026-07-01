@@ -19,9 +19,6 @@
 - title: Calendar
   url: /calendar
   match: calendar
-- title: Journal Club
-  url: /federated-journal-club
-  match: federated-journal-club
 - title: News
   url: /news
   match: news

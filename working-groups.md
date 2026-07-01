@@ -27,7 +27,7 @@ WG2 is dedicated to improving the way neuroimaging data and experimental informa
 - Demonstrator datasets
 - Training materials
 
-## WG3: Automated Preprocessing Pipelines
+## [WG3: Automated Preprocessing Pipelines](/working-groups/wg3)
 
 Preprocessing is a critical step in preparing neuroimaging data for analysis, but current practices are often ad hoc and poorly documented. WG3 aims to standardize and rationalize preprocessing procedures to enhance transparency, reproducibility, and interoperability. Focusing initially on EEG and MEG, this Working Group will define best practices and documentation standards for preprocessing pipelines, drawing on successful examples from MRI. The outcome will be clearer, more reusable pipelines that support consistent and trustworthy analyses across research sites.
 
@@ -36,6 +36,8 @@ Preprocessing is a critical step in preparing neuroimaging data for analysis, bu
 - Inventory of tools and workflows
 - Literature review publications on preprocessing and provenance
 - Training materials
+
+See the [WG3 page](/working-groups/wg3) for its activities, including the [Federated Journal Club](/working-groups/wg3/federated-journal-club).
 
 ## WG4: Ethics, Practices, and Regulations
 

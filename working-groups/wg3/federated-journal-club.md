@@ -2,6 +2,8 @@
 title: Federated Journal Club
 ---
 
+[Working Groups](/working-groups) › [WG3: Automated Preprocessing Pipelines](/working-groups/wg3) › Federated Journal Club
+
 <!-- DRAFT: this page describes an initiative that is being finalised for launch
      in summer 2026. Items marked "to be confirmed" depend on Working Group 3
      sign-off and on the claim/tracking system going live. -->

@@ -5,8 +5,26 @@
   url: /coordination
   match: coordination
 - title: Working Groups
-  url: /working-groups
   match: working-groups
+  children:
+    - title: About
+      url: /working-groups
+      match: working-groups
+    - title: WG1
+      url: /wg1
+      match: wg1
+    - title: WG2
+      url: /wg2
+      match: wg2
+    - title: WG3
+      url: /wg3
+      match: wg3
+    - title: WG4
+      url: /wg4
+      match: wg4
+    - title: WG5
+      url: /wg5
+      match: wg5
 - title: Grants
   url: /grants
   match: grants

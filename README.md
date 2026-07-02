@@ -4,7 +4,7 @@ This repository contains the website for the INDoS COST Action.
 
 ## About
 
-Improving Neuroimaging Data for Sharing (INDoS) is a European [COST Action](https://www.cost.eu) ([CA24161](https://www.cost.eu/actions/CA24148/)) dedicated to transforming how human neuroimaging data is shared, standardized, and reused. The Action develops guidelines, tools, training materials, and best practices for [FAIR](https://www.go-fair.org/fair-principles/) neuroimaging data sharing.
+Improving Neuroimaging Data for Sharing (INDoS) is a European [COST Action](https://www.cost.eu) ([CA24161](https://www.cost.eu/actions/CA24161/)) dedicated to transforming how human neuroimaging data is shared, standardized, and reused. The Action develops guidelines, tools, training materials, and best practices for [FAIR](https://www.go-fair.org/fair-principles/) neuroimaging data sharing.
 
 ## License
 

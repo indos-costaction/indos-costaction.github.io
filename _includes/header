@@ -15,16 +15,47 @@
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           {% assign nav_items = site.data.navigation %}
           {% for item in nav_items %}
-            {% comment %} Determine active state: check page.url or page.path contains item.match {% endcomment %}
-            {% assign is_active = false %}
-            {% if item.match and page.url %}
-              {% if page.url == item.url or page.url contains item.match or page.path contains item.match %}
-                {% assign is_active = true %}
+            {% if item.children %}
+              {% assign is_active = false %}
+              {% if item.match and page.url %}
+                {% if page.url contains item.match or page.path contains item.match %}
+                  {% assign is_active = true %}
+                {% endif %}
               {% endif %}
+              {% for child in item.children %}
+                {% if child.match and page.url %}
+                  {% if page.url == child.url or page.url contains child.match or page.path contains child.match %}
+                    {% assign is_active = true %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle {% if is_active %}active{% endif %}" href="#" id="navbarDropdown{{ forloop.index }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  {{ item.title }}
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{ forloop.index }}">
+                  {% for child in item.children %}
+                    {% assign child_active = false %}
+                    {% if child.match and page.url %}
+                      {% if page.url == child.url or page.url contains child.match or page.path contains child.match %}
+                        {% assign child_active = true %}
+                      {% endif %}
+                    {% endif %}
+                    <li><a class="dropdown-item {% if child_active %}active{% endif %}" href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              {% assign is_active = false %}
+              {% if item.match and page.url %}
+                {% if page.url == item.url or page.url contains item.match or page.path contains item.match %}
+                  {% assign is_active = true %}
+                {% endif %}
+              {% endif %}
+              <li class="nav-item">
+                <a class="nav-link {% if is_active %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              </li>
             {% endif %}
-            <li class="nav-item">
-              <a class="nav-link {% if is_active %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            </li>
           {% endfor %}
         </ul>
       </div>

@@ -4,9 +4,12 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
-## Summer 2026 - Federated Journal Club
+## 4 July 2026 - Federated Journal Club
 
-Working Group 3 (Automated Preprocessing Pipelines) is launching a **Federated Journal Club**: a summer-long, trainee-driven activity to collaboratively read and critically annotate the neuroimaging-preprocessing literature across nine modalities. Pick up to three papers from a curated pool, annotate them, and climb a live leaderboard; the best-ranked participants are invited to the WG3 Training School in Madrid, and everyone who contributes can co-author the resulting open publication in Aperture Neuro. Open to all interested trainees, with no AI allowed. See the [Federated Journal Club page](/working-groups/wg3/federated-journal-club) for the paper pool, the rules, and how to take part.
+WG3 (Automated Preprocessing Pipelines) is launching a
+[**Federated Journal Club**](/wg3#federated-journal-club):
+a trainee-oriented activity to collaboratively read and critically annotate the neuroimaging-preprocessing
+literature across nine modalities, as part of TF2's efforts.
 
 ## 15 June 2026 - INDoS Annnual Meeting (aligned with OHBM)
 

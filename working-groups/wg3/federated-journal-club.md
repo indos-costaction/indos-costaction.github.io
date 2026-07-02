@@ -65,10 +65,10 @@ A few rules keep the pool flowing:
 
 ## Paper pool by topic
 
-The generation-1 pool holds **200 papers** across nine modalities, each seeded from the most-cited review articles and expanded through their key references. The lists below give titles and DOI links only; obtain the papers through your institution's library access.
+The generation-1 pool holds **203 papers** across nine modalities, each seeded from the most-cited review articles and expanded through their key references. The lists below give titles and DOI links only; obtain the papers through your institution's library access.
 
 <details>
-  <summary><strong>EEG</strong> — 29 papers (3 seed reviews)</summary>
+  <summary><strong>EEG</strong> — 30 papers (3 seed reviews)</summary>
   <p><em>Seed reviews (investigated):</em></p>
   <ul>
     <li><a href="https://doi.org/10.1016/j.jneumeth.2020.108961">EEG Integrated Platform Lossless (EEG-IP-L) pre-processing pipeline for objective signal quality assessment incorporating data annotation and blind source separation.</a> — J. Desjardins, 2020</li>
@@ -101,16 +101,17 @@ The generation-1 pool holds **200 papers** across nine modalities, each seeded f
     <li><a href="https://doi.org/10.3389/fnins.2018.00097">The Harvard Automated Processing Pipeline for Electroencephalography (HAPPE): Standardized Processing Software for Developmental and High-Artifact Data</a> — L. J. Gabard-Durnam, 2018</li>
     <li><a href="https://doi.org/10.1016/j.neucli.2016.07.002">Methods for artifact detection and removal from scalp EEG: A review</a> — Md Kafiul Islam, 2016</li>
     <li><a href="https://doi.org/10.1016/j.jneumeth.2015.02.025">A practical guide to the selection of independent components of the electroencephalogram for artifact correction.</a> — Maximilien Chaumon, 2015</li>
-    <li><a href="https://doi.org/10.1038/s41597-019-0104-8">EEG-BIDS, an extension to the brain imaging data structure for electroencephalography</a> — C. Pernet, 2019</li>
     <li><a href="https://doi.org/10.1016/j.clinph.2009.01.015">Semi-automatic identification of independent components representing EEG artifact.</a> — F. C. Viola, 2009</li>
     <li><a href="https://doi.org/10.1038/s41598-023-27528-0">EEG is better left alone</a> — A. Delorme, 2023</li>
     <li><a href="https://doi.org/10.1101/2020.01.29.925271">The Maryland Analysis of Developmental EEG (MADE) Pipeline</a> — R. Debnath, 2020</li>
     <li><a href="https://doi.org/10.1109/tnsre.2014.2346621">FORCe: Fully Online and Automated Artifact Removal for Brain-Computer Interfacing</a> — I. Daly, 2015</li>
+    <li><a href="https://doi.org/10.1038/s41597-023-02525-0">DISCOVER-EEG: an open, fully automated EEG pipeline for biomarker discovery in clinical neuroscience</a> — C. Gil Ávila, 2023</li>
+    <li><a href="https://doi.org/10.3791/68350">PIPEMAT-RS: Development and Validation of a Standardized MATLAB Pipeline for Resting-State EEG Preprocessing.</a> — L. M. Marques, 2025</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>MEG</strong> — 16 papers (3 seed reviews)</summary>
+  <summary><strong>MEG</strong> — 18 papers (3 seed reviews)</summary>
   <p><em>Seed reviews (investigated):</em></p>
   <ul>
     <li><a href="https://doi.org/10.3390/brainsci7060058">A Review of Issues Related to Data Acquisition and Analysis in EEG/MEG Studies</a> — A. Puce, 2017</li>
@@ -135,6 +136,8 @@ The generation-1 pool holds **200 papers** across nine modalities, each seeded f
     <li><a href="https://doi.org/10.1088/0031-9155/51/7/008">Spatiotemporal signal space separation method for rejecting nearby interference in MEG measurements</a> — S. Taulu, 2006</li>
     <li><a href="https://doi.org/10.1007/bf02534144">Signal-space projection method for separating MEG or EEG into components</a> — M. Uusitalo, 1997</li>
     <li><a href="https://doi.org/10.1016/0013-4694(94)90094-9">A multiple source approach to the correction of eye artifacts.</a> — P. Berg, 1994</li>
+    <li><a href="https://doi.org/10.3389/fnins.2019.00284">Brainstorm Pipeline Analysis of Resting-State Data From the Open MEG Archive</a> — G. Niso, 2019</li>
+    <li><a href="https://doi.org/10.3389/fnins.2019.00076">MEG/EEG Group Analysis With Brainstorm</a> — F. Tadel, 2019</li>
   </ul>
 </details>
 

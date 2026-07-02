@@ -5,8 +5,8 @@ title: "WG3: Automated Preprocessing Pipelines"
 [Working Groups](/working-groups) › WG3: Automated Preprocessing Pipelines
 
 Preprocessing is a critical step in preparing neuroimaging data for analysis, but
-current practices are often ad hoc and poorly documented. Working Group 3 aims to
-standardize and rationalize preprocessing procedures to enhance transparency,
+current practices are often *ad hoc* and poorly documented. Working Group 3 (WG3) 
+aims to map out the body of established preprocessing procedures to enhance transparency,
 reproducibility, and interoperability. Focusing initially on EEG and MEG, and drawing
 on established MRI practice, the Group defines best practices and documentation
 standards for preprocessing pipelines. The outcome is clearer, more reusable pipelines
@@ -27,9 +27,8 @@ Institute CSIC).
 ## Activities
 
 - **[Federated Journal Club](/working-groups/wg3/federated-journal-club)** — a
-  summer-long, trainee-driven activity to collaboratively read and critically annotate
-  the neuroimaging-preprocessing literature. It feeds the concluding session of the WG3
-  Training School and produces an open, co-authored publication.
+  summer-long, trainee-oriented activity to collaboratively read and annotate
+  the neuroimaging-preprocessing literature.
 - **WG3 Training School** (Madrid, 27–28 August 2026) — a two-day, in-person working
   meeting across the three task forces.
 

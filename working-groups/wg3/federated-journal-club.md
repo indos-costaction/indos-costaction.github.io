@@ -8,43 +8,50 @@ title: Federated Journal Club
      in summer 2026. Items marked "to be confirmed" depend on Working Group 3
      sign-off and on the claim/tracking system going live. -->
 
-The **Federated Journal Club** is a summer-long, trainee-driven reading activity of
-Working Group 3 (Automated Preprocessing Pipelines). Participants collaboratively
-read and critically annotate the neuroimaging-preprocessing literature across nine
-modalities. The activity feeds the concluding session of the
-**WG3 Training School** and produces an open, co-authored
-publication.
+The **Federated Journal Club** is a summer-long, trainee-oriented scientific reading
+activity of WG3.
+The activity is transversal across the three Task Forces of WG3.
+Participants collaboratively read and critically annotate the neuroimaging literature
+across nine modalities, specifically focusing on preprocessing.
+The activity feeds the concluding session of the **WG3 Training School** and is expected
+to produce an open, co-authored publication.
 
-The goal is simple: keep trainees engaged through the summer and reward those who
-read deeply and finish what they start.
+## How we are federating a Journal Club
 
-> **Status:** launching summer 2026, details being finalised. Claiming and the live
-> leaderboard open through the Journal Club repository (link coming soon).
-
-## What it is
-
-We publish a curated pool of review-seeded preprocessing papers. Any interested
-trainee picks up to three papers, reads each one, and returns it as a **PDF with
-inline annotations** marking what they did not understand, what has been contested
-or superseded since publication, and what matters for the INDoS mission of
-standardized, reproducible, shareable neuroimaging data. Submissions are graded
-against a transparent rubric that drives a live leaderboard, and the best-ranked
-participants are invited to the Training School in Madrid. At the Training School we
-synthesise the annotations into a structured meta-review submitted to **Aperture
-Neuro**, with qualifying participants as co-authors.
+1. We have curated a pool of preprocessing papers across modalities
+   (link will be posted soon).
+2. Interested participants pick up papers from that list (maximum three papers
+   under review by a single participant at any given time).
+   Papers with three reviews will be pulled out from the pool, to ensure reviews
+   do not concentrate in a small subset of papers.
+3. The participant reads their picks and uses a PDF annotation tool to leave
+   inline comments. It is also encouraged that a large comment is made at the end
+   of the paper, wrapping up the most relevant aspects of the paper and the
+   participant's interpretation.
+   Comments are expected to mark what the participant did not understand,
+   what has been contested or superseded since publication,
+   and what matters for the INDoS mission of standardized, reproducible,
+   shareable neuroimaging data.
+4. Participants return their reviewed PDF files making sure all annotations are
+   correctly recorded. Submissions are graded
+5. Reviews are checked against a transparent rubric that drives a live leaderboard,
+   and the best-ranked participants are invited to the Training School in Madrid.
+6. At the Training School we synthesise the annotations into a structured meta-review
+   submitted to **Aperture Neuro**, with qualifying participants as co-authors.
 
 ## Eligibility
 
-The Journal Club is **open to all interested trainees**, and we especially encourage
-early-career researchers and participants from
-[Inclusiveness Target Countries](/grants). You do not need to be a registered INDoS
-member to take part. A free GitHub account is required to claim and track papers
+The Journal Club is **open to all interested practitioners, independenly of their
+geographical location, experience, career stage or INDoS membership**.
+We especially encourage trainees, early-career researchers and participants from
+[Inclusiveness Target Countries](/grants).
+You do not need to be a registered INDoS member to take part.
+A free GitHub account is required to claim and track papers 
 (a short how-to will be provided).
 
 The activity is also the main route into the limited, invitation-based
-**WG3 Training School**: the leaderboard standing in early
-August is a major input to those invitations, alongside COST eligibility and
-country-balance criteria.
+**WG3 Training School**: the leaderboard standing in early August is a major input
+to those invitations, alongside COST eligibility and country-balance criteria.
 
 ## How to participate and request papers
 
@@ -65,7 +72,11 @@ A few rules keep the pool flowing:
 
 ## Paper pool by topic
 
-The generation-1 pool holds **203 papers** across nine modalities, each seeded from the most-cited review articles and expanded through their key references. The lists below give titles and DOI links only; obtain the papers through your institution's library access.
+We have selected **203 papers** across nine modalities, each seeded from the most-cited review
+articles and expanded through their key references.
+The lists below give titles and DOI links only; obtain the papers through your institution's
+library access.
+Should you not be able to access a paper, please contact us and we will send it to you.
 
 <details>
   <summary><strong>EEG</strong> — 30 papers (3 seed reviews)</summary>
@@ -387,8 +398,10 @@ The generation-1 pool holds **203 papers** across nine modalities, each seeded f
 
 ## How to read a neuroimaging paper
 
-You are not summarising the paper. You are reading it critically and leaving notes
-that help the next reader and the Action.
+The goal of reviewing a paper is to critically parse its content, and leave a trace
+of notes/comments that allow someone else understand (i) what the paper is about,
+(ii) strengths and weaknesses of the research, the approach and the text itself;
+(iii) synthesise evidence in the future.
 
 - **Triage first.** Read in this order: title, abstract, figures, methods overview,
   conclusions. Ask: what problem, what data, what processing pipeline, what claim?
@@ -424,15 +437,14 @@ publication:
   reproducibility).
 - **Confirm the no-AI declaration** when you submit.
 
-We never host the papers. You obtain each PDF through your institution, and your
-**annotated PDF is submitted to a private store** visible only to you and the
-organisers. The materials later opened with the publication are the extracted,
+Your **annotated PDF files are submitted to a private store** visible only to the
+organisers. The materials later used in the final publication are the extracted,
 de-identified annotation dataset and methodology, never the copyrighted PDFs.
 
 ## Turning around your assignments
 
 - You have **12 days** to read and return each paper you claim.
-- If a paper is not for you, you can **return it** ("recall") at any time before the
+- If a paper is not for you, you can **return it** at any time before the
   deadline — no penalty. It simply goes back to the pool for someone else.
 - **Partial reviews are not accepted.** If you cannot finish, return the paper rather
   than submit an incomplete review.

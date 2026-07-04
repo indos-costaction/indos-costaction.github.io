@@ -49,7 +49,7 @@ Parameters:
 
     {% if showphoto == "yes" %}
         {% if person.photo %}
-            <p><img src="/assets/images/people/{{ person.photo }}" height=150px></p>
+            <p><img src="{{ person.photo }}" height=150px></p>
         {% else %}
             <p><img src="/assets/images/people/avatar.jpg" height=150px></p>
         {% endif %}

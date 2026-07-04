@@ -24,4 +24,4 @@ The [DC grant application procedure](/assets/docs/Call-for-dissemination-confere
 
 A Short-Term Scientific Mission (STSM) is a visit to a host organization located in a different country by a researcher or innovator to conduct a specific piece of work for a determined period of time. A STSM grantee receives funding for this work within an international team and gains new knowledge or access to equipment or techniques not available in the home institution.
 
-The [STSM grant application procedure](/assets/docs/Call-for-STSMs-2026_final.pdf) explains how you can apply.
+The [STSM grant application procedure](/assets/docs/Call-for-STSMs-2026_v2_final.pdf) explains how you can apply.

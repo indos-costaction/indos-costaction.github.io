@@ -66,6 +66,14 @@
   roles:
     - WG2 co-leader
 
+- id: mateusz
+  fullname: Dr. Mateusz Pawlik
+  affiliation: University of Salzburg, Salzburg, Austria
+  email: mateusz.pawlik@plus.ac.at
+  photo: /assets/images/people/mateusz.jpg
+  roles:
+    - WG2 co-leader
+
 - id: oscar
   fullname: Dr. Oscar Esteban
   affiliation: HES-SO Valais-Wallis, Switzerland
@@ -97,4 +105,3 @@
   photo: /assets/images/people/esin.jpg
   roles:
     - WG5 co-leader
-

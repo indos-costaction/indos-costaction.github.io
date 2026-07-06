@@ -13,3 +13,6 @@ vendor/
 # Gemfile lock
 Gemfile.lock
 
+# pixi environments
+.pixi/*
+!.pixi/config.toml

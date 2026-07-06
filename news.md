@@ -4,6 +4,10 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## 5 July 2026 - Second call for STSM grant applications
+
+We have opened second call to apply for Short-Term Scientific Mission (STSM) grants. The restriction on the host institution has been removed in this call and any institution relevant to INDoS activities is eligible now.  See the [grants](/grants) page for details on how to apply.
+
 ## 4 July 2026 - Federated Journal Club
 
 WG3 (Automated Preprocessing Pipelines) is launching a

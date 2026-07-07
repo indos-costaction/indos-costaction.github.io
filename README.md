@@ -25,6 +25,8 @@ Please note that most website content is formatted in plain [Markdown](https://w
 
 You can build and open the website on your own computer, prior to committing any changes to this repository on GitHub. This allows you to try things out and to check the formatting.
 
+#### Build and try the website
+
 ```bash
 # Install dependencies
 bundle config set --local path 'vendor/bundle'
@@ -35,6 +37,14 @@ bundle exec jekyll serve --incremental --livereload
 ```
 
 Visit `http://localhost:4000` to view the site.
+
+#### Isolated dependencies
+
+You need ruby and jekyll to build the website. If you want to install all dependencies in an isolated environment, you can use [Pixi](https://pixi.prefix.dev/latest/).
+
+To install dependencies from both `pixi.toml` and `Gemfile`, execute `pixi run install`.
+
+To build and serve the website at `http://localhost:4000`, execute `pixi run serve`.
 
 ### Deployment
 

@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Robert Oostenveld <robert.oostenveld@donders.ru.nl>"]
+channels = ["conda-forge"]
+name = "Improving Neuroimaging Data for Sharing"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+install = "bundle config set --local path 'vendor/bundle' && bundle install"
+serve = "bundle exec jekyll serve --incremental --livereload"
+
+[dependencies]
+ruby = ">=4.0.5,<5"
+compilers = ">=1.11.0,<2"
+make = ">=4.4.1,<5"
+pkg-config = ">=0.29.2,<0.30"

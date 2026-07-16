@@ -10,7 +10,7 @@ title: Training
   <figcaption>An artistic impression of the Training School. Illustration generated with Google Gemini (AI).</figcaption>
 </figure>
 
-The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS' first
+The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS's first
 in-person training.
 
 - **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are being

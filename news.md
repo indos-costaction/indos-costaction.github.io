@@ -4,9 +4,13 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
-## Autumn 2026 - WG3 Training School (Madrid) — pre-registration open
+## 16 July 2026 - WG3 Training School in Madrid: pre-registration open
 
-Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School — a 2–3 day, in-person working meeting — at the CSIC Campus Serrano in Madrid in autumn 2026. The programme runs across the three WG3 task forces (training materials, the literature review on preprocessing and provenance, and the inventory of tools and workflows), concludes the Federated Journal Club, and closes with a co-working session. **The date and length are being finalised — pre-register to help us choose and to secure your place** (open to registered INDoS members, around 20–25 places). See the [Training](/training) page for the programme, venue, pre-registration, and reimbursement details.
+Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School — a 2–3 day, in-person **working** meeting — at the CSIC Campus Serrano in Madrid in autumn 2026. Over three task-force blocks, participants build WG3's inventory of preprocessing tools and workflows, agree the scope and protocol of its systematic review of preprocessing and provenance reporting, and plan the Action's preprocessing training materials, closing with an optional hands-on co-working session.
+
+**Travel and subsistence are covered** for eligible participants (COST daily allowance plus travel up to €1,500). Around 20–25 places; anyone may pre-register.
+
+**The date and length are not yet fixed — your pre-registration is what decides them.** [**Pre-register here**](https://limesurvey.hes-so.ch/index.php/236675?lang=en) by **25 July 2026, 01:00 CEST**. See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.
 
 ## 5 July 2026 - Second call for STSM grant applications
 

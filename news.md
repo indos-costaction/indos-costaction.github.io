@@ -6,11 +6,21 @@ Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) an
 
 ## 16 July 2026 - WG3 Training School in Madrid: pre-registration open
 
-Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School — a 2–3 day, in-person **working** meeting — at the CSIC Campus Serrano in Madrid in autumn 2026. Over three task-force blocks, participants build WG3's inventory of preprocessing tools and workflows, agree the scope and protocol of its systematic review of preprocessing and provenance reporting, and plan the Action's preprocessing training materials, closing with an optional hands-on co-working session.
+Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School: a 2–3 day, in-person working meeting.
+It will be held at the CSIC Campus Serrano in Madrid in autumn 2026.
+Participants will continue building WG3's inventory of preprocessing tools and workflows (Task Force 1), and revise the status of the systematic review of preprocessing and provenance reporting (Task Force 2), closing with a hands-on hackathon session.
 
-**Travel and subsistence are covered** for eligible participants (COST daily allowance plus travel up to €1,500). Around 20–25 places; anyone may pre-register.
+**Travel and subsistence are covered** for eligible participants (COST daily allowance plus travel up to €1,500).
+Around 20–25 places; pre-registration is mandatory.
 
-**The date and length are not yet fixed — your pre-registration is what decides them.** [**Pre-register here**](https://limesurvey.hes-so.ch/index.php/236675?lang=en) by **25 July 2026, 01:00 CEST**. See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.
+**The date and length are not yet fixed**.
+We have set up a [**pre-registration form**](https://limesurvey.hes-so.ch/index.php/236675?lang=en)
+to collect the necessary information about you and your availability on five different date options.
+The slot that maximizes attendance will be selected based on the pre-registration.
+For that reason, it is critical that you fill out your pre-registration by **25 July 2026, 01:00 CEST**.
+
+**Program and other details**.
+See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.
 
 ## 5 July 2026 - Second call for STSM grant applications
 

@@ -21,7 +21,7 @@ in-person training.
   <div class="ts-cta__text">
     <p class="ts-cta__eyebrow">Pre-registration open</p>
     <p class="ts-cta__deadline">Closes <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
-    <p class="ts-cta__note">Your availability is what sets the date — it takes a minute.</p>
+    <p class="ts-cta__note">Your availability is what sets the date — it takes 9 minutes (median).</p>
   </div>
   <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/236675?lang=en">Pre-register <span aria-hidden="true">→</span></a>
 </div>

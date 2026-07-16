@@ -221,6 +221,36 @@ body {
   font-weight: 600;
 }
 
+/* Images and figures */
+
+.page-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-content figure {
+  margin: 0 0 1.5rem;
+}
+
+.hero-figure {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.hero-figure img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  display: block;
+}
+
+.page-content figcaption {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #7f8c8d;
+  margin-top: 0.4rem;
+  line-height: 1.4;
+}
+
 /* Embedded, responsive map */
 
 .map-embed {

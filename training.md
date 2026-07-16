@@ -4,6 +4,12 @@ title: Training
 
 ## WG3 Training School
 
+<figure class="hero-figure">
+  <img src="{{ '/assets/images/training-school-web.jpg' | relative_url }}"
+       alt="Illustration of a sunlit Madrid classroom with desks, open human-brain atlases, and a chalkboard bearing the INDoS logo and the words 'INDoS: Improving Neuroimaging Data for Sharing'.">
+  <figcaption>An artistic impression of the Training School. Illustration generated with Google Gemini (AI).</figcaption>
+</figure>
+
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS' first
 in-person training.
 

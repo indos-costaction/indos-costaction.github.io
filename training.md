@@ -1,20 +1,33 @@
 ---
 title: Training
+hide_title: true
 ---
 
-## WG3 Training School (Madrid, autumn 2026; exact dates TBD)
-
-<figure class="hero-figure">
-  <img src="{{ '/assets/images/training-school-web.jpg' | relative_url }}"
-       alt="Illustration of a sunlit Madrid classroom with desks, open human-brain atlases, and a chalkboard bearing the INDoS logo and the words 'INDoS: Improving Neuroimaging Data for Sharing'.">
-  <figcaption>An artistic impression of the Training School. Illustration generated with Google Gemini (AI).</figcaption>
-</figure>
+<header class="ts-hero" role="img"
+        aria-label="Illustration of a sunlit Madrid classroom with desks, open human-brain atlases, and a chalkboard bearing the INDoS logo and the words 'INDoS: Improving Neuroimaging Data for Sharing'.">
+  <div class="ts-hero__scrim"></div>
+  <div class="ts-hero__body">
+    <p class="ts-hero__eyebrow">INDoS · Working Group 3</p>
+    <h1 class="ts-hero__title">Training School</h1>
+    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Pre-register for exact dates!</span></p>
+  </div>
+  <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
+</header>
 
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS's first
 in-person training.
 
-- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are being
-  finalised. **[Pre-register](#pre-registration-intent-to-attend)** to help us choose the date.
+<div class="ts-cta">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Pre-registration open</p>
+    <p class="ts-cta__deadline">Closes <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
+    <p class="ts-cta__note">Your availability is what sets the date — it takes 9 minutes (median).</p>
+  </div>
+  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/236675?lang=en">Pre-register <span aria-hidden="true">→</span></a>
+</div>
+
+- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are still being
+  finalised, and the form above is how we choose them.
 - **Where:** Room COLABORA, Espacio Converge, Campus Serrano del CSIC, c/ Serrano 113 posterior, Madrid, Spain
 - **Who:** Open pre-registration. Around 20–25 places.
 - **Cost:** Nothing to attend, and **travel and subsistence are covered** for eligible

@@ -16,7 +16,7 @@
   <main class="main-content">
     <div class="container">
       <div class="page-content">
-        <h1>{{ page.title }}</h1>
+        {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
         {% if page.redirect %}<h3> Redirecting to <a href="{{ page.redirect }}">{{ page.redirect }}</a> ...</h3>{% endif %}
         {{ content }}
       </div>

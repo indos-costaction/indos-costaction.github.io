@@ -2,7 +2,7 @@
 title: Training
 ---
 
-## WG3 Training School
+## WG3 Training School (Madrid, autumn 2026; exact dates TBD)
 
 <figure class="hero-figure">
   <img src="{{ '/assets/images/training-school-web.jpg' | relative_url }}"

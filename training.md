@@ -20,15 +20,8 @@ Room **COLABORA**, **Espacio Converge**, Campus Serrano del CSIC — C/ Serrano 
 (entrance through the main CSIC Campus gate), 28006 Madrid, Spain.
 
 <div class="map-embed">
-  <iframe
-    title="Map showing Espacio Converge, CSIC Campus Serrano, Calle de Serrano 113, Madrid"
-    src="https://www.google.com/maps?q=Calle%20de%20Serrano%20113%2C%2028006%20Madrid%2C%20Spain&z=16&hl=en&output=embed"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.6433037257525!2d-3.6862125000000003!3d40.441207299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e91f36efad%3A0x22fd33292c016bd2!2sC.%20de%20Serrano%2C%20113%2C%20Chamart%C3%ADn%2C%2028006%20Madrid%2C%20Spain!5e1!3m2!1sen!2sch!4v1784190665485!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
-
-[Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Calle+de+Serrano+113%2C+28006+Madrid%2C+Spain)
 
 ## Programme
 

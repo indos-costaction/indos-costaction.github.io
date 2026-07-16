@@ -9,7 +9,7 @@ hide_title: true
   <div class="ts-hero__body">
     <p class="ts-hero__eyebrow">INDoS · Working Group 3</p>
     <h1 class="ts-hero__title">Training School</h1>
-    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Exact dates being finalised</span></p>
+    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Pre-register for exact dates!</span></p>
   </div>
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
@@ -17,8 +17,17 @@ hide_title: true
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS's first
 in-person training.
 
-- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are being
-  finalised. **[Pre-register](#pre-registration-intent-to-attend)** to help us choose the date.
+<div class="ts-cta">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Pre-registration open</p>
+    <p class="ts-cta__deadline">Closes <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
+    <p class="ts-cta__note">Your availability is what sets the date — it takes a minute.</p>
+  </div>
+  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/236675?lang=en">Pre-register <span aria-hidden="true">→</span></a>
+</div>
+
+- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are still being
+  finalised, and the form above is how we choose them.
 - **Where:** Room COLABORA, Espacio Converge, Campus Serrano del CSIC, c/ Serrano 113 posterior, Madrid, Spain
 - **Who:** Open pre-registration. Around 20–25 places.
 - **Cost:** Nothing to attend, and **travel and subsistence are covered** for eligible

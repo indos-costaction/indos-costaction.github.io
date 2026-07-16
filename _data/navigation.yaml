@@ -28,6 +28,9 @@
 - title: Grants
   url: /grants
   match: grants
+- title: Training
+  url: /training
+  match: training
 - title: Join
   url: /join
   match: join

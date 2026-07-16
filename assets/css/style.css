@@ -171,6 +171,107 @@ body {
   color: #a80a0a;
 }
 
+/* Tables */
+
+.page-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem;
+  font-size: 1rem;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.page-content table th,
+.page-content table td {
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.page-content table thead th {
+  background: var(--logo-blue);
+  color: #fff;
+  font-weight: 600;
+  border-bottom: none;
+}
+
+.page-content table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.page-content table tbody tr:nth-child(even) {
+  background: #f6faf9;
+}
+
+.page-content table tbody tr:hover {
+  background: #eef6f4;
+}
+
+/* Schedule tables: keep the time column tight and legible */
+
+.schedule td:first-child {
+  white-space: nowrap;
+  width: 1%;
+  font-variant-numeric: tabular-nums;
+  color: var(--logo-purple);
+  font-weight: 600;
+}
+
+/* Images and figures */
+
+.page-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-content figure {
+  margin: 0 0 1.5rem;
+}
+
+.hero-figure {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.hero-figure img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  display: block;
+}
+
+.page-content figcaption {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #7f8c8d;
+  margin-top: 0.4rem;
+  line-height: 1.4;
+}
+
+/* Embedded, responsive map */
+
+.map-embed {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  aspect-ratio: 16 / 10;
+  margin: 1rem 0 0.75rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.map-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 /* Coordinator Styles */
 
 .narrow-grid {
@@ -266,5 +367,14 @@ body {
 
   .narrow-grid {
     grid-template-columns: 1fr;
+  }
+
+  .page-content table {
+    font-size: 0.95rem;
+  }
+
+  .page-content table th,
+  .page-content table td {
+    padding: 0.5rem 0.6rem;
   }
 }

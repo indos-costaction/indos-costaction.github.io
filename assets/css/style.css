@@ -232,15 +232,86 @@ body {
   margin: 0 0 1.5rem;
 }
 
-.hero-figure {
-  margin: 0.5rem 0 1.5rem;
+/* Training-school hero: a shallow, dimmed banner with the title overlaid, rather
+   than a full-height image sitting under a separate heading. */
+
+.ts-hero {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: clamp(240px, 40vh, 380px);
+  margin: 0 0 1.75rem;
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url('/assets/images/training-school-web.jpg');
+  background-size: cover;
+  background-position: 50% 32%;   /* keep the desks + chalkboard, crop the ceiling */
+  box-shadow: 0 6px 20px rgba(18, 43, 98, 0.18);
 }
 
-.hero-figure img {
-  width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+/* Dim for legibility: heaviest at the bottom-left where the title sits, so the
+   chalkboard text on the upper-right is never competed with. */
+.ts-hero__scrim {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(10, 20, 45, 0.05) 0%, rgba(10, 20, 45, 0.25) 45%, rgba(8, 16, 38, 0.82) 100%),
+    linear-gradient(90deg, rgba(8, 16, 38, 0.6) 0%, rgba(8, 16, 38, 0) 60%);
+}
+
+/* Text sits after the scrim in the DOM, so it layers on top with no z-index. */
+.ts-hero__body {
+  position: relative;
+  padding: clamp(1.25rem, 3vw, 2.25rem);
+  max-width: 42ch;
+}
+
+.ts-hero__eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--logo-orange);
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.55);
+}
+
+/* Beats the global `.page-content h1` (deep-blue, 2rem) via the extra class. */
+.ts-hero .ts-hero__title {
+  margin: 0 0 0.5rem;
+  color: #fff;
+  font-size: clamp(2.3rem, 6vw, 4rem);
+  line-height: 1.02;
+  letter-spacing: -0.015em;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.45);
+}
+
+.ts-hero__meta {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.94);
+  font-size: clamp(1rem, 2.2vw, 1.2rem);
+  font-weight: 500;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+.ts-hero__meta span {
   display: block;
+  margin-top: 0.15rem;
+  font-size: 0.86em;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+/* Required AI-generation attribution, kept unobtrusive in the corner. */
+.ts-hero__credit {
+  position: absolute;
+  right: 0.7rem;
+  bottom: 0.45rem;
+  margin: 0;
+  font-size: 0.68rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.72);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.65);
 }
 
 .page-content figcaption {

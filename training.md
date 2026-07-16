@@ -1,14 +1,18 @@
 ---
 title: Training
+hide_title: true
 ---
 
-## WG3 Training School (Madrid, autumn 2026; exact dates TBD)
-
-<figure class="hero-figure">
-  <img src="{{ '/assets/images/training-school-web.jpg' | relative_url }}"
-       alt="Illustration of a sunlit Madrid classroom with desks, open human-brain atlases, and a chalkboard bearing the INDoS logo and the words 'INDoS: Improving Neuroimaging Data for Sharing'.">
-  <figcaption>An artistic impression of the Training School. Illustration generated with Google Gemini (AI).</figcaption>
-</figure>
+<header class="ts-hero" role="img"
+        aria-label="Illustration of a sunlit Madrid classroom with desks, open human-brain atlases, and a chalkboard bearing the INDoS logo and the words 'INDoS: Improving Neuroimaging Data for Sharing'.">
+  <div class="ts-hero__scrim"></div>
+  <div class="ts-hero__body">
+    <p class="ts-hero__eyebrow">INDoS · Working Group 3</p>
+    <h1 class="ts-hero__title">Training School</h1>
+    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Exact dates being finalised</span></p>
+  </div>
+  <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
+</header>
 
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS's first
 in-person training.

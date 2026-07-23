@@ -22,6 +22,11 @@ For that reason, it is critical that you fill out your pre-registration by **25 
 **Program and other details**.
 See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.
 
+## 6 July 2026 - INDoS workgroup on "Ethics, practices, and regulations" published a comment on EDPB Guidelines on processing of personal data for scientific research purposes
+
+With the lead of INDoS WG4 members Mireille M Sant, Claude J Bajada, Cyril Pernet, and Jochem Rieger we have published a commentary on the European Data Protection Boards draft for the long awaited [guidelines 1/2026 on processing of personal data for scientific research purposes](https://www.edpb.europa.eu/public-consultations/guidelines-12026-on-processing-of-personal-data-for-scientific-research_en). Our commentary has been published [here](https://www.edpb.europa.eu/system/files/consultation_feedback/1495/feedback_1495_edpb_guidelines_1_2026_consultation_response.pdf) and was signed by 109 co-signatories from 26 countries from within and oustside the INDoS network. 
+In general we appreciate that the EDPB formulates recommendation specific for the exemptions for scientific research in GDPR. However, we also fear that unclear definitions and unnecessary multiplication of checks might lead to procedures and requiremnts that exceed the capacity and resources of research instiutions. Importantly, we suggest to limit the scope of the recommendations to GDPR specific regulations and to remove recommendations that cover external areas covered typically by IRBs (e.g. safeguards) or interfere with freedom of research guaranteed by  Article 13 of the EU Charter of Fundamental Rights and the constitutions of most European countries. 
+
 ## 5 July 2026 - Second call for STSM grant applications
 
 We have opened second call to apply for Short-Term Scientific Mission (STSM) grants. The restriction on the host institution has been removed in this call and any institution relevant to INDoS activities is eligible now.  See the [grants](/grants) page for details on how to apply.

@@ -4,6 +4,18 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## 26 July 2026 - WG3 Training School: pre-registration closed
+
+Pre-registration for the [WG3 Training School](/training) in Madrid closed on **25 July 2026, 01:00 CEST**.
+Thank you to everyone who pre-registered: your availability is what decides both the date and the length of the meeting.
+
+**What happens next.** We are now fixing the final date and format from the responses.
+As soon as they are set we will announce them here and on the [Training](/training) page, and registration will open.
+Everyone who marked the chosen date as *Yes* or *If need be* moves from pre-registered to registered, subject to capacity and in priority order.
+
+**Did not pre-register?** You can still register once the date is announced, seats permitting; you simply join the back of the queue.
+Write to [oscar.esteban@hes-so.ch](mailto:oscar.esteban@hes-so.ch) to be added.
+
 ## 16 July 2026 - WG3 Training School in Madrid: pre-registration open
 
 Working Group 3 (Automated Preprocessing Pipelines) will hold its first Training School: a 2–3 day, in-person working meeting.
@@ -14,10 +26,10 @@ Participants will continue building WG3's inventory of preprocessing tools and w
 Around 20–25 places; pre-registration is mandatory.
 
 **The date and length are not yet fixed**.
-We have set up a [**pre-registration form**](https://limesurvey.hes-so.ch/index.php/236675?lang=en)
+We had set up a <span class="link-disabled" aria-disabled="true">**pre-registration form**</span>
 to collect the necessary information about you and your availability on five different date options.
 The slot that maximizes attendance will be selected based on the pre-registration.
-For that reason, it is critical that you fill out your pre-registration by **25 July 2026, 01:00 CEST**.
+<strong>Pre-registration closed on 25 July 2026, 01:00&nbsp;CEST</strong> and the form no longer accepts responses.
 
 **Program and other details**.
 See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.

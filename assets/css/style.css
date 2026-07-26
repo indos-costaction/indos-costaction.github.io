@@ -398,6 +398,51 @@ body {
   outline-offset: 3px;
 }
 
+/* Closed state — the same block, drained of colour so it reads as a spent action
+   rather than an invitation. The button keeps its shape but loses its affordances. */
+.ts-cta--closed {
+  background: linear-gradient(180deg, #f6f6f7 0%, #eeeeef 100%);
+  border-color: #dcdcdf;
+  border-left-color: #9a9aa1;
+}
+
+.ts-cta--closed .ts-cta__eyebrow,
+.ts-cta--closed .ts-cta__deadline {
+  color: #6d6d75;
+}
+
+.ts-cta--closed .ts-cta__note {
+  color: #82828a;
+}
+
+.ts-cta--closed .ts-cta__button,
+.ts-cta--closed .ts-cta__button:hover,
+.ts-cta--closed .ts-cta__button:focus-visible {
+  background: #d4d4d9;
+  color: #63636b;
+  box-shadow: none;
+  transform: none;
+  cursor: not-allowed;
+  outline: none;
+}
+
+.ts-cta--closed .ts-cta__button:hover span {
+  transform: none;
+}
+
+/* Disabled inline links — kept in place so the reader sees what *was* there. */
+.link-disabled,
+.page-content .link-disabled {
+  color: #8b8b93;
+  text-decoration: line-through;
+  text-decoration-color: #b6b6bd;
+  cursor: not-allowed;
+}
+
+.page-content p.link-disabled {
+  margin-bottom: 0.4rem;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .ts-cta .ts-cta__button,
   .ts-cta .ts-cta__button span {

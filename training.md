@@ -9,7 +9,7 @@ hide_title: true
   <div class="ts-hero__body">
     <p class="ts-hero__eyebrow">INDoS · Working Group 3</p>
     <h1 class="ts-hero__title">Training School</h1>
-    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Pre-register for exact dates!</span></p>
+    <p class="ts-hero__meta">Madrid · Autumn 2026 <span>Pre-registration closed · dates to be announced</span></p>
   </div>
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
@@ -17,19 +17,19 @@ hide_title: true
 The Working Group 3 (Automated Preprocessing Pipelines) Training School is the INDoS's first
 in-person training.
 
-<div class="ts-cta">
+<div class="ts-cta ts-cta--closed">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Pre-registration open</p>
-    <p class="ts-cta__deadline">Closes <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
-    <p class="ts-cta__note">Your availability is what sets the date — it takes 9 minutes (median).</p>
+    <p class="ts-cta__eyebrow">Pre-registration closed</p>
+    <p class="ts-cta__deadline">Closed <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
+    <p class="ts-cta__note">Thanks to everyone who responded. We are now fixing the date from your availability.</p>
   </div>
-  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/236675?lang=en">Pre-register <span aria-hidden="true">→</span></a>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Pre-registration closed <span aria-hidden="true">✕</span></span>
 </div>
 
-- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are still being
-  finalised, and the form above is how we choose them.
+- **When:** A meeting of **2 or 3 days** in **autumn 2026** — the date and length are being
+  finalised from the pre-registration responses, and will be announced here.
 - **Where:** Room COLABORA, Espacio Converge, Campus Serrano del CSIC, c/ Serrano 113 posterior, Madrid, Spain
-- **Who:** Open pre-registration. Around 20–25 places.
+- **Who:** Pre-registration is closed. Around 20–25 places.
 - **Cost:** Nothing to attend, and **travel and subsistence are covered** for eligible
   participants — see [Reimbursement](#reimbursement).
 
@@ -84,26 +84,24 @@ it becomes a full Day 3 and the concluding wrap-up moves to the end.
 
 ## Pre-registration (intent to attend)
 
-**[→ Pre-register here](https://limesurvey.hes-so.ch/index.php/236675?lang=en)** — by
-**25 July 2026, 01:00 CEST**.
+<p class="link-disabled" aria-disabled="true">→ Pre-register here</p>
 
-The date and length of the meeting are **not yet fixed**, and the pre-registration form is how we
-choose them.
+**Pre-registration closed on 25 July 2026, 01:00 CEST**; the form no longer accepts responses.
+
+The date and length of the meeting are being fixed from the responses, and will be announced on
+this page and on the [News](/news) page.
 There are around **20–25 places** (we may be able to welcome more if resources permit).
 
-- You score several **candidate dates** as *Yes / If need be / No*, and say whether you'd prefer
-  a **2-day or 3-day** event.
+- Pre-registrants scored several **candidate dates** as *Yes / If need be / No*, and said whether
+  they'd prefer a **2-day or 3-day** event.
 - Once the organisers pick the final date, **everyone who marked it *Yes* or *If need be* is moved
   from pre-registered to registered** (subject to capacity, in priority order).
-- If you didn't pick the chosen date, you can **still register afterwards** — you simply join the
-  back of the queue.
-
-Because marking a slot *Yes* or *If need be* is what decides the date, please only mark slots you
-could genuinely make.
+- If you did not pre-register, or didn't pick the chosen date, you can **still register afterwards**
+  — you simply join the back of the queue.
 
 ### Who can take part
 
-**Anyone may pre-register.** To have your costs reimbursed you need to be a registered INDoS
+To have your costs reimbursed you need to be a registered INDoS
 member with an affiliation in a COST Member, Near-Neighbour, or International Partner Country —
 see [Reimbursement](#reimbursement). Not yet a member? [Joining INDoS](/join) is free and takes a
 few minutes; do it before the event to be reimbursable. If your affiliation falls outside the
@@ -114,8 +112,8 @@ oversubscribed, registered WG3 members have priority.
 > separate from e-COST. Reimbursement requires INDoS membership and an **e-COST invitation** that
 > you accept. The local organiser issues these **after** the date is fixed.
 
-Need to change or withdraw your pre-registration? Email
-[oscar.esteban@hes-so.ch](mailto:oscar.esteban@hes-so.ch) before the deadline.
+Need to change or withdraw your pre-registration, or want to be added to the queue? Email
+[oscar.esteban@hes-so.ch](mailto:oscar.esteban@hes-so.ch).
 
 ## Reimbursement
 

@@ -74,6 +74,23 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 └── _config.yml
 ```
 
+### Open source libraries and services
+
+The website is built with the following open source libraries, tools, and services:
+
+| Library / Service | License | Purpose |
+| --- | --- | --- |
+| [Jekyll](https://jekyllrb.com) | MIT | Static site generator |
+| [Leaflet](https://leafletjs.com) | BSD-2-Clause | Interactive maps |
+| [OpenStreetMap](https://www.openstreetmap.org) | ODbL | Map tile data |
+| [Bootstrap](https://getbootstrap.com) | MIT | CSS framework and responsive components |
+| [Plausible](https://plausible.io) | AGPL-3.0 | Self-hosted privacy-friendly web analytics |
+| [Pixi](https://pixi.prefix.dev) | BSD-3-Clause | Isolated package/environment management |
+| [Ruby](https://www.ruby-lang.org) | BSD | Programming language |
+| [Bundler](https://bundler.io) | MIT | Ruby dependency management |
+| [GitHub Pages](https://pages.github.com) | — | Static site hosting and deployment |
+| [GitHub Actions](https://github.com/features/actions) | — | CI/CD for automated calendar sync |
+
 ### Adding Pages
 
 1. Create `.md` file with front matter, followed by Markdown formatted content:

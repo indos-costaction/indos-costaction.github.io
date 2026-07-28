@@ -1,0 +1,182 @@
+- id: donders
+  name: Donders Institute for Brain, Cognition and Behaviour
+  university: Radboud University Nijmegen
+  city: Nijmegen
+  country: Netherlands
+  lat: 51.826019
+  lon: 5.863352
+  contact_name: Dr. Robert Oostenveld
+  contact_email: robert.oostenveld@donders.ru.nl
+  website: https://www.donders.ru.nl
+  research_areas:
+    - MEG
+    - EEG
+    - MRI
+    - Open science tools
+
+- id: cajal
+  name: Cajal Institute
+  university: Spanish National Research Council (CSIC)
+  city: Madrid
+  country: Spain
+  lat: 40.4412
+  lon: -3.6862
+  contact_name: Dr. Guiomar Niso
+  contact_email: guiomar.niso@cajal.csic.es
+  website: https://cajal.csic.es
+  research_areas:
+    - MEG
+    - EEG
+    - Neuroimaging methods
+
+- id: oldenburg
+  name: Department of Neuroscience
+  university: University of Oldenburg
+  city: Oldenburg
+  country: Germany
+  lat: 53.1443
+  lon: 8.2144
+  contact_name: Prof. Jochem Rieger
+  contact_email: jochem.rieger@uni-oldenburg.de
+  website: https://www.uni-oldenburg.de/neurowissenschaft
+  research_areas:
+    - EEG
+    - Auditory neuroscience
+    - Open science
+
+- id: ceitec
+  name: Central European Institute of Technology (CEITEC)
+  university: Masaryk University
+  city: Brno
+  country: Czechia
+  lat: 49.2095
+  lon: 16.5855
+  contact_name: Dr. Michal Mikl
+  contact_email: michal.mikl@ceitec.muni.cz
+  website: https://www.ceitec.cz
+  research_areas:
+    - MRI
+    - EEG
+    - Brain imaging
+
+- id: hesso-valais
+  name: axonlab
+  university: HES-SO Valais-Wallis
+  city: Sion
+  country: Switzerland
+  lat: 46.2333
+  lon: 7.3500
+  contact_name: Dr. Oscar Esteban
+  contact_email: oscar.esteban@hes-so.ch
+  website: https://www.axonlab.org
+  research_areas:
+    - MRI
+    - Preprocessing pipelines
+    - BIDS
+    - Open science tools
+
+- id: inria-rennes
+  name: Empenn EPI Team
+  university: Inria, Université Rennes, CNRS, Inserm
+  city: Rennes
+  country: France
+  lat: 48.1175
+  lon: -1.6772
+  contact_name: Dr. Camille Maumet
+  contact_email: camille.maumet@inria.fr
+  website: https://team.inria.fr/empenn
+  research_areas:
+    - MRI
+    - FAIR data
+    - Ontologies
+    - Open science
+
+- id: ebbrains
+  name: EBRAINS AISBL
+  university: EBRAINS
+  city: Brussels
+  country: Belgium
+  lat: 50.8500
+  lon: 4.3517
+  contact_name: Dr. Lyuba Zehl
+  contact_email: lyuba.zehl@ebrains.eu
+  website: https://ebrains.eu
+  research_areas:
+    - Brain atlases
+    - Data infrastructure
+    - FAIR data
+
+- id: ljubljana
+  name: Faculty of Mathematics and Physics
+  university: University of Ljubljana
+  city: Ljubljana
+  country: Slovenia
+  lat: 46.0500
+  lon: 14.5058
+  contact_name: Dr. Urban Marhl
+  contact_email: urban.marhl@imfm.si
+  website: https://www.fmf.uni-lj.si
+  research_areas:
+    - Biophysics
+    - Data management
+    - Neuroimaging
+
+- id: belgrade
+  name: Department of Biophysics
+  university: University of Belgrade
+  city: Belgrade
+  country: Serbia
+  lat: 44.8176
+  lon: 20.4633
+  contact_name: Dr. Anđela Šoškić
+  contact_email: andjela.soskic@f.bg.ac.rs
+  website: https://www.bg.ac.rs
+  research_areas:
+    - EEG
+    - BIDS
+    - Metadata standards
+
+- id: salzburg
+  name: Division of Neuroscience
+  university: University of Salzburg
+  city: Salzburg
+  country: Austria
+  lat: 47.8005
+  lon: 13.0440
+  contact_name: Dr. Mateusz Pawlik
+  contact_email: mateusz.pawlik@plus.ac.at
+  website: https://www.plus.ac.at
+  research_areas:
+    - MRI
+    - BIDS
+    - Tool development
+
+- id: incf
+  name: INCF International Neuroinformatics Coordinating Facility
+  university: Karolinska Institutet
+  city: Stockholm
+  country: Sweden
+  lat: 59.3484
+  lon: 18.0244
+  contact_name: Mathew Birdsall Abrams
+  contact_email: mathew.abrams@incf.org
+  website: https://www.incf.org
+  research_areas:
+    - Neuroinformatics
+    - Standards
+    - Data sharing infrastructure
+
+- id: bogazici
+  name: Department of Biomedical Engineering
+  university: Bogazici University
+  city: Istanbul
+  country: Turkey
+  lat: 41.0837
+  lon: 29.0507
+  contact_name: Prof. Esin Ozturk-Isik
+  contact_email: esin.ozturk@boun.edu.tr
+  website: https://www.boun.edu.tr
+  research_areas:
+    - MRI
+    - Brain tumor imaging
+    - Metabolomics

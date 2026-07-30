@@ -430,6 +430,24 @@ body {
   transform: none;
 }
 
+/* Status variant — neither an invitation nor a spent action, but a statement of
+   where the process stands. Deliberately buttonless: there is nothing to click
+   yet, and a third dead grey button stacked under the closed one would read as a
+   second broken affordance rather than as information. */
+.ts-cta--status {
+  background: linear-gradient(180deg, #f2fbf9 0%, #e8f6f3 100%);
+  border-color: #cfe9e3;
+  border-left-color: var(--logo-turquoise);
+}
+
+.ts-cta--status .ts-cta__eyebrow {
+  color: #2f7d70;
+}
+
+.ts-cta--status .ts-cta__note {
+  color: #4a5a57;
+}
+
 /* Disabled inline links — kept in place so the reader sees what *was* there. */
 .link-disabled,
 .page-content .link-disabled {

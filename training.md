@@ -58,7 +58,7 @@ Room **COLABORA**, **Espacio Converge**, Campus Serrano del CSIC — C/ Serrano 
 The meeting is a **working** meeting, not a lecture series: three task-force blocks in which
 participants build the Group's outputs together, plus a hands-on session.
 
-### Day 1 — Wednesday 30 September
+### Day 1 — Wednesday 30th September
 
 | Time | Session |
 |---|---|
@@ -72,7 +72,7 @@ participants build the Group's outputs together, plus a hands-on session.
 | 16:00 – 18:00 | Task Force 2 (Literature review): review protocol and reviewer assignment |
 {: .schedule}
 
-### Day 2 — Thursday 1 October
+### Day 2 — Thursday 1st October
 
 | Time | Session |
 |---|---|
@@ -83,7 +83,7 @@ participants build the Group's outputs together, plus a hands-on session.
 | 14:00 – 18:00 | Task Force 1 continued: the D3.1 outline, and preparation for the hands-on day |
 {: .schedule}
 
-### Day 3 — Friday 2 October
+### Day 3 — Friday 2nd October
 
 | Time | Session |
 |---|---|
@@ -99,9 +99,9 @@ participants build the Group's outputs together, plus a hands-on session.
 
 | when | what |
 |---|---|
-| **6 August 2026** | Availability confirmations close |
-| **7 August** | The selection runs |
-| **by 14 August** | All e-COST invitations of pre-registered attendees are issued |
+| **6 August 2026** | Potential atendees' availability confirmation close |
+| **7 August** | Atendees selection runs |
+| **by 14 August** | e-COST invitations of selected pre-registered attendees are issued |
 | **30 September – 2 October** | The Training School |
 | **3 October – 14 October** | Reimbursement requests must be filed |
 

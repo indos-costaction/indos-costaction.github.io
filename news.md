@@ -6,7 +6,7 @@ Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) an
 
 ## 30 July 2026 - WG3 Training School: dates confirmed, 30 September – 2 October in Madrid
 
-The [WG3 Training School](/training) will be held on **Wednesday 30 September to Friday 2 October 2026** at the CSIC Campus Serrano in Madrid.
+The [WG3 Training School](/training) will be held on **Wednesday 30 September to Friday 2 October 2026** at the Spanish National Research Council CSIC Campus Serrano in Madrid.
 
 ## 26 July 2026 - WG3 Training School: pre-registration closed
 

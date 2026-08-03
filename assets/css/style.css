@@ -505,6 +505,56 @@ body {
 
 /* Coordinator Styles */
 
+/* Person photos: force a uniform size regardless of the source image's
+   aspect ratio, cropping to fit. */
+.person-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+/* Person roles: compact, bullet-free list in a smaller distinct font. */
+.person-roles {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #7f8c8d;
+  line-height: 1.3;
+  list-style: none;
+}
+
+/* Coordination page: filter buttons to show members by role. */
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.75rem 0 1rem;
+}
+
+.filter-btn {
+  padding: 0.45rem 1.1rem;
+  border: 1px solid #d4d9df;
+  border-radius: 20px;
+  background: #fff;
+  color: #34495e;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.filter-btn:hover {
+  border-color: var(--logo-purple);
+  color: var(--logo-purple);
+}
+
+.filter-btn.active {
+  background: var(--logo-purple);
+  border-color: var(--logo-purple);
+  color: #fff;
+}
+
 .narrow-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

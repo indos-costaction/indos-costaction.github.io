@@ -4,6 +4,7 @@
   email: jochem.rieger@uni-oldenburg.de
   photo: /assets/images/people/jochem.jpg
   roles:
+    - Core Group
     - Action chair
     - WG4 co-leader
 
@@ -13,8 +14,10 @@
   email: guiomar.niso@cajal.csic.es
   photo: /assets/images/people/guiomar.jpg
   roles:
+    - Core Group
     - Action vice-chair
     - WG3 co-leader
+    - Management Committee
 
 - id: urban
   fullname: Dr. Urban Mahrl
@@ -22,7 +25,9 @@
   email: urban.marhl@imfm.si
   photo: /assets/images/people/urban.jpg
   roles:
+    - Core Group
     - Grant holder scientific representative
+    - Management Committee
 
 - id: mojca
   fullname: M.Sc. Mojca Premuš
@@ -30,6 +35,7 @@
   email: mojca.premus@fgg.uni-lj.si
   photo: /assets/images/people/mojca.jpg
   roles:
+    - Core Group
     - Grant holder manager
 
 - id: michal
@@ -38,8 +44,10 @@
   email: michal.mikl@ceitec.muni.cz
   photo: /assets/images/people/michal.jpg
   roles:
+    - Core Group
     - Grant awarding coordinator
     - WG1 co-leader
+    - Management Committee
 
 - id: robert
   fullname: Dr. Robert Oostenveld
@@ -47,8 +55,10 @@
   email: robert.oostenveld@donders.ru.nl
   photo: /assets/images/people/robert.jpg
   roles:
+    - Core Group
     - Science communication coordinator
     - WG1 leader
+    - Management Committee
 
 - id: lyuba
   fullname: Dr. Lyuba Zehl
@@ -56,7 +66,46 @@
   email: lyuba.zehl@ebrains.eu
   photo: /assets/images/people/lyuba.jpg
   roles:
+    - Core Group
     - WG2 leader
+
+- id: oscar
+  fullname: Dr. Oscar Esteban
+  affiliation: HES-SO Valais-Wallis, Switzerland
+  email: oscar.esteban@hes-so.ch
+  photo: https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg
+  roles:
+    - Core Group
+    - WG3 leader
+    - Management Committee
+
+- id: camille
+  fullname: Dr. Camille Maumet
+  affiliation: Inria, Université Rennes, CNRS, Inserm, France
+  email: camille.maumet@inria.fr
+  photo: /assets/images/people/camille.jpg
+  roles:
+    - Core Group
+    - WG4 leader
+    - Management Committee
+
+- id: mathew
+  fullname: Mathew Birdsall Abrams, Ph.D. MPH
+  affiliation: INCF, Stockholm, Sweden
+  email: mathew.abrams@incf.org
+  photo: /assets/images/people/mathew.jpg
+  roles:
+    - Core Group
+    - WG5 leader
+
+- id: karel
+  fullname: Dr. Karel Mauricio Lopez Vilaret
+  affiliation: Carl von Ossietzky University Oldenburg, Oldenburg, Germany
+  email: karel.mauricio.lopez.vilaret@uni-oldenburg.de
+  photo: /assets/images/people/karel.jpg
+  roles:
+    - WG1 co-leader
+    - Management Committee
 
 - id: andjela
   fullname: Dr. Anđela Šoškić
@@ -65,6 +114,7 @@
   photo: /assets/images/people/andjela.jpg
   roles:
     - WG2 co-leader
+    - Management Committee
 
 - id: mateusz
   fullname: Dr. Mateusz Pawlik
@@ -73,30 +123,7 @@
   photo: /assets/images/people/mateusz.jpg
   roles:
     - WG2 co-leader
-
-- id: oscar
-  fullname: Dr. Oscar Esteban
-  affiliation: HES-SO Valais-Wallis, Switzerland
-  email: oscar.esteban@hes-so.ch
-  photo: https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg
-  roles:
-    - WG3 leader
-  
-- id: camille
-  fullname: Dr. Camille Maumet
-  affiliation: Inria, Université Rennes, CNRS, Inserm, France
-  email: camille.maumet@inria.fr
-  photo: /assets/images/people/camille.jpg
-  roles:
-    - WG4 leader
-
-- id: mathew
-  fullname: Mathew Birdsall Abrams, Ph.D. MPH
-  affiliation: INCF, Stockholm, Sweden
-  email: mathew.abrams@incf.org
-  photo: /assets/images/people/mathew.jpg
-  roles:
-    - WG5 leader
+    - Management Committee
 
 - id: esin
   fullname: Prof. Esin Ozturk-Isik
@@ -105,3 +132,192 @@
   photo: /assets/images/people/esin.jpg
   roles:
     - WG5 co-leader
+    - Management Committee
+
+- id: adina
+  fullname: Dr. Adina Wagner
+  affiliation: Forschungszentrum Jülich, Jülich, Germany
+  email: a.wagner@fz-juelich.de
+  photo: /assets/images/people/adina.jpg
+  roles:
+    - Management Committee
+
+- id: adrian
+  fullname: Dr. Adrian Iftene
+  affiliation: Alexandru Ioan Cuza University of Iasi, Iasi, Romania
+  email: adiftene@info.uaic.ro
+  photo: /assets/images/people/adrian.jpg
+  roles:
+    - Management Committee
+
+- id: alexandros
+  fullname: Dr. Alexandros Karakasidis
+  affiliation: University of Macedonia, Thessaloniki, Greece
+  email: a.karakasidis@uom.edu.gr
+  roles:
+    - Management Committee
+
+- id: aurimas
+  fullname: Mr. Aurimas Mockevicius
+  affiliation: Vilnius University, Life Sciences Center, Vilnius, Lithuania
+  email: aurimas.mockevicius@gmc.stud.vu.lt
+  photo: /assets/images/people/aurimas.jpg
+  roles:
+    - Management Committee
+
+- id: branislav
+  fullname: Mr. Branislav Gerazov
+  affiliation: Ss. Cyril and Methodius University in Skopje, Skopje, North Macedonia
+  email: gerazov@feit.ukim.edu.mk
+  photo: /assets/images/people/branislav.jpg
+  roles:
+    - Management Committee
+
+- id: claude
+  fullname: Dr. Claude Bajada
+  affiliation: University of Malta, Msida, Malta
+  email: claude.bajada@um.edu.mt
+  photo: /assets/images/people/claude.jpg
+  roles:
+    - Management Committee
+
+- id: dafina
+  fullname: Prof. Dafina Xhako
+  affiliation: Polytechnic University of Tirana, Tirana, Albania
+  email: dxhako@fim.edu.al
+  photo: /assets/images/people/dafina.jpg
+  roles:
+    - Management Committee
+
+- id: damian
+  fullname: Dr. Damian Eke
+  affiliation: University of Nottingham, Nottingham, United Kingdom
+  email: damian.eke@nottingham.ac.uk
+  photo: /assets/images/people/damian.jpg
+  roles:
+    - Management Committee
+
+- id: danisia
+  fullname: Prof. Danisia Haba
+  affiliation: University of Medicine and Pharmacy "Grigore T. Popa" Iasi, Iasi, Romania
+  email: danisia.haba@umfiasi.ro
+  photo: /assets/images/people/danisia.jpg
+  roles:
+    - Management Committee
+
+- id: dinko
+  fullname: Prof. Dinko Mitrecic
+  affiliation: University of Zagreb, School of Medicine, Zagreb, Croatia
+  email: dinko.mitrecic@mef.hr
+  photo: /assets/images/people/dinko.jpg
+  roles:
+    - Management Committee
+
+- id: eva
+  fullname: Dr. Eva Pettemeridou
+  affiliation: University of Limassol, Limassol, Cyprus
+  email: eva.pettemeridou@uol.ac.cy
+  photo: /assets/images/people/eva.jpg
+  roles:
+    - Management Committee
+
+- id: gabriela
+  fullname: Dr. Gabriela Novotni
+  affiliation: Faculty of Medicine, Ss. Cyril and Methodius University, Skopje, North Macedonia
+  email: gabinovotni@gmail.com
+  roles:
+    - Management Committee
+
+- id: malgorzata
+  fullname: Dr. Malgorzata Wierzba
+  affiliation: Nencki Institute, Polish Academy of Sciences, Warsaw, Poland
+  email: m.wierzba@nencki.edu.pl
+  photo: /assets/images/people/malgorzata.jpg
+  roles:
+    - Management Committee
+
+- id: marco
+  fullname: Dr. Marco Aiello
+  affiliation: Synlab SDN, Naples, Italy
+  email: marco.aiello@synlab.it
+  photo: /assets/images/people/marco.jpg
+  roles:
+    - Management Committee
+
+- id: marek
+  fullname: Dr. Marek Bundzel
+  affiliation: Technical University of Kosice, Kosice, Slovakia
+  email: marek.bundzel@tuke.sk
+  photo: /assets/images/people/marek.jpg
+  roles:
+    - Management Committee
+
+- id: milica
+  fullname: Prof. Milica Jankovic
+  affiliation: School of Electrical Engineering, University of Belgrade, Belgrade, Serbia
+  email: piperski@etf.bg.ac.rs
+  photo: /assets/images/people/milica.jpg
+  roles:
+    - Management Committee
+
+- id: mireille
+  fullname: Dr. Mireille Sant
+  affiliation: University of Malta, Msida, Malta
+  email: mireille.caruana@um.edu.mt
+  photo: /assets/images/people/mireille.jpg
+  roles:
+    - Management Committee
+
+- id: nicolas
+  fullname: Dr. Nicolas Coquery
+  affiliation: INRAE, Rennes, France
+  email: nicolas.coquery@inrae.fr
+  photo: /assets/images/people/nicolas.jpg
+  roles:
+    - Management Committee
+
+- id: niko
+  fullname: Prof. Niko Hyka
+  affiliation: University of Medicine Tirana, Tirana, Albania
+  email: niko.hyka@umed.edu.al
+  roles:
+    - Management Committee
+
+- id: noora
+  fullname: Dr. Noora Tuovinen
+  affiliation: Medical University of Innsbruck, Innsbruck, Austria
+  email: noora.tuovinen@i-med.ac.at
+  photo: /assets/images/people/noora.jpg
+  roles:
+    - Management Committee
+
+- id: patricia
+  fullname: Ms. Patricia Clement
+  affiliation: Ghent University, Ghent, Belgium
+  email: patricia.clement@ugent.be
+  photo: /assets/images/people/patricia.jpg
+  roles:
+    - Management Committee
+
+- id: pinar
+  fullname: Dr. Pınar Şenay Özbay
+  affiliation: Bogazici University, Istanbul, Turkey
+  email: pinar.ozbay@boun.edu.tr
+  photo: /assets/images/people/pinar.jpg
+  roles:
+    - Management Committee
+
+- id: sebastien
+  fullname: Prof. Sebastien Jodogne
+  affiliation: Université catholique de Louvain, Louvain-la-Neuve, Belgium
+  email: sebastien.jodogne@uclouvain.be
+  photo: /assets/images/people/sebastien.jpg
+  roles:
+    - Management Committee
+
+- id: sinisa
+  fullname: Prof. Sinisa Ristic
+  affiliation: Faculty of Medicine Foca, University of East Sarajevo, Foca, Bosnia and Herzegovina
+  email: risticsinisa@yahoo.com
+  roles:
+    - Management Committee

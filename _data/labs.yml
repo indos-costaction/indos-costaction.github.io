@@ -180,3 +180,362 @@
     - MRI
     - Brain tumor imaging
     - Metabolomics
+
+- id: julich-inm7
+  name: Institute of Neuroscience and Medicine (INM-7)
+  university: Forschungszentrum Jülich
+  city: Jülich
+  country: Germany
+  lat: 50.9224
+  lon: 6.3611
+  contact_name: Dr. Adina Wagner
+  contact_email: a.wagner@fz-juelich.de
+  website: https://www.fz-juelich.de/en/inm/inm-7
+  research_areas:
+    - Neuroinformatics
+    - Research data management
+    - Open science
+
+- id: uaic
+  name: Faculty of Computer Science
+  university: Alexandru Ioan Cuza University of Iasi
+  city: Iasi
+  country: Romania
+  lat: 47.1585
+  lon: 27.6014
+  contact_name: Dr. Adrian Iftene
+  contact_email: adiftene@info.uaic.ro
+  website: https://www.info.uaic.ro
+  research_areas:
+    - Artificial intelligence
+    - Natural language processing
+    - Computer vision
+
+- id: uom
+  name: Department of Applied Informatics
+  university: University of Macedonia
+  city: Thessaloniki
+  country: Greece
+  lat: 40.6401
+  lon: 22.9444
+  contact_name: Dr. Alexandros Karakasidis
+  contact_email: a.karakasidis@uom.edu.gr
+  website: https://www.uom.gr/en/dai
+  research_areas:
+    - Data management
+    - Big data
+
+- id: vilnius-lsc
+  name: Department of Neurobiology and Biophysics, Life Sciences Centre
+  university: Vilnius University
+  city: Vilnius
+  country: Lithuania
+  lat: 54.7121
+  lon: 25.2649
+  contact_name: Mr. Aurimas Mockevicius
+  contact_email: aurimas.mockevicius@gmc.stud.vu.lt
+  website: https://www.gmc.vu.lt/en/cortical-neural-networks
+  research_areas:
+    - EEG
+    - Auditory neuroscience
+    - Brain connectivity
+
+- id: feit
+  name: Faculty of Electrical Engineering and Information Technologies (FEEIT)
+  university: Ss. Cyril and Methodius University in Skopje
+  city: Skopje
+  country: North Macedonia
+  lat: 41.9973
+  lon: 21.4280
+  contact_name: Mr. Branislav Gerazov
+  contact_email: gerazov@feit.ukim.edu.mk
+  website: https://feit.ukim.edu.mk
+  research_areas:
+    - Speech technology
+    - Biomedical signal processing
+
+- id: bob-lab
+  name: Boundary of the Brain (BOB) Lab
+  university: University of Malta
+  city: Msida
+  country: Malta
+  lat: 35.8956
+  lon: 14.4850
+  contact_name: Dr. Claude Bajada
+  contact_email: claude.bajada@um.edu.mt
+  website: https://boblab.info
+  research_areas:
+    - MRI
+    - Diffusion MRI
+    - Brain connectivity
+
+- id: upt
+  name: Department of Physics Engineering
+  university: Polytechnic University of Tirana
+  city: Tirana
+  country: Albania
+  lat: 41.3275
+  lon: 19.8187
+  contact_name: Prof. Dafina Xhako
+  contact_email: dxhako@fim.edu.al
+  website: https://www.fimif.edu.al
+  research_areas:
+    - Medical imaging
+    - Medical physics
+    - Artificial intelligence
+
+- id: nottingham-cs
+  name: School of Computer Science
+  university: University of Nottingham
+  city: Nottingham
+  country: United Kingdom
+  lat: 52.9548
+  lon: -1.1581
+  contact_name: Dr. Damian Eke
+  contact_email: damian.eke@nottingham.ac.uk
+  website: https://www.nottingham.ac.uk/computerscience
+  research_areas:
+    - Data governance
+    - Neuroethics
+
+- id: umf-iasi
+  name: Discipline of Radiology and Medical Imaging
+  university: University of Medicine and Pharmacy "Grigore T. Popa" Iasi
+  city: Iasi
+  country: Romania
+  lat: 47.1585
+  lon: 27.6014
+  contact_name: Prof. Danisia Haba
+  contact_email: danisia.haba@umfiasi.ro
+  website: https://www.umfiasi.ro
+  research_areas:
+    - Neuroradiology
+    - MRI
+    - Radiology
+
+- id: zagreb-stemcells
+  name: Laboratory for Stem Cells, Croatian Institute for Brain Research
+  university: University of Zagreb School of Medicine
+  city: Zagreb
+  country: Croatia
+  lat: 45.8150
+  lon: 15.9819
+  contact_name: Prof. Dinko Mitrecic
+  contact_email: dinko.mitrecic@mef.hr
+  website: https://www.mef.unizg.hr
+  research_areas:
+    - Stem cells
+    - Regenerative neuroscience
+
+- id: uol
+  name: Department of Psychology
+  university: University of Limassol
+  city: Limassol
+  country: Cyprus
+  lat: 34.7071
+  lon: 33.0226
+  contact_name: Dr. Eva Pettemeridou
+  contact_email: eva.pettemeridou@uol.ac.cy
+  website: https://www.uol.ac.cy
+  research_areas:
+    - Clinical neuropsychology
+    - Neuroimaging
+    - Traumatic brain injury
+
+- id: ukim-neurology
+  name: University Clinic of Neurology
+  university: Ss. Cyril and Methodius University, Faculty of Medicine
+  city: Skopje
+  country: North Macedonia
+  lat: 41.9973
+  lon: 21.4280
+  contact_name: Dr. Gabriela Novotni
+  contact_email: gabinovotni@gmail.com
+  website: https://medf.ukim.edu.mk
+  research_areas:
+    - Neurology
+    - Neurodegenerative diseases
+    - Neuroimaging
+
+- id: nencki-lobi
+  name: Laboratory of Brain Imaging (LOBI)
+  university: Nencki Institute of Experimental Biology, Polish Academy of Sciences
+  city: Warsaw
+  country: Poland
+  lat: 52.2297
+  lon: 21.0122
+  contact_name: Dr. Malgorzata Wierzba
+  contact_email: m.wierzba@nencki.edu.pl
+  website: https://lobi.nencki.edu.pl
+  research_areas:
+    - fMRI
+    - Cognitive neuroscience
+    - Emotion
+
+- id: synlab-sdn
+  name: IRCCS SYNLAB SDN
+  university: SYNLAB
+  city: Naples
+  country: Italy
+  lat: 40.8518
+  lon: 14.2681
+  contact_name: Dr. Marco Aiello
+  contact_email: marco.aiello@synlab.it
+  website: https://sdn.synlab.it
+  research_areas:
+    - Medical imaging
+    - MRI
+    - PET/MR
+    - Machine learning
+
+- id: tuke-cit
+  name: Center for Intelligent Technologies
+  university: Technical University of Kosice
+  city: Kosice
+  country: Slovakia
+  lat: 48.7164
+  lon: 21.2611
+  contact_name: Dr. Marek Bundzel
+  contact_email: marek.bundzel@tuke.sk
+  website: https://cit.fei.tuke.sk
+  research_areas:
+    - Artificial intelligence
+    - Computer vision
+    - Machine learning
+
+- id: etf-belgrade
+  name: School of Electrical Engineering (ETF)
+  university: University of Belgrade
+  city: Belgrade
+  country: Serbia
+  lat: 44.8176
+  lon: 20.4633
+  contact_name: Prof. Milica Jankovic
+  contact_email: piperski@etf.bg.ac.rs
+  website: https://www.etf.bg.ac.rs
+  research_areas:
+    - EEG
+    - Neuroimaging
+    - Neural engineering
+
+- id: um-laws
+  name: Department of Media, Communications and Technology Law
+  university: University of Malta
+  city: Msida
+  country: Malta
+  lat: 35.8956
+  lon: 14.4850
+  contact_name: Dr. Mireille Sant
+  contact_email: mireille.caruana@um.edu.mt
+  website: https://www.um.edu.mt
+  research_areas:
+    - Data governance
+    - Data privacy
+    - Artificial intelligence
+
+- id: numecan
+  name: NuMeCan Institute (Nutrition, Metabolism and Cancer)
+  university: INRAE, INSERM, University of Rennes
+  city: Rennes
+  country: France
+  lat: 48.1175
+  lon: -1.6772
+  contact_name: Dr. Nicolas Coquery
+  contact_email: nicolas.coquery@inrae.fr
+  website: https://numecan.fr
+  research_areas:
+    - Neuroimaging
+    - MRI
+    - Eating behaviour
+
+- id: umed-tirana
+  name: Faculty of Medical Technical Sciences
+  university: University of Medicine, Tirana
+  city: Tirana
+  country: Albania
+  lat: 41.3275
+  lon: 19.8187
+  contact_name: Prof. Niko Hyka
+  contact_email: niko.hyka@umed.edu.al
+  website: https://umed.edu.al
+  research_areas:
+    - Medical physics
+    - Medical imaging
+    - Artificial intelligence
+
+- id: innsbruck
+  name: University Clinic of Psychiatry I
+  university: Medical University of Innsbruck
+  city: Innsbruck
+  country: Austria
+  lat: 47.2682
+  lon: 11.3996
+  contact_name: Dr. Noora Tuovinen
+  contact_email: noora.tuovinen@i-med.ac.at
+  website: https://www.i-med.ac.at
+  research_areas:
+    - Neuroimaging
+    - fMRI
+    - Psychiatry
+
+- id: ugent
+  name: Department of Diagnostic Sciences
+  university: Ghent University
+  city: Ghent
+  country: Belgium
+  lat: 51.0543
+  lon: 3.7174
+  contact_name: Ms. Patricia Clement
+  contact_email: patricia.clement@ugent.be
+  website: https://www.ugent.be
+  research_areas:
+    - MRI
+    - Arterial spin labeling
+    - Cerebral perfusion
+
+- id: bogazici-mimlab
+  name: Multimodal Imaging and Physiology Lab (MIMLAB)
+  university: Bogazici University
+  city: Istanbul
+  country: Turkey
+  lat: 41.0837
+  lon: 29.0507
+  contact_name: Dr. Pınar Şenay Özbay
+  contact_email: pinar.ozbay@boun.edu.tr
+  website: https://mimlab.bogazici.edu.tr
+  research_areas:
+    - MRI
+    - fMRI
+    - EEG
+    - Multimodal neuroimaging
+
+- id: uclouvain-lime
+  name: Health Informatics Lab (LIMe)
+  university: UCLouvain
+  city: Louvain-la-Neuve
+  country: Belgium
+  lat: 50.6682
+  lon: 4.6117
+  contact_name: Prof. Sebastien Jodogne
+  contact_email: sebastien.jodogne@uclouvain.be
+  website: https://orthanc.uclouvain.be
+  research_areas:
+    - Medical imaging
+    - DICOM
+    - Open-source software
+
+- id: foca
+  name: Faculty of Medicine Foca
+  university: University of East Sarajevo
+  city: Foca
+  country: Bosnia and Herzegovina
+  lat: 43.5061
+  lon: 18.7750
+  contact_name: Prof. Sinisa Ristic
+  contact_email: risticsinisa@yahoo.com
+  website: https://www.mef.ues.rs.ba
+  research_areas:
+    - Physiology
+    - Radiology
+    - Neuroimaging
+

@@ -2,8 +2,8 @@
 title: Participating Labs
 ---
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="{{ '/assets/leaflet/leaflet.css' | relative_url }}" />
+<script src="{{ '/assets/leaflet/leaflet.js' | relative_url }}"></script>
 <link rel="stylesheet" href="{{ '/assets/css/labs.css' | relative_url }}">
 
 <p>
@@ -39,21 +39,6 @@ title: Participating Labs
 <div id="labs-grid" class="labs-grid"></div>
 
 <script>
-window.LABS_DATA = [
-{% for lab in site.data.labs %}
-  {
-    "id": "{{ lab.id }}",
-    "name": "{{ lab.name }}",
-    "university": "{{ lab.university }}",
-    "city": "{{ lab.city }}",
-    "country": "{{ lab.country }}",
-    "lat": {{ lab.lat }},
-    "lon": {{ lab.lon }},
-    "contact_name": "{{ lab.contact_name }}",
-    "contact_email": "{{ lab.contact_email }}",
-    "website": "{{ lab.website | default: '' }}",
-    "research_areas": [{% for area in lab.research_areas %}"{{ area }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
-  }{% unless forloop.last %}, {% endunless %}{% endfor %}
-];
+window.LABS_DATA = {{ site.data.labs | jsonify }};
 </script>
 <script src="{{ '/assets/script/labs.js' | relative_url }}"></script>

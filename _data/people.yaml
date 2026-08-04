@@ -104,7 +104,8 @@
   email: karel.mauricio.lopez.vilaret@uni-oldenburg.de
   photo: /assets/images/people/karel.jpg
   roles:
-    - WG1 co-leader
+    - WG1 co-leader # TF1
+    - WG2 co-leader # TF3
     - Management Committee
 
 - id: andjela
@@ -116,13 +117,21 @@
     - WG2 co-leader
     - Management Committee
 
+- id: basak
+  fullname: Dr. Başak Esin Köktürk Güzel
+  affiliation: Izmir Democracy University, Electrical & Electronics Engineering, Turkey
+  email: basak.guzel@idu.edu.tr
+  photo: /assets/images/people/basak.jpg
+  roles:
+    - WG2 co-leader # TF5
+
 - id: mateusz
   fullname: Dr. Mateusz Pawlik
   affiliation: University of Salzburg, Salzburg, Austria
   email: mateusz.pawlik@plus.ac.at
   photo: /assets/images/people/mateusz.jpg
   roles:
-    - WG2 co-leader
+    - WG2 co-leader # TF1
     - Management Committee
 
 - id: esin

@@ -12,3 +12,4 @@ This Working Group focuses on improving the reliability and usability of neuroim
 - Practices in other domains
 - EEG quality assessment
 - MEG quality assessment
+- MRI quality assessment

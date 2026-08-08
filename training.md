@@ -9,7 +9,7 @@ hide_title: true
   <div class="ts-hero__body">
     <p class="ts-hero__eyebrow">INDoS · Working Group 3</p>
     <h1 class="ts-hero__title">Training School</h1>
-    <p class="ts-hero__meta">Madrid · 30 September – 2 October 2026 <span>Dates confirmed · confirming pre-registrations</span></p>
+    <p class="ts-hero__meta">Madrid · 30 September – 2 October 2026 <span>Registration open until 21 August · 8 funded seats remain</span></p>
   </div>
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
@@ -21,27 +21,34 @@ in-person training.
 - **Where:** Room COLABORA, Espacio Converge, Campus Serrano del CSIC, c/ Serrano 113 posterior, Madrid, Spain (see [venue](#venue))
 - **Cost:** Nothing to attend, and **travel and subsistence are covered** for eligible
   participants (see [reimbursement](#reimbursement)).
+- **Places:** **20 assigned** from the pre-registration round · **8 funded seats open** through
+  registration, until 21 August (see [country representation](#country-representation)).
 
 <br />
 
-<div class="ts-cta ts-cta--status">
+<div class="ts-cta">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Confirming pre-registrations</p>
-    <p class="ts-cta__deadline">Closes <strong>6 August 2026</strong>, 23:59&nbsp;UTC</p>
-    <p class="ts-cta__note">Pre-registered trainees can now confirm their availability and interest.
-    <strong>If you pre-registered and have not received an invitation to confirm your availability, let us know as soon as possible!</strong>
-    We will notify all pre-registered trainees by <strong>14 August</strong>, by which point
-    everyone being invited will have their e-COST invitation.</p>
+    <p class="ts-cta__eyebrow">Registration open — 8 funded seats</p>
+    <p class="ts-cta__deadline">Closes <strong>21 August 2026</strong>, 23:59&nbsp;CEST</p>
+    <p class="ts-cta__note">20 places are assigned from the July pre-registration round, and the
+    approved budget carries 8 more funded seats. <strong>Countries with no representative yet, or
+    only one, are prioritised</strong> — if nobody from your country is attending, your chances
+    are genuinely good, whenever you register. See
+    <a href="#country-representation">which countries those are</a> and
+    <a href="#how-places-are-allocated">how places are allocated</a>.</p>
   </div>
+  <a class="ts-cta__button" href="[[S-REG-URL]]">Register <span aria-hidden="true">→</span></a>
 </div>
 
 <div class="ts-cta ts-cta--closed">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Pre-registration closed</p>
-    <p class="ts-cta__deadline">Closed <strong>25 July 2026</strong>, 01:00&nbsp;CEST</p>
-    <p class="ts-cta__note">Thanks to everyone who responded. Your answers chose these dates.</p>
+    <p class="ts-cta__eyebrow">Pre-registration round closed</p>
+    <p class="ts-cta__deadline">Pre-registration closed <strong>25 July</strong> · availability confirmations closed <strong>6 August</strong></p>
+    <p class="ts-cta__note">Thanks to everyone who responded: your answers chose these dates, and
+    the first 20 places were assigned from that round on 8 August. If you pre-registered and
+    confirmed your availability, you are in the pool — do not register again. If you answered
+    <em>No</em> or missed the confirmation and can now attend, please do register above.</p>
   </div>
-  <span class="ts-cta__button" role="link" aria-disabled="true">Pre-registration closed <span aria-hidden="true">✕</span></span>
 </div>
 
 ## Venue
@@ -99,9 +106,13 @@ participants build the Group's outputs together, plus a hands-on session.
 
 | when | what |
 |---|---|
-| **6 August 2026** | Potential atendees' availability confirmation close |
-| **7 August** | Atendees selection runs |
-| **by 14 August** | e-COST invitations of selected pre-registered attendees are issued |
+| **6 August 2026** | Potential attendees' availability confirmation closed ✓ |
+| **8 August** | Selection ran; the first **20 places** assigned ✓ |
+| **8 – 21 August** | **Open registration** for the remaining 8 funded seats ([register](#top)) |
+| **by 14 August** | e-COST invitations of the selected pre-registered attendees are issued |
+| **21 August, 23:59 CEST** | Registration closes |
+| **22 August** | The waiting list is rebuilt under the published rule; the open seats are offered from it |
+| **by 28 August** | Everyone who registered is notified, selected or not; second-wave e-COST invitations issued |
 | **30 September – 2 October** | The Training School |
 | **3 October – 14 October** | Reimbursement requests must be filed |
 
@@ -119,6 +130,31 @@ European RTD Organisation: see [Reimbursement](#reimbursement).
 > separate from e-COST. Reimbursement requires INDoS membership and an **e-COST invitation** that
 > you accept. The local organiser issues these once the participant list is settled.
 
+### Country representation
+
+Places are spread across countries before anything else (see
+[how places are allocated](#how-places-are-allocated)). When the list is rebuilt after
+21 August, the 20 places already assigned count as taken, so what matters for a new registrant
+is how represented their country already is:
+
+- **No representative yet — highest priority.** The first registrant from any of these
+  countries is served before any country's second, no matter when they register:
+  Algeria, Armenia, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Egypt,
+  the Faroe Islands, Finland, Georgia, Greece, Hungary, Iceland, Ireland, Israel, Italy,
+  Jordan, Latvia, Lebanon, Libya, Lithuania, Luxembourg, Moldova, Montenegro, Morocco,
+  Netherlands, North Macedonia, Norway, Palestine, Slovenia, Spain, Sweden, Syria, Tunisia,
+  Ukraine, United Kingdom.
+- **One representative — prioritised.** Albania, Austria, Estonia, France, Kosovo, Malta,
+  Portugal, Romania, Serbia, Slovakia, Switzerland.
+- **Two representatives.** Bosnia and Herzegovina, Germany, Poland, Türkiye. Registrants from
+  these countries join the queue behind the groups above.
+
+Trainees must be affiliated in one of the countries above or in a European RTD Organisation
+(COST Annotated Rules, Article 6.4). Affiliations in Russia and Belarus are not eligible:
+COST has [suspended cooperation](https://www.cost.eu/about/strategy/international-collaboration/)
+with both until further notice. Affiliations outside all of the above are welcome self-funded,
+seats permitting, but cannot hold a funded trainee place.
+
 ### How places are allocated
 
 The Training School has more people who want a place than it has places.
@@ -129,12 +165,17 @@ The process comprises six rules that implement the following principles:
 - **Spread across countries comes first.** A country with nobody in the cohort is served before
   a country that already has three people. So a first candidate from an unrepresented country has
   a genuinely good chance.
-- **It is not first-come-first-served.** Time of pre-registration decides the order *within* a
-  country, not between countries. Pre-registering early does not put you ahead of somebody from a
+- **It is not first-come-first-served.** Time of registration decides the order *within* a
+  country, not between countries. Registering early does not put you ahead of somebody from a
   country we have yet to reach, and we would rather say so than let anyone assume otherwise.
-- **A partial attendance is welcome.** If you can only make two of the three days, say so. It
-  does not put you behind people from other countries; within your own country, somebody who can
-  attend all three days is offered a place first.
+- **Full attendance comes first.** The training is cumulative — the first days set up the
+  hands-on final day — so somebody who can attend all three days is offered a place first. If you
+  can only make some of the days, still register and say so: you are placed high on the waiting
+  list rather than turned away.
+- **Self-funded places exist.** A small number of places beyond the funded seats can be held by
+  participants who waive reimbursement. They are allocated by the same ordering as the funded
+  seats — waiving reimbursement does not buy priority, it only means the budget is not what
+  limits you. The registration form asks.
 
 #### Rule 1 — who enters the list
 
@@ -156,9 +197,10 @@ pre-registration doesn't cost the initial position).
 
 Everyone left is ordered by the time of their pre-registration.
 
-**Partial attendance.** Confirming for two of the three days is a yes, and never moves anyone
-behind another country. It decides order *within* a country only: where two people from the same
-country are otherwise interchangeable, the one attending the whole school is placed first.
+**Partial attendance.** Registering for part of the school never moves anyone behind another
+country, but full attendance comes first: people who cannot attend all three days are placed at
+the head of the waiting list rather than seated directly, because the training is cumulative and
+a funded place is for the whole school.
 
 #### Rule 3 — local filing time
 

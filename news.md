@@ -4,7 +4,13 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
-## 30 July 2026 - WG3 Training School: dates confirmed, 30 September – 2 October in Madrid
+## 8 August 2026 - WG3 Training School: 20 places assigned — registration open for 8 more
+
+The first **20 places** for the [WG3 Training School](/training) in Madrid (30 September – 2 October) have been assigned from the July pre-registration round, and **registration is now open for 8 more funded seats**, until **Friday 21 August 2026, 23:59 CEST**.
+
+Places are spread across countries first, so **countries with no representative yet, or only one, are prioritised** — a first registrant from an unrepresented country has a genuinely good chance, whenever they register. See [country representation](/training#country-representation) and [how places are allocated](/training#how-places-are-allocated), and [register on the Training page](/training).
+
+Participants who would attend without claiming reimbursement can say so on the form: a small number of self-funded places exist beyond the funded seats, allocated by the same rule.
 
 The [WG3 Training School](/training) will be held on **Wednesday 30 September to Friday 2 October 2026** at the Spanish National Research Council CSIC Campus Serrano in Madrid.
 

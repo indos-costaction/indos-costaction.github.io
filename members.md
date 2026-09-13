@@ -47,7 +47,8 @@ window.MEMBERS_DATA = [
     "emailName": {{ email_parts[0] | jsonify }},
     "emailDomain": {{ email_parts[1] | jsonify }},
     "institution": {{ member.institution | jsonify }},
-    "country": {{ member.country | jsonify }}
+    "country": {{ member.country | jsonify }},
+    "workingGroups": {{ member.working_groups | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ];

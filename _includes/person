@@ -1,11 +1,14 @@
 {% comment %}
-This piece of Liquid template language code includes a person's details from the _data/members.yml file.
+This piece of Liquid template language code includes a person's details in the HTML formatted output.
 Parameters:
-- id: The unique identifier of the person (required).
-- coordination: "yes" or "no" to show or hide the list of coordination roles (default = "no")
+- person: An object from the _data/members.yml file
+- name: The member name, used to look up a member when `person` is not provided
 - photo: "yes" or "no" to show or hide the photo (default = "yes")
 - email: "yes" or "no" to show or hide the email (default = "yes")
-- affiliation: "yes" or "no" to show or hide the affiliation (default = "yes")
+- institution: "yes" or "no" to show or hide the affiliation (default = "no")
+- country: "yes" or "no" to show or hide the country (default = "no")
+- coordination: "yes" or "no" to show or hide the list of coordination roles (default = "no")
+- workgroups: "yes" or "no" to show or hide the list of workgroups (default = "no")
 - tag: optional short marker(s) shown next to the name; separate several with "|" (e.g. "Trainer|Organiser").
        Each marker also gets a modifier class, e.g. person-tag--trainer, for per-marker colours.
 - class: optional extra class(es) on the wrapping div (e.g. "person--organiser")
@@ -23,19 +26,35 @@ Parameters:
     {% assign showemail = include.email %}
 {% endif %}
 
+{% if include.institution == nill or include.institution == "" %}
+    {% assign showinstitution = "no" %}
+{% else %}
+    {% assign showinstitution = include.institution %}
+{% endif %}
+
+{% if include.country == nill or include.country == "" %}
+    {% assign showcountry = "no" %}
+{% else %}
+    {% assign showcountry = include.country %}
+{% endif %}
+
 {% if include.coordination == nill or include.coordination == "" %}
     {% assign showcoordination = "no" %}
 {% else %}
     {% assign showcoordination = include.coordination %}
 {% endif %}
 
-{% if include.institution == nill or include.institution == "" %}
-    {% assign showinstitution = "yes" %}
+{% if include.workgroups == nill or include.workgroups == "" %}
+    {% assign showworkgroups = "no" %}
 {% else %}
-    {% assign showinstitution = include.institution %}
+    {% assign showworkgroups = include.workgroups %}
 {% endif %}
 
-{% assign person = site.data.members | where: "id", include.id | first %}
+{% if include.person %}
+    {% assign person = include.person %}
+{% elsif include.name %}
+    {% assign person = site.data.members | where: "name", include.name | first %}
+{% endif %}
 
 {% if person %}
 <div class="person{% if include.class %} {{ include.class }}{% endif %}">
@@ -77,6 +96,22 @@ Parameters:
             <p class="person-">{{ person.institution }}</p>
         {% else %}
             <p>&nbsp;</p>
+        {% endif %}
+    {% endif %}
+    {% if showcountry == "yes" %}
+        {% if person.country %}
+            <p class="person-country">{{ person.country }}</p>
+        {% else %}
+            <p>&nbsp;</p>
+        {% endif %}
+    {% endif %}
+    {% if showworkgroups == "yes" %}
+        {% if person.workgroups %}
+            <p class="person-workgroups">
+            {% for group in person.workgroups %}
+                {{ group }}{% unless forloop.last %}<br>{% endunless %}
+            {% endfor %}
+            </p>
         {% endif %}
     {% endif %}
 </div>

@@ -20,8 +20,8 @@ Here you can find the names and contact details of the people with a leading, co
 <div class="narrow-grid">
 {% assign coordinators = site.data.members | where_exp: "member", "member.coordination" | sort: "coordination_order" %}
 {% for person in coordinators %}
-  <div class="narrow-card person-card" data-roles="{{ person.coordination | join: ',' }}">
-    {% include person id=person.id coordination="yes" institution="no" %}
+  <div class="narrow-card person-card" data-coordination="{{ person.coordination | join: ',' }}">
+    {% include person coordination="yes" institution="no" %}
   </div>
 {% endfor %}
 </div>

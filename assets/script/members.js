@@ -98,10 +98,18 @@
     var country = document.createElement("p");
     country.className = "member-card__country";
     country.textContent = member.country;
+    var workingGroups = document.createElement("p");
+    workingGroups.className = "member-card__working-groups";
+    workingGroups.textContent = (member.workingGroups || []).map(function (group) {
+      return group.replace(" ", "");
+    }).join(", ");
     card.appendChild(name);
     card.appendChild(email);
     card.appendChild(institution);
     card.appendChild(country);
+    if (workingGroups.textContent) {
+      card.appendChild(workingGroups);
+    }
     gridEl.appendChild(card);
     cards.push(card);
   });

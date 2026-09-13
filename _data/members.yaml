@@ -52,6 +52,7 @@
 - name: Alexandros Karakasidis
   title: Dr.
   id: alexandros
+  photo: "/assets/images/people/alexandros.jpg"
   email: alexandros.karakasidis@athenarc.gr
   institution: University Of Macedonia
   country: Greece
@@ -2228,6 +2229,7 @@
 - name: Gabriela Novotni
   title: Dr.
   id: gabriela
+  photo: "/assets/images/people/gabriela.jpg"
   email: gabinovotni@gmail.com
   institution: Ss. Cyril and Methodius University in Skopje
   country: North Macedonia

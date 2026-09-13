@@ -87,8 +87,10 @@
     var email = document.createElement("p");
     email.className = "member-card__email";
     var emailLink = document.createElement("a");
-    emailLink.href = "mailto:" + member.email;
-    emailLink.textContent = member.email;
+    /* Email protection adapted from https://joemaller.com/js-mailer.shtml by Joe Maller. */
+    var emailAddress = member.emailName + "@" + member.emailDomain;
+    emailLink.href = "mailto:" + emailAddress;
+    emailLink.textContent = emailAddress;
     email.appendChild(emailLink);
     var institution = document.createElement("p");
     institution.className = "member-card__institution";

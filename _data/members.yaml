@@ -1,6 +1,6 @@
 ---
 - name: Jochem Rieger
-  title: Prof
+  title: Prof.
   id: jochem
   photo: "/assets/images/people/jochem.jpg"
   email: jochem.rieger@uni-oldenburg.de
@@ -18,7 +18,7 @@
   - WG4 co-leader
   coordination_order: 1
 - name: Adina Wagner
-  title: Dr
+  title: Dr.
   id: adina
   photo: "/assets/images/people/adina.jpg"
   email: a.wagner@fz-juelich.de
@@ -32,7 +32,7 @@
   - Management Committee
   coordination_order: 16
 - name: Alessio Giacomel
-  title: Mr
+  title: Mr.
   email: alessiogiacomel@outlook.com
   institution: Frankfurt University Hospital
   country: Germany
@@ -42,7 +42,7 @@
   - WG 3
   - WG 4
 - name: Alexandra Reichenbach
-  title: Prof
+  title: Prof.
   email: alexandra.reichenbach@hs-heilbronn.de
   institution: Heilbronn University
   country: Germany
@@ -50,7 +50,7 @@
   - WG 1
   - WG 3
 - name: Alexandros Karakasidis
-  title: Dr
+  title: Dr.
   id: alexandros
   email: alexandros.karakasidis@athenarc.gr
   institution: University Of Macedonia
@@ -64,7 +64,7 @@
   - Management Committee
   coordination_order: 18
 - name: Ali Bayram
-  title: Dr
+  title: Dr.
   email: ali.bayram@istanbul.edu.tr
   institution: Istanbul University
   country: Türkiye
@@ -74,7 +74,7 @@
   - WG 3
   - WG 5
 - name: Alpay ÖZCAN
-  title: Prof
+  title: Prof.
   email: alpay.ozcan@bogazici.edu.tr
   institution: Boğaziçi Üniversitesi
   country: Türkiye
@@ -83,14 +83,14 @@
   - WG 2
   - WG 3
 - name: Ana Paula Candiota
-  title: Ms
+  title: Ms.
   email: AnaPaula.Candiota@uab.cat
   institution: Universitat Autònoma de Barcelona
   country: Spain
   working_groups:
   - WG 1
 - name: Anna Plachti
-  title: Dr
+  title: Dr.
   email: plachti@ifado.de
   institution: Leibniz Research Centre for Working Environment and Human Factors at
     Dortmund University
@@ -99,7 +99,7 @@
   - WG 1
   - WG 3
 - name: Arnaud Delorme
-  title: Dr
+  title: Dr.
   email: arnodelorme@gmail.com
   institution: Université Toulouse III - Paul Sabatier
   country: France
@@ -107,7 +107,7 @@
   - WG 1
   - WG 3
 - name: Aurimas Mockevicius
-  title: Mr
+  title: Mr.
   id: aurimas
   photo: "/assets/images/people/aurimas.jpg"
   email: aurimas.mockevicius@mf.vu.lt
@@ -123,7 +123,7 @@
   - Management Committee
   coordination_order: 19
 - name: Belal TAVASHI
-  title: Mr
+  title: Mr.
   email: belal.tawashi99@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
@@ -132,7 +132,7 @@
   - WG 2
   - WG 3
 - name: Blerina Zanaj
-  title: Prof
+  title: Prof.
   email: bzanaj@ubt.edu.al
   institution: Agriculture University of Tirana, Department of Mathematics and Informatics
   country: Albania
@@ -142,7 +142,7 @@
   - WG 3
   - WG 5
 - name: Burcu SIRMATEL
-  title: Ms
+  title: Ms.
   email: burcusirmatel@gmail.com
   institution: LOKMAN HEKIM UNIVERSITY
   country: Türkiye
@@ -151,7 +151,7 @@
   - WG 2
   - WG 3
 - name: Camille Pescatore
-  title: Ms
+  title: Ms.
   email: cpescatore@ethz.ch
   institution: ETH Zurich
   country: Switzerland
@@ -159,7 +159,7 @@
   - WG 1
   - WG 3
 - name: Charis Styliadis
-  title: Dr
+  title: Dr.
   email: styliadis@hotmail.com
   institution: Aristotle University of Thessaloniki
   country: Greece
@@ -167,7 +167,7 @@
   - WG 1
   - WG 2
 - name: Christoph Pfeiffer
-  title: Dr
+  title: Dr.
   email: christoph.pfeiffer@ki.se
   institution: Karolinska Institutet
   country: Sweden
@@ -176,7 +176,7 @@
   - WG 2
   - WG 3
 - name: Christophe Phillips
-  title: Prof
+  title: Prof.
   email: c.phillips@uliege.be
   institution: Fonds De La Recherche Scientifique- Fnrs
   country: Belgium
@@ -185,7 +185,7 @@
   - WG 2
   - WG 3
 - name: César Caballero-Gaudes
-  title: Dr
+  title: Dr.
   email: c.caballero@bcbl.eu
   institution: BCBL Basque Center On Cognition Brain And Language
   country: Spain
@@ -193,7 +193,7 @@
   - WG 1
   - WG 3
 - name: Dafina XHAKO
-  title: Prof
+  title: Prof.
   id: dafina
   photo: "/assets/images/people/dafina.jpg"
   email: dxhako@fim.edu.al
@@ -209,7 +209,7 @@
   - Management Committee
   coordination_order: 22
 - name: Danisia Haba
-  title: Prof
+  title: Prof.
   id: danisia
   photo: "/assets/images/people/danisia.jpg"
   email: danihaba@yahoo.com
@@ -223,7 +223,7 @@
   - Management Committee
   coordination_order: 24
 - name: Dejan Pajić
-  title: Prof
+  title: Prof.
   email: dpajic@ff.uns.ac.rs
   institution: Faculty of Philosophy, University of Novi Sad
   country: Serbia
@@ -231,7 +231,7 @@
   - WG 1
   - WG 4
 - name: Endri Gjonbrataj
-  title: Mr
+  title: Mr.
   email: egjonbrataj@gmail.com
   institution: Catholic Hospital "Our Lady of Good Council"
   country: Albania
@@ -242,7 +242,7 @@
   - WG 4
   - WG 5
 - name: Eva Pettemeridou
-  title: Dr
+  title: Dr.
   id: eva
   photo: "/assets/images/people/eva.jpg"
   email: eva.pettemeridou@uol.ac.cy
@@ -256,7 +256,7 @@
   - Management Committee
   coordination_order: 26
 - name: Fikret YANAR
-  title: Mr
+  title: Mr.
   email: fikretyanar@gmail.com
   institution: Karadeniz Teknik Universitesi
   country: Türkiye
@@ -267,14 +267,14 @@
   - WG 4
   - WG 5
 - name: Giuseppe Chiarenza
-  title: Prof
+  title: Prof.
   email: gachiarenza@gmail.com
   institution: Centro Internazionale disordini apprendimento attenzione iperattività
   country: Italy
   working_groups:
   - WG 1
 - name: Guiomar Niso
-  title: Dr
+  title: Dr.
   id: guiomar
   photo: "/assets/images/people/guiomar.jpg"
   email: guiomar.niso@cajal.csic.es
@@ -293,14 +293,14 @@
   - Management Committee
   coordination_order: 2
 - name: Gwenevere Frank
-  title: Ms
+  title: Ms.
   email: jfrank@ucsd.edu
   institution: University of California San Diego
   country: United States
   working_groups:
   - WG 1
 - name: Hasan ÖZDOĞAN
-  title: Prof
+  title: Prof.
   email: hasan.ozdogan@antalya.edu.tr
   institution: Antalya Bilim Üniversitesi
   country: Türkiye
@@ -311,7 +311,7 @@
   - WG 4
   - WG 5
 - name: Ikko Kimura
-  title: Dr
+  title: Dr.
   email: ikkokimura0930@gmail.com
   institution: Copenhagen University Hospital Amager Hvidovre
   country: Denmark
@@ -319,7 +319,7 @@
   - WG 1
   - WG 3
 - name: Jan Petr
-  title: Dr
+  title: Dr.
   email: j.petr@hzdr.de
   institution: Helmholtz Zentrum Dresden Rossendorf
   country: Germany
@@ -328,7 +328,7 @@
   - WG 2
   - WG 3
 - name: Jorge Francisco Bosch Bayard
-  title: Dr
+  title: Dr.
   email: oldgandalf@gmail.com
   institution: Carl Von Ossietzky Universitaet Oldenburg
   country: Germany
@@ -336,7 +336,7 @@
   - WG 1
   - WG 3
 - name: Karel Mauricio Lopez Vilaret
-  title: Dr
+  title: Dr.
   id: karel
   photo: "/assets/images/people/karel.jpg"
   email: karel.mauricio.lopez.vilaret@uni-oldenburg.de
@@ -353,7 +353,7 @@
   - Management Committee
   coordination_order: 11
 - name: Lubomír Vojtíšek
-  title: Dr
+  title: Dr.
   email: vojtisek@ceitec.muni.cz
   institution: Masarykova univerzita
   country: Czechia
@@ -362,7 +362,7 @@
   - WG 3
   - WG 4
 - name: MANUELA MORETTO
-  title: Ms
+  title: Ms.
   email: manumore29@gmail.com
   institution: Università degli Studi di Padova
   country: Italy
@@ -372,7 +372,7 @@
   - WG 3
   - WG 5
 - name: Malgorzata Wierzba
-  title: Dr
+  title: Dr.
   id: malgorzata
   photo: "/assets/images/people/malgorzata.jpg"
   email: m.wierzba@nencki.edu.pl
@@ -388,7 +388,7 @@
   - Management Committee
   coordination_order: 28
 - name: Marcin Koculak
-  title: Dr
+  title: Dr.
   email: marcin.koculak@uj.edu.pl
   institution: Jagiellonian University
   country: Poland
@@ -397,7 +397,7 @@
   - WG 2
   - WG 3
 - name: Marco Pinamonti
-  title: Mr
+  title: Mr.
   email: marco.pinamonti.1@phd.unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -405,7 +405,7 @@
   - WG 1
   - WG 3
 - name: Marek Bundzel
-  title: Dr
+  title: Dr.
   id: marek
   photo: "/assets/images/people/marek.jpg"
   email: marek.bundzel@tuke.sk
@@ -419,7 +419,7 @@
   - Management Committee
   coordination_order: 30
 - name: Margarida Julia-Sape
-  title: Dr
+  title: Dr.
   email: margarita.julia@uab.cat
   institution: Universitat Autònoma de Barcelona
   country: Spain
@@ -428,7 +428,7 @@
   - WG 2
   - WG 3
 - name: Maria de la Iglesia-Vaya
-  title: Dr
+  title: Dr.
   email: delaiglesia_mar@gva.es
   institution: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
     de la Comunitat Valenciana
@@ -439,7 +439,7 @@
   - WG 3
   - WG 4
 - name: Mark Mikkelsen
-  title: Dr
+  title: Dr.
   email: mark.mikkelsen@gmail.com
   institution: Cornell University
   country: United States
@@ -450,7 +450,7 @@
   - WG 4
   - WG 5
 - name: Martin Gajdoš
-  title: Mr
+  title: Mr.
   email: martin.gajdos@ceitec.muni.cz
   institution: Masarykova univerzita
   country: Czechia
@@ -458,7 +458,7 @@
   - WG 1
   - WG 3
 - name: Matthew Grech-Sollars
-  title: Dr
+  title: Dr.
   email: m.grech-sollars@ucl.ac.uk
   institution: University College London
   country: United Kingdom
@@ -469,7 +469,7 @@
   - WG 4
   - WG 5
 - name: Mattia Veronese
-  title: Prof
+  title: Prof.
   email: mattia.veronese@unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -478,14 +478,14 @@
   - WG 2
   - WG 3
 - name: Melanie Ganz-Benjaminsen
-  title: Dr
+  title: Dr.
   email: ganz@di.ku.dk
   institution: University of Copenhagen
   country: Denmark
   working_groups:
   - WG 1
 - name: Mert Ocak
-  title: Dr
+  title: Dr.
   email: mocak@ankara.edu.tr
   institution: Ankara Universitesi
   country: Türkiye
@@ -494,7 +494,7 @@
   - WG 3
   - WG 4
 - name: Michal Mikl
-  title: Dr
+  title: Dr.
   id: michal
   photo: "/assets/images/people/michal.jpg"
   email: michal.mikl@ceitec.muni.cz
@@ -510,14 +510,14 @@
   - Management Committee
   coordination_order: 5
 - name: Mikkel C. Vinding
-  title: Dr
+  title: Dr.
   email: mvi@psy.ku.dk
   institution: University of Copenhagen
   country: Denmark
   working_groups:
   - WG 1
 - name: Moss Zhao
-  title: Dr
+  title: Dr.
   email: mosszhaodphil@gmail.com
   institution: Stanford University
   country: United States
@@ -528,7 +528,7 @@
   - WG 4
   - WG 5
 - name: Nicolás Hinrichs
-  title: Dr
+  title: Dr.
   email: hinrichsn@cbs.mpg.de
   institution: Max Planck Institute for Human Cognitive and Brain Sciences
   country: Germany
@@ -536,7 +536,7 @@
   - WG 1
   - WG 4
 - name: Niko Hyka
-  title: Prof
+  title: Prof.
   id: niko
   email: nikohyka@gmail.com
   institution: University of Medicine Tirana
@@ -548,7 +548,7 @@
   - Management Committee
   coordination_order: 34
 - name: Noora Tuovinen
-  title: Dr
+  title: Dr.
   id: noora
   photo: "/assets/images/people/noora.jpg"
   email: noora.tuovinen@i-med.ac.at
@@ -560,7 +560,7 @@
   - Management Committee
   coordination_order: 35
 - name: Nuno Cruz Garcia
-  title: Prof
+  title: Prof.
   email: nuno@cruz-garcia.net
   institution: Faculdade de Ciências da Universidade de Lisboa
   country: Portugal
@@ -568,7 +568,7 @@
   - WG 1
   - WG 3
 - name: Nurcan DOĞAN
-  title: Dr
+  title: Dr.
   email: doganbingolbali@itu.edu.tr
   institution: Istanbul Technical University
   country: Türkiye
@@ -577,7 +577,7 @@
   - WG 3
   - WG 4
 - name: Oscar Esteban
-  title: Dr
+  title: Dr.
   id: oscar
   photo: https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg
   email: phd@oscaresteban.es
@@ -593,7 +593,7 @@
   - Management Committee
   coordination_order: 8
 - name: Patricia Clement
-  title: Ms
+  title: Ms.
   id: patricia
   photo: "/assets/images/people/patricia.jpg"
   email: patricia.clement@ugent.be
@@ -609,7 +609,7 @@
   - Management Committee
   coordination_order: 36
 - name: Patrick Fisher
-  title: Dr
+  title: Dr.
   email: patrick@nru.dk
   institution: Rigshospitalet
   country: Denmark
@@ -618,7 +618,7 @@
   - WG 2
   - WG 4
 - name: Patrícia Figueiredo
-  title: Prof
+  title: Prof.
   email: patricia.figueiredo@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -626,7 +626,7 @@
   - WG 1
   - WG 3
 - name: Paul Mullins
-  title: Prof
+  title: Prof.
   email: p.mullins@bangor.ac.uk
   institution: Bangor University
   country: United Kingdom
@@ -635,7 +635,7 @@
   - WG 2
   - WG 4
 - name: Pim Pullens
-  title: Prof
+  title: Prof.
   email: pim.pullens@ugent.be
   institution: Ghent University
   country: Belgium
@@ -644,7 +644,7 @@
   - WG 2
   - WG 3
 - name: Rita Nunes
-  title: Dr
+  title: Dr.
   email: ritagnunes@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -652,7 +652,7 @@
   - WG 1
   - WG 3
 - name: Robert Oostenveld
-  title: Dr
+  title: Dr.
   id: robert
   photo: "/assets/images/people/robert.jpg"
   email: robert.oostenveld@donders.ru.nl
@@ -671,7 +671,7 @@
   - Management Committee
   coordination_order: 6
 - name: Rotem Botvinik-Nezer
-  title: Dr
+  title: Dr.
   email: rotem.botvinik-nezer@mail.huji.ac.il
   institution: The Hebrew University Of Jerusalem
   country: Israel
@@ -680,7 +680,7 @@
   - WG 3
   - WG 5
 - name: Ruben Nechifor
-  title: Dr
+  title: Dr.
   email: rubennechifor@psychology.ro
   institution: Babes-Bolyai University
   country: Romania
@@ -689,7 +689,7 @@
   - WG 2
   - WG 3
 - name: Sevgi SENGUL AYAN
-  title: Dr
+  title: Dr.
   email: sevgi.sengul@antalya.edu.tr
   institution: Antalya Bilim Üniversitesi
   country: Türkiye
@@ -699,7 +699,7 @@
   - WG 4
   - WG 5
 - name: Stefanie Thust
-  title: Dr
+  title: Dr.
   email: stefanie.thust@nottingham.ac.uk
   institution: University of Nottingham
   country: United Kingdom
@@ -708,7 +708,7 @@
   - WG 4
   - WG 5
 - name: Uesli Tafa
-  title: Dr
+  title: Dr.
   email: uesli.tafa@outlook.com
   institution: University of Medicine Tirana
   country: Albania
@@ -716,7 +716,7 @@
   - WG 1
   - WG 5
 - name: Urban Marhl
-  title: Dr
+  title: Dr.
   id: urban
   photo: "/assets/images/people/urban.jpg"
   email: urban.marhl@imfm.si
@@ -731,7 +731,7 @@
   - Management Committee
   coordination_order: 3
 - name: Veysel Alcan
-  title: Dr
+  title: Dr.
   email: alcanveysel@tarsus.edu.tr
   institution: Tarsus University
   country: Türkiye
@@ -740,7 +740,7 @@
   - WG 3
   - WG 5
 - name: Vlastimil Koudelka
-  title: Dr
+  title: Dr.
   email: vlastimil.koudelka@nudz.cz
   institution: Narodni Ustav Dusevniho Zdravi
   country: Czechia
@@ -748,7 +748,7 @@
   - WG 1
   - WG 3
 - name: Yann Serrand
-  title: Mr
+  title: Mr.
   email: yann.serrand@inrae.fr
   institution: Institut national de recherche pour l'agriculture, l'alimentation et
     l'environnement
@@ -757,7 +757,7 @@
   - WG 1
   - WG 3
 - name: Zigmunds Freibergs
-  title: Mr
+  title: Mr.
   email: zigmunds.freibergs1@gmail.com
   institution: Tartu University
   country: Estonia
@@ -765,7 +765,7 @@
   - WG 1
   - WG 3
 - name: Óscar Elía-Zudaire
-  title: Dr
+  title: Dr.
   email: oscar.elia@universidadeuropea.es
   institution: Universidad Europea de Valencia
   country: Spain
@@ -774,7 +774,7 @@
   - WG 4
   - WG 5
 - name: Ömer Faruk Dokgöz
-  title: Mr
+  title: Mr.
   email: omerfarukdokgoz1@gmail.com
   institution: Istanbul Sabahattin Zaim University
   country: Türkiye
@@ -785,7 +785,7 @@
   - WG 4
   - WG 5
 - name: hacer dasgin
-  title: Dr
+  title: Dr.
   email: dasgin.hd@gmail.com
   institution: Mudanya University
   country: Türkiye
@@ -793,7 +793,7 @@
   - WG 1
   - WG 3
 - name: Pinar Ozbay
-  title: Dr
+  title: Dr.
   id: pinar
   photo: "/assets/images/people/pinar.jpg"
   email: pinar.ozbay@boun.edu.tr
@@ -807,7 +807,7 @@
   - Management Committee
   coordination_order: 37
 - name: Adrian Iftene
-  title: Dr
+  title: Dr.
   id: adrian
   photo: "/assets/images/people/adrian.jpg"
   email: adiftene@info.uaic.ro
@@ -820,7 +820,7 @@
   - Management Committee
   coordination_order: 17
 - name: Alessandro Giupponi
-  title: Dr
+  title: Dr.
   email: alessandro.giupponi@phd.unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -829,7 +829,7 @@
   - WG 2
   - WG 4
 - name: Burak TASCI
-  title: Dr
+  title: Dr.
   email: btasci@firat.edu.tr
   institution: Fırat Üniversitesi
   country: Türkiye
@@ -838,7 +838,7 @@
   - WG 2
   - WG 3
 - name: MENEKŞE BULUT
-  title: Dr
+  title: Dr.
   email: gidabenefse@gmail.com
   institution: Igdir University
   country: Türkiye
@@ -849,7 +849,7 @@
   - WG 4
   - WG 5
 - name: Nurgül Bulut
-  title: Dr
+  title: Dr.
   email: nrgl.bulut@hotmail.com
   institution: Istanbul Medeniyet University
   country: Türkiye
@@ -857,7 +857,7 @@
   - WG 1
   - WG 2
 - name: GULNİHAL DENIZ
-  title: Dr
+  title: Dr.
   email: gulnihal.deniz@erzurum.edu.tr
   institution: Erzurum Technical University
   country: Türkiye
@@ -865,7 +865,7 @@
   - WG 1
   - WG 2
 - name: Huden Nese
-  title: Dr
+  title: Dr.
   email: hudennese@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
@@ -874,7 +874,7 @@
   - WG 3
   - WG 5
 - name: Kübra Eren
-  title: Ms
+  title: Ms.
   email: kbraren@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
@@ -885,7 +885,7 @@
   - WG 4
   - WG 5
 - name: Joana Pinto
-  title: Dr
+  title: Dr.
   email: joana.pinto@eng.ox.ac.uk
   institution: Siemens Healthineers AG
   country: Germany
@@ -895,7 +895,7 @@
   - WG 3
   - WG 5
 - name: pelin ismailoglu
-  title: Dr
+  title: Dr.
   email: pelinismailoglu@yahoo.com
   institution: Recep Tayyip Erdogan University
   country: Türkiye
@@ -903,7 +903,7 @@
   - WG 1
   - WG 3
 - name: Ambra Checchetto
-  title: Ms
+  title: Ms.
   email: ambra.checchetto@phd.unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -912,7 +912,7 @@
   - WG 2
   - WG 4
 - name: Seyed Ali Sadegh Zadeh
-  title: Dr
+  title: Dr.
   email: ali.sadegh-zadeh@staffs.ac.uk
   institution: Staffordshire University
   country: United Kingdom
@@ -921,7 +921,7 @@
   - WG 2
   - WG 3
 - name: Marco Aiello
-  title: Dr
+  title: Dr.
   id: marco
   photo: "/assets/images/people/marco.jpg"
   email: marcoaiello1978@gmail.com
@@ -936,7 +936,7 @@
   - Management Committee
   coordination_order: 29
 - name: Dilbar KHAN
-  title: Mr
+  title: Mr.
   email: dilbar.khan@pwr.edu.pl
   institution: Politechnika Wroclawska
   country: Poland
@@ -945,7 +945,7 @@
   - WG 4
   - WG 5
 - name: Mario Verdicchio
-  title: Dr
+  title: Dr.
   email: mario.verdicchio@synlab.it
   institution: IRCCS SYNLAB SDN
   country: Italy
@@ -954,7 +954,7 @@
   - WG 3
   - WG 5
 - name: Alina Duca
-  title: Ms
+  title: Ms.
   email: alina_duca@yahoo.com
   institution: Universitatea "Alexandru Ioan Cuza" din Iași
   country: Romania
@@ -962,7 +962,7 @@
   - WG 1
   - WG 3
 - name: Necati Emre Şahin
-  title: Dr
+  title: Dr.
   email: necatisahin@karabuk.edu.tr
   institution: Karabük Üniversitesi
   country: Türkiye
@@ -970,7 +970,7 @@
   - WG 1
   - WG 3
 - name: Bernard Jap
-  title: Dr
+  title: Dr.
   email: bajjap@hkmu.edu.hk
   institution: Hong Kong Metropolitan University
   country: Hong Kong SAR
@@ -980,7 +980,7 @@
   - WG 4
   - WG 5
 - name: RUKİYE ÇİFTÇİ
-  title: Dr
+  title: Dr.
   email: rukiye.ciftci@gibtu.edu.tr
   institution: Gaziantep İslam Bilim ve Teknoloji Üniversitesi
   country: Türkiye
@@ -991,7 +991,7 @@
   - WG 4
   - WG 5
 - name: João Miguel Alves Ferreira
-  title: Dr
+  title: Dr.
   email: naquelepordosol@gmail.com
   institution: Universidade de Coimbra
   country: Portugal
@@ -1002,7 +1002,7 @@
   - WG 4
   - WG 5
 - name: Hilal Dogan Sezer
-  title: Ms
+  title: Ms.
   email: Hilal.Dogan@nottingham.ac.uk
   institution: University of Nottingham
   country: United Kingdom
@@ -1010,7 +1010,7 @@
   - WG 1
   - WG 2
 - name: Fatma Nur Dolu
-  title: Ms
+  title: Ms.
   email: fatmanur.dolu@gmail.com
   institution: Konya Food and Agriculture University
   country: Türkiye
@@ -1019,7 +1019,7 @@
   - WG 3
   - WG 4
 - name: Muhammed Ali PALA
-  title: Dr
+  title: Dr.
   email: pala@subu.edu.tr
   institution: Sakarya University of Applied Sciences
   country: Türkiye
@@ -1028,7 +1028,7 @@
   - WG 2
   - WG 3
 - name: Murat Aydemir
-  title: Prof
+  title: Prof.
   email: murat.aydemir@erzurum.edu.tr
   institution: Erzurum Technical University
   country: Türkiye
@@ -1038,7 +1038,7 @@
   - WG 3
   - WG 5
 - name: Mehmet Akif ÖZÇOBAN
-  title: Dr
+  title: Dr.
   email: mehmetakifozcoban@gmail.com
   institution: Gaziantep Universitesi
   country: Türkiye
@@ -1047,7 +1047,7 @@
   - WG 2
   - WG 3
 - name: Erdem Cankut
-  title: Mr
+  title: Mr.
   email: erdem.cankut@selcuk.edu.tr
   institution: Selcuk Universitesi
   country: Türkiye
@@ -1056,14 +1056,14 @@
   - WG 3
   - WG 5
 - name: Sümeyra Sert
-  title: Dr
+  title: Dr.
   email: sumeyra.sert@selcuk.edu.tr
   institution: Selcuk Universitesi
   country: Türkiye
   working_groups:
   - WG 1
 - name: Beren Semiz Gürsoy
-  title: Dr
+  title: Dr.
   email: besemiz@ku.edu.tr
   institution: Koç University
   country: Türkiye
@@ -1072,7 +1072,7 @@
   - WG 3
   - WG 4
 - name: Behar Baxhaku
-  title: Dr
+  title: Dr.
   email: Behar.baxhaku@uni-pr.edu
   institution: Universiteti i Prishtinës "Hasan Prishtina"
   country: Kosovo
@@ -1080,7 +1080,7 @@
   - WG 1
   - WG 3
 - name: Rronë Kryeziu Rronë Kryeziu
-  title: Dr
+  title: Dr.
   email: rrone.kryeziu@student.uni-pr.edu
   institution: Universiteti i Prishtinës "Hasan Prishtina"
   country: Kosovo
@@ -1089,7 +1089,7 @@
   - WG 2
   - WG 3
 - name: Artan Berisha
-  title: Prof
+  title: Prof.
   email: artan.berisha@uni-pr.edu
   institution: Universiteti i Prishtinës "Hasan Prishtina"
   country: Kosovo
@@ -1097,7 +1097,7 @@
   - WG 1
   - WG 3
 - name: Friedrich Ph. Carrle
-  title: Mr
+  title: Mr.
   email: friedrich.carrle@hs-heilbronn.de
   institution: Heilbronn University
   country: Germany
@@ -1105,7 +1105,7 @@
   - WG 1
   - WG 3
 - name: Samuele Colombo
-  title: Dr
+  title: Dr.
   email: samuele.colombo@strath.ac.uk
   institution: University of Strathclyde
   country: United Kingdom
@@ -1116,7 +1116,7 @@
   - WG 4
   - WG 5
 - name: ibrahim isik
-  title: Dr
+  title: Dr.
   email: ibrahim.isik@inonu.edu.tr
   institution: İnönü Üniversitesi
   country: Türkiye
@@ -1124,7 +1124,7 @@
   - WG 1
   - WG 3
 - name: Anne-Sophie Dubarry
-  title: Dr
+  title: Dr.
   email: anne-sophie.dubarry@univ-amu.fr
   institution: Aix Marseille Univ, CNRS, CRPN, Aix-en-Provence, France
   country: France
@@ -1135,7 +1135,7 @@
   - WG 4
   - WG 5
 - name: Faisal Mushtaq
-  title: Prof
+  title: Prof.
   email: f.mushtaq@leeds.ac.uk
   institution: University of Leeds
   country: United Kingdom
@@ -1146,7 +1146,7 @@
   - WG 4
   - WG 5
 - name: Beatriz Vale
-  title: Ms
+  title: Ms.
   email: beatrizdovale@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -1154,7 +1154,7 @@
   - WG 1
   - WG 3
 - name: Duygu Golge
-  title: Ms
+  title: Ms.
   email: golge3125@gmail.com
   institution: Tarsus University
   country: Türkiye
@@ -1163,7 +1163,7 @@
   - WG 3
   - WG 5
 - name: Ana Matoso
-  title: Ms
+  title: Ms.
   email: anamatoso@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -1172,7 +1172,7 @@
   - WG 2
   - WG 3
 - name: Sandra Carvalho
-  title: Prof
+  title: Prof.
   email: sandrarc@psi.uminho.pt
   institution: University of Minho
   country: Portugal
@@ -1182,7 +1182,7 @@
   - WG 3
   - WG 4
 - name: Ziv Ben-Zion
-  title: Dr
+  title: Dr.
   email: zbenzion@univ.haifa.ac.il
   institution: University of Haifa
   country: Israel
@@ -1190,7 +1190,7 @@
   - WG 1
   - WG 3
 - name: Yusuf Secgin
-  title: Dr
+  title: Dr.
   email: yusufsecgin@karabuk.edu.tr
   institution: Karabük Üniversitesi
   country: Türkiye
@@ -1199,7 +1199,7 @@
   - WG 3
   - WG 4
 - name: andrea vitale
-  title: Mr
+  title: Mr.
   email: andrea.vitale@gmail.com
   institution: University of Trento
   country: Italy
@@ -1207,14 +1207,14 @@
   - WG 1
   - WG 3
 - name: Moustafa Almanla
-  title: Mr
+  title: Mr.
   email: moustafa.almanla@uni-oldenburg.de
   institution: Carl Von Ossietzky Universitaet Oldenburg
   country: Germany
   working_groups:
   - WG 1
 - name: Celine Provins
-  title: Dr
+  title: Dr.
   email: provins.celine@outlook.com
   institution: Lausanne University Hospital
   country: Switzerland
@@ -1222,14 +1222,14 @@
   - WG 1
   - WG 3
 - name: Silvia Lope-Piedrafita
-  title: Prof
+  title: Prof.
   email: silvia.lope@uab.cat
   institution: Universitat Autònoma de Barcelona
   country: Spain
   working_groups:
   - WG 1
 - name: Christian Valt
-  title: Dr
+  title: Dr.
   email: cvalt@ius.edu.ba
   institution: International University of Sarajevo
   country: Bosnia and Herzegovina
@@ -1237,7 +1237,7 @@
   - WG 1
   - WG 3
 - name: Jan Fousek
-  title: Dr
+  title: Dr.
   email: jan.fousek@ceitec.muni.cz
   institution: Masarykova univerzita
   country: Czechia
@@ -1247,7 +1247,7 @@
   - WG 3
   - WG 4
 - name: Benedetta Marin
-  title: Ms
+  title: Ms.
   email: benedetta.marin@studenti.unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -1257,7 +1257,7 @@
   - WG 3
   - WG 4
 - name: Bothayna SEKKINE
-  title: Ms
+  title: Ms.
   email: bothaynasekkine@gmail.com
   institution: Tarsus University
   country: Türkiye
@@ -1266,14 +1266,14 @@
   - WG 3
   - WG 5
 - name: Kadir Karakaya
-  title: Dr
+  title: Dr.
   email: kkarakaya@selcuk.edu.tr
   institution: Selcuk Universitesi
   country: Türkiye
   working_groups:
   - WG 1
 - name: Sephora Galea
-  title: Ms
+  title: Ms.
   email: sephora.galea@um.edu.mt
   institution: Università ta’ Malta
   country: Malta
@@ -1281,7 +1281,7 @@
   - WG 1
   - WG 3
 - name: Santiago Cifuentes Almanza
-  title: Dr
+  title: Dr.
   email: sj.cifuentes11@gmail.com
   institution: Université Claude Bernard Lyon 1
   country: France
@@ -1289,7 +1289,7 @@
   - WG 1
   - WG 3
 - name: Helena Melero
-  title: Dr
+  title: Dr.
   email: hmelero@ucm.es
   institution: Universidad Complutense De Madrid
   country: Spain
@@ -1297,7 +1297,7 @@
   - WG 1
   - WG 3
 - name: Ali Amini
-  title: Mr
+  title: Mr.
   email: ali.amini@ktu.lt
   institution: Kauno Technologijos Universitetas
   country: Lithuania
@@ -1305,7 +1305,7 @@
   - WG 1
   - WG 3
 - name: Maximilien Chaumon
-  title: Dr
+  title: Dr.
   email: maximilien.chaumon@icm-institute.org
   institution: Institut du Cerveau
   country: France
@@ -1314,7 +1314,7 @@
   - WG 3
   - WG 4
 - name: Mehmet Sait Dundar
-  title: Dr
+  title: Dr.
   email: msaitdundar@hotmail.com
   institution: Erciyes Universitesi
   country: Türkiye
@@ -1322,7 +1322,7 @@
   - WG 1
   - WG 3
 - name: Flavia Veppo
-  title: Ms
+  title: Ms.
   email: flavia.veppo@gmail.com
   institution: University of Minho
   country: Portugal
@@ -1331,7 +1331,7 @@
   - WG 3
   - WG 5
 - name: Sirin Yagmur Abaci
-  title: Ms
+  title: Ms.
   email: sirinyagmur12@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
@@ -1339,7 +1339,7 @@
   - WG 1
   - WG 3
 - name: Alper Vatansever
-  title: Dr
+  title: Dr.
   email: avatansever@uludag.edu.tr
   institution: Bursa Uludag University
   country: Türkiye
@@ -1347,7 +1347,7 @@
   - WG 2
   - WG 5
 - name: Anđela Šoškić
-  title: Prof
+  title: Prof.
   id: andjela
   photo: "/assets/images/people/andjela.jpg"
   email: andjela.soskic@f.bg.ac.rs
@@ -1361,7 +1361,7 @@
   - Management Committee
   coordination_order: 12
 - name: Aslı Bay
-  title: Dr
+  title: Dr.
   email: aslidarbuka@gmail.com
   institution: Antalya Bilim Üniversitesi
   country: Türkiye
@@ -1369,7 +1369,7 @@
   - WG 2
   - WG 4
 - name: EMEL TAŞVURAN HORATA
-  title: Dr
+  title: Dr.
   email: ethorata@gmail.com
   institution: Afyonkarahisar Sağlık Bilimleri Üniversitesi
   country: Türkiye
@@ -1377,7 +1377,7 @@
   - WG 2
   - WG 3
 - name: Gabriela Mariana Marcu
-  title: Dr
+  title: Dr.
   email: gabriela.marcu@ulbsibiu.ro
   institution: Universitatea Lucian Blaga Din Sibiu
   country: Romania
@@ -1385,7 +1385,7 @@
   - WG 2
   - WG 3
 - name: Gokce Hale Hatay
-  title: Ms
+  title: Ms.
   email: g.hale.hatay@gmail.com
   institution: Siemens Healthineers
   country: Türkiye
@@ -1393,7 +1393,7 @@
   - WG 2
   - WG 3
 - name: Katarina Stekić
-  title: Ms
+  title: Ms.
   email: katarina.stekic@f.bg.ac.rs
   institution: Faculty of Philosophy, University of Belgrade
   country: Serbia
@@ -1401,7 +1401,7 @@
   - WG 2
   - WG 3
 - name: Khuraman Sayin
-  title: Ms
+  title: Ms.
   email: huramanaziz@gmail.com
   institution: Ege University
   country: Türkiye
@@ -1409,7 +1409,7 @@
   - WG 2
   - WG 3
 - name: Lyuba Zehl
-  title: Dr
+  title: Dr.
   id: lyuba
   photo: "/assets/images/people/lyuba.jpg"
   email: lyuba.zehl@ebrains.eu
@@ -1423,7 +1423,7 @@
   - WG2 leader
   coordination_order: 7
 - name: Marco Castellaro
-  title: Mr
+  title: Mr.
   email: marco.castellaro@dei.unipd.it
   institution: Università degli Studi di Padova
   country: Italy
@@ -1431,7 +1431,7 @@
   - WG 2
   - WG 4
 - name: Maria J. Mora Corral
-  title: Dr
+  title: Dr.
   email: maria.mora@um.edu.mt
   institution: Università ta’ Malta
   country: Malta
@@ -1439,7 +1439,7 @@
   - WG 2
   - WG 3
 - name: Marija Novičić
-  title: Ms
+  title: Ms.
   email: novicic@etf.bg.ac.rs
   institution: Elektrotehnički fakultet Univerziteta u Beogradu
   country: Serbia
@@ -1447,7 +1447,7 @@
   - WG 2
   - WG 3
 - name: Mateusz Pawlik
-  title: Dr
+  title: Dr.
   id: mateusz
   photo: "/assets/images/people/mateusz.jpg"
   email: mateusz.pawlik@plus.ac.at
@@ -1461,7 +1461,7 @@
   - Management Committee
   coordination_order: 14
 - name: Milica Badza Atanasijevic
-  title: Ms
+  title: Ms.
   email: milica.badza@ic.etf.bg.ac.rs
   institution: Elektrotehnički fakultet Univerziteta u Beogradu
   country: Serbia
@@ -1469,7 +1469,7 @@
   - WG 2
   - WG 3
 - name: Milica Jankovic
-  title: Prof
+  title: Prof.
   id: milica
   photo: "/assets/images/people/milica.jpg"
   email: piperski@etf.rs
@@ -1482,7 +1482,7 @@
   - Management Committee
   coordination_order: 31
 - name: Nicolas Coquery
-  title: Dr
+  title: Dr.
   id: nicolas
   photo: "/assets/images/people/nicolas.jpg"
   email: nicolas.coquery@inrae.fr
@@ -1496,7 +1496,7 @@
   - Management Committee
   coordination_order: 33
 - name: Pierre-Antoine Eliat
-  title: Mr
+  title: Mr.
   email: pierre-antoine.eliat@univ-rennes.fr
   institution: Universite De Rennes I
   country: France
@@ -1504,7 +1504,7 @@
   - WG 2
   - WG 3
 - name: SUBHASHIS DAS
-  title: Dr
+  title: Dr.
   email: subhashis@usal.es
   institution: Fundacion Parque Cientifico De La Universidad De Salamanca
   country: Spain
@@ -1512,7 +1512,7 @@
   - WG 2
   - WG 3
 - name: Simon Steinkamp
-  title: Dr
+  title: Dr.
   email: simons@drcmr.dk
   institution: Copenhagen University Hospital Amager Hvidovre
   country: Denmark
@@ -1521,7 +1521,7 @@
   - WG 3
   - WG 4
 - name: Tamara Parojcic
-  title: Ms
+  title: Ms.
   email: tamaraparojcic@gmail.com
   institution: Elektrotehnički fakultet Univerziteta u Beogradu
   country: Serbia
@@ -1529,7 +1529,7 @@
   - WG 2
   - WG 3
 - name: Tamara Skoric
-  title: Dr
+  title: Dr.
   email: tamara.ceranic@gmail.com
   institution: Faculty of Technical Sciences, University of Novi Sad
   country: Serbia
@@ -1537,14 +1537,14 @@
   - WG 2
   - WG 3
 - name: Tomas Slavicek
-  title: Mr
+  title: Mr.
   email: tomas.slavicek@ceitec.muni.cz
   institution: Masarykova univerzita
   country: Czechia
   working_groups:
   - WG 2
 - name: Vanja Kovic
-  title: Prof
+  title: Prof.
   email: vanja.kovic@f.bg.ac.rs
   institution: Faculty of Philosophy, University of Belgrade
   country: Serbia
@@ -1552,7 +1552,7 @@
   - WG 2
   - WG 3
 - name: Vaska Leshoska
-  title: Ms
+  title: Ms.
   email: vaska@fzf.ukim.edu.mk
   institution: Ss. Cyril and Methodius University in Skopje
   country: North Macedonia
@@ -1560,7 +1560,7 @@
   - WG 2
   - WG 5
 - name: Vojislav Jovanović
-  title: Dr
+  title: Dr.
   email: vojislav_jovanovic@yahoo.com
   institution: Singidunum University Belgrade
   country: Serbia
@@ -1568,7 +1568,7 @@
   - WG 2
   - WG 3
 - name: Xhilda MERKAJ
-  title: Ms
+  title: Ms.
   email: xhilda.merkaj@fshn.edu.al
   institution: University of Tirana
   country: Albania
@@ -1576,7 +1576,7 @@
   - WG 2
   - WG 3
 - name: Başak Esin Köktürk Güzel
-  title: Dr
+  title: Dr.
   id: basak
   photo: "/assets/images/people/basak.jpg"
   email: basak.guzel@idu.edu.tr
@@ -1589,7 +1589,7 @@
   - WG2 co-leader
   coordination_order: 13
 - name: Marco Congedo
-  title: Dr
+  title: Dr.
   email: marco.congedo@gmail.com
   institution: Université Grenoble Alpes
   country: France
@@ -1597,7 +1597,7 @@
   - WG 2
   - WG 3
 - name: Jovana Kljajić
-  title: Ms
+  title: Ms.
   email: jovana.kljajic18@gmail.com
   institution: Faculty of Technical Sciences, University of Novi Sad
   country: Serbia
@@ -1605,7 +1605,7 @@
   - WG 2
   - WG 3
 - name: Arzu Kalyon
-  title: Dr
+  title: Dr.
   email: arzu.kalyon@medeniyet.edu.tr
   institution: Istanbul Medeniyet University
   country: Türkiye
@@ -1613,7 +1613,7 @@
   - WG 2
   - WG 4
 - name: Vanja Djenadija
-  title: Ms
+  title: Ms.
   email: vanja.djenadija@etf.unibl.org
   institution: University of Banja Luka
   country: Bosnia and Herzegovina
@@ -1622,7 +1622,7 @@
   - WG 3
   - WG 5
 - name: Amina Ćenanović
-  title: Ms
+  title: Ms.
   email: aminacenanovic1@gmail.com
   institution: International Burch University
   country: Bosnia and Herzegovina
@@ -1632,7 +1632,7 @@
   - WG 4
   - WG 5
 - name: Amin Ghaderi Kangavari
-  title: Dr
+  title: Dr.
   email: amingk@drcmr.dk
   institution: Copenhagen University Hospital Amager Hvidovre
   country: Denmark
@@ -1641,7 +1641,7 @@
   - WG 3
   - WG 5
 - name: Marta Padrela Loureiro
-  title: Ms
+  title: Ms.
   email: marta.padrela@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -1649,7 +1649,7 @@
   - WG 2
   - WG 3
 - name: Mariano Mastinu
-  title: Dr
+  title: Dr.
   email: mariano.mastinu@unica.it
   institution: Universita Degli Studi Di Cagliari
   country: Italy
@@ -1657,7 +1657,7 @@
   - WG 2
   - WG 3
 - name: Arnisa Sokoli
-  title: Ms
+  title: Ms.
   email: arnisa.sokoli@fshn.edu.al
   institution: University of Tirana
   country: Albania
@@ -1665,7 +1665,7 @@
   - WG 2
   - WG 3
 - name: Bilge Özgör
-  title: Dr
+  title: Dr.
   email: bilge.ozr@inonu.edu.tr
   institution: İnönü Üniversitesi
   country: Türkiye
@@ -1674,7 +1674,7 @@
   - WG 4
   - WG 5
 - name: Victor Férat
-  title: Mr
+  title: Mr.
   email: victor.ferat@fcbg.ch
   institution: Fondation Campus Biotech Geneva
   country: Switzerland
@@ -1684,35 +1684,35 @@
   - WG 4
   - WG 5
 - name: Ardiana Topi
-  title: Dr
+  title: Dr.
   email: ardiana.topi@uet.edu.al
   institution: European University of Tirana
   country: Albania
   working_groups:
   - WG 3
 - name: Ayseirem Cetin
-  title: Ms
+  title: Ms.
   email: ayseiremcetin@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Barbara Strasser-Kirchweger
-  title: Ms
+  title: Ms.
   email: barbara.strasser-kirchweger@plus.ac.at
   institution: Paris Lodron University of Salzburg
   country: Austria
   working_groups:
   - WG 3
 - name: Burçin Kurt
-  title: Dr
+  title: Dr.
   email: burcinnkurt@gmail.com
   institution: Karadeniz Teknik Universitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Chairi Kiourt
-  title: Dr
+  title: Dr.
   email: chairiq@athenarc.gr
   institution: Athena - Research and Innovation Center in Information, Communication
     and Knowledge Technologies
@@ -1720,7 +1720,7 @@
   working_groups:
   - WG 3
 - name: Claude Bajada
-  title: Dr
+  title: Dr.
   id: claude
   photo: "/assets/images/people/claude.jpg"
   email: claude.bajada@um.edu.mt
@@ -1733,7 +1733,7 @@
   - Management Committee
   coordination_order: 21
 - name: ERDAL HORATA
-  title: Dr
+  title: Dr.
   email: erdalhorata@gmail.com
   institution: Afyonkarahisar Sağlık Bilimleri Üniversitesi
   country: Türkiye
@@ -1741,14 +1741,14 @@
   - WG 3
   - WG 5
 - name: Esra Sümer-Arpak
-  title: Ms
+  title: Ms.
   email: esra.sumer.arpak@associated.ltu.se
   institution: Luleå University of Technology
   country: Sweden
   working_groups:
   - WG 3
 - name: Gilbert Hangel
-  title: Dr
+  title: Dr.
   email: gilbert.hangel@meduniwien.ac.at
   institution: Medizinische Universität Wien
   country: Austria
@@ -1756,28 +1756,28 @@
   - WG 3
   - WG 4
 - name: Gulce Turhan
-  title: Ms
+  title: Ms.
   email: gulce.turhan@std.bogazici.edu.tr
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Jan Strobl
-  title: Dr
+  title: Dr.
   email: jan.strobl@nudz.cz
   institution: Narodni Ustav Dusevniho Zdravi
   country: Czechia
   working_groups:
   - WG 3
 - name: LINA MAHMOUD SALEH ALQAM
-  title: Ms
+  title: Ms.
   email: lina.alqam1@std.bogazici.edu.tr
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Mahnaz Arvaneh
-  title: Dr
+  title: Dr.
   email: m.arvaneh@sheffield.ac.uk
   institution: University of Sheffield
   country: United Kingdom
@@ -1785,14 +1785,14 @@
   - WG 3
   - WG 4
 - name: Radek Marecek
-  title: Dr
+  title: Dr.
   email: radek.marecek@ceitec.muni.cz
   institution: Masarykova univerzita
   country: Czechia
   working_groups:
   - WG 3
 - name: Ricardo Chavarriaga
-  title: Dr
+  title: Dr.
   email: Ricardo.chavarriaga@zhaw.ch
   institution: Zurich University of Applied Sciences
   country: Switzerland
@@ -1800,7 +1800,7 @@
   - WG 3
   - WG 4
 - name: Sebastien Jodogne
-  title: Prof
+  title: Prof.
   id: sebastien
   photo: "/assets/images/people/sebastien.jpg"
   email: sebastien.jodogne@uclouvain.be
@@ -1812,28 +1812,28 @@
   - Management Committee
   coordination_order: 38
 - name: Serdar Ciftci
-  title: Dr
+  title: Dr.
   email: serdarciftci@harran.edu.tr
   institution: Harran Universitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Steffen Bollmann
-  title: Dr
+  title: Dr.
   email: s.bollmann@uq.edu.au
   institution: University of Queensland
   country: Australia
   working_groups:
   - WG 3
 - name: Yahya Abu Zahra
-  title: Mr
+  title: Mr.
   email: yabuzahra7@gmail.com
   institution: Bartin University
   country: Türkiye
   working_groups:
   - WG 3
 - name: Sumit Sharma
-  title: Mr
+  title: Mr.
   email: sumit336sharma@gmail.com
   institution: Parul University
   country: India
@@ -1841,35 +1841,35 @@
   - WG 3
   - WG 4
 - name: Alexandre Andrade
-  title: Prof
+  title: Prof.
   email: aandrade@fc.ul.pt
   institution: Faculdade de Ciências da Universidade de Lisboa
   country: Portugal
   working_groups:
   - WG 3
 - name: Rodrigo Jhampier Caceres Robles
-  title: Mr
+  title: Mr.
   email: rodrigo.caceres1@unmsm.edu.pe
   institution: Universidad Nacional Mayor De San Marcos
   country: Peru
   working_groups:
   - WG 3
 - name: Anandapadmanabhan Unnikrishnan
-  title: Mr
+  title: Mr.
   email: u.anandapadmanabhan@gmail.com
   institution: Institut du Cerveau
   country: France
   working_groups:
   - WG 3
 - name: Abdallah Benassloune
-  title: Mr
+  title: Mr.
   email: benasslounabdallah@gmail.com
   institution: University of Science and Technology Houari Boumediene
   country: Algeria
   working_groups:
   - WG 3
 - name: Kubilay Dogan Kilic
-  title: Dr
+  title: Dr.
   email: kubilaydk@gmail.com
   institution: Ege University
   country: Türkiye
@@ -1877,14 +1877,14 @@
   - WG 3
   - WG 4
 - name: Ruiqing Ni
-  title: Dr
+  title: Dr.
   email: ruiqing.ni@unibe.ch
   institution: Insel Gruppe Ag
   country: Switzerland
   working_groups:
   - WG 3
 - name: Rita Reis Nunes
-  title: Ms
+  title: Ms.
   email: rita.nunes@tecnico.ulisboa.pt
   institution: Instituto Superior Técnico
   country: Portugal
@@ -1892,7 +1892,7 @@
   - WG 3
   - WG 4
 - name: Mariami Bichnigauri
-  title: Ms
+  title: Ms.
   email: mariabichnigauri@gmail.com
   institution: Petre Shotadze Tbilisi Medical Academy
   country: Georgia
@@ -1901,14 +1901,14 @@
   - WG 4
   - WG 5
 - name: Fatih Onay
-  title: Dr
+  title: Dr.
   email: fatih.onay@btu.edu.tr
   institution: Bursa Technical University
   country: Türkiye
   working_groups:
   - WG 3
 - name: Jamsher Bhanbhro
-  title: Mr
+  title: Mr.
   email: jamsher.bhanbhro@dimes.unical.it
   institution: Universita Della Calabria
   country: Italy
@@ -1917,42 +1917,42 @@
   - WG 4
   - WG 5
 - name: Leen HAKKI
-  title: Ms
+  title: Ms.
   email: leenhk82@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: David Linhardt
-  title: Mr
+  title: Mr.
   email: david.linhardt@meduniwien.ac.at
   institution: Medizinische Universität Wien
   country: Austria
   working_groups:
   - WG 3
 - name: Yıldız Tüzün
-  title: Ms
+  title: Ms.
   email: yildiztuzun099@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: Sergiu NISIOI
-  title: Dr
+  title: Dr.
   email: sergiu.nisioi@gmail.com
   institution: University of Bucharest
   country: Romania
   working_groups:
   - WG 3
 - name: Dominik Zuschlag
-  title: Mr
+  title: Mr.
   email: dominikzuschlag30@gmail.com
   institution: Medizinische Universität Wien
   country: Austria
   working_groups:
   - WG 3
 - name: Lavinia-Bianca Pop
-  title: Ms
+  title: Ms.
   email: lavinia-bianca.pop@uni-oldenburg.de
   institution: Carl Von Ossietzky Universitaet Oldenburg
   country: Germany
@@ -1960,14 +1960,14 @@
   - WG 3
   - WG 4
 - name: Arda Canbaş
-  title: Mr
+  title: Mr.
   email: ardacanbas336@gmail.com
   institution: Boğaziçi Üniversitesi
   country: Türkiye
   working_groups:
   - WG 3
 - name: C Gallese
-  title: Dr
+  title: Dr.
   email: chiara.gallese@lexpadova.it
   institution: Universita degli Studi di Torino
   country: Italy
@@ -1975,14 +1975,14 @@
   - WG 4
   - WG 5
 - name: Cyril Pernet
-  title: Dr
+  title: Dr.
   email: cyril.pernet@nru.dk
   institution: Rigshospitalet
   country: Denmark
   working_groups:
   - WG 4
 - name: Damian Eke
-  title: Dr
+  title: Dr.
   id: damian
   photo: "/assets/images/people/damian.jpg"
   email: damian.eke@nottingham.ac.uk
@@ -1995,7 +1995,7 @@
   - Management Committee
   coordination_order: 23
 - name: David VAL-LAILLET
-  title: Dr
+  title: Dr.
   email: david.val-laillet@inrae.fr
   institution: Institut national de recherche pour l'agriculture, l'alimentation et
     l'environnement
@@ -2004,56 +2004,56 @@
   - WG 4
   - WG 5
 - name: Delphine Reinhardt
-  title: Prof
+  title: Prof.
   email: reinhardt@cs.uni-goettingen.de
   institution: Georg-august-universitat Gottingen Stiftung Offentlichen Rechts
   country: Germany
   working_groups:
   - WG 4
 - name: Elif Küzeci
-  title: Dr
+  title: Dr.
   email: elifkuzeci@gmail.com
   institution: Bilkent University
   country: Türkiye
   working_groups:
   - WG 4
 - name: Fernando Ferreira-Santos
-  title: Dr
+  title: Dr.
   email: frsantos@fpce.up.pt
   institution: Universidade do Porto
   country: Portugal
   working_groups:
   - WG 4
 - name: Javier Marta Moreno
-  title: Dr
+  title: Dr.
   email: jmartam@gmail.com
   institution: Instituto de Investigación Sanitaria Aragón
   country: Spain
   working_groups:
   - WG 4
 - name: Karam Sidaros
-  title: Dr
+  title: Dr.
   email: karams@drcmr.dk
   institution: Region Hovedstaden
   country: Denmark
   working_groups:
   - WG 4
 - name: Mustafa Alpgiray SOYLEMEZ
-  title: Mr
+  title: Mr.
   email: alpgiray@sinop.edu.tr
   institution: Sinop Universitesi
   country: Türkiye
   working_groups:
   - WG 4
 - name: Petra Zandonella
-  title: Ms
+  title: Ms.
   email: petra.zandonella@uni-graz.at
   institution: Universitaet Graz
   country: Austria
   working_groups:
   - WG 4
 - name: Neslihan Lok
-  title: Prof
+  title: Prof.
   email: neslihanlok@selcuk.edu.tr
   institution: Selcuk Universitesi
   country: Türkiye
@@ -2061,7 +2061,7 @@
   - WG 4
   - WG 5
 - name: Mireille Sant
-  title: Dr
+  title: Dr.
   id: mireille
   photo: "/assets/images/people/mireille.jpg"
   email: mireille.caruana@um.edu.mt
@@ -2073,7 +2073,7 @@
   - Management Committee
   coordination_order: 32
 - name: Arzu KURSUN
-  title: Dr
+  title: Dr.
   email: arzu.kursun@giresun.edu.tr
   institution: Giresun University
   country: Türkiye
@@ -2081,14 +2081,14 @@
   - WG 4
   - WG 5
 - name: Edvin Zukic
-  title: Dr
+  title: Dr.
   email: edvin.zukic@plus.ac.at
   institution: Paris Lodron University of Salzburg
   country: Austria
   working_groups:
   - WG 4
 - name: Dinko Mitrecic
-  title: Prof
+  title: Prof.
   id: dinko
   photo: "/assets/images/people/dinko.jpg"
   email: dinko.mitrecic@mef.hr
@@ -2100,14 +2100,14 @@
   - Management Committee
   coordination_order: 25
 - name: Laura Ramos Barrau
-  title: Dr
+  title: Dr.
   email: laura.ramosb98@gmail.com
   institution: Instituto de Investigación Sanitaria Aragón
   country: Spain
   working_groups:
   - WG 4
 - name: IOANNIS PAPACHRISTOS
-  title: Mr
+  title: Mr.
   email: papachristosioannis@gmail.com
   institution: University of Ioannina
   country: Greece
@@ -2115,14 +2115,14 @@
   - WG 4
   - WG 5
 - name: Jessica Jurado Garcia
-  title: Ms
+  title: Ms.
   email: jessica.jurado.garcia@uol.de
   institution: Carl Von Ossietzky Universitaet Oldenburg
   country: Germany
   working_groups:
   - WG 5
 - name: Mathew Abrams
-  title: Dr
+  title: Dr.
   id: mathew
   photo: "/assets/images/people/mathew.jpg"
   email: mathew@incf.org
@@ -2135,42 +2135,42 @@
   - WG5 leader
   coordination_order: 10
 - name: Derya ÖZTÜRK SÖYLEMEZ
-  title: Dr
+  title: Dr.
   email: phderyaozturk@gmail.com
   institution: Sinop Universitesi
   country: Türkiye
   working_groups:
   - WG 5
 - name: Francesca Benedetta Pizzini
-  title: Prof
+  title: Prof.
   email: francesca.pizzini@aovr.veneto.it
   institution: Università degli Studi di Verona
   country: Italy
   working_groups:
   - WG 5
 - name: ahmet eren karabiyik
-  title: Dr
+  title: Dr.
   email: eren_karabiyik@live.com
   institution: Niğde Ömer Halisdemir University
   country: Türkiye
   working_groups:
   - WG 5
 - name: Lilian Goetz
-  title: Ms
+  title: Ms.
   email: Greta.Goetz@i-med.ac.at
   institution: Medical University of Innsbruck
   country: Austria
   working_groups:
   - WG 5
 - name: Giancarlo Gola
-  title: Prof
+  title: Prof.
   email: ggola@units.it
   institution: University of Trieste
   country: Italy
   working_groups:
   - WG 5
 - name: Asif Ali
-  title: Dr
+  title: Dr.
   email: asif.ali@gcu.edu.pk
   institution: Government College University Lahore
   country: Pakistan
@@ -2188,7 +2188,7 @@
   - Grant holder manager
   coordination_order: 4
 - name: Camille Maumet
-  title: Dr
+  title: Dr.
   id: camille
   photo: "/assets/images/people/camille.jpg"
   email: camille.maumet@inria.fr
@@ -2200,7 +2200,7 @@
   - Management Committee
   coordination_order: 9
 - name: Esin Ozturk-Isik
-  title: Prof
+  title: Prof.
   id: esin
   photo: "/assets/images/people/esin.jpg"
   email: esin.ozturk@boun.edu.tr
@@ -2211,7 +2211,7 @@
   - Management Committee
   coordination_order: 15
 - name: Branislav Gerazov
-  title: Mr
+  title: Mr.
   id: branislav
   photo: "/assets/images/people/branislav.jpg"
   email: gerazov@feit.ukim.edu.mk
@@ -2221,7 +2221,7 @@
   - Management Committee
   coordination_order: 20
 - name: Gabriela Novotni
-  title: Dr
+  title: Dr.
   id: gabriela
   email: gabinovotni@gmail.com
   institution: Ss. Cyril and Methodius University in Skopje
@@ -2230,7 +2230,7 @@
   - Management Committee
   coordination_order: 27
 - name: Sinisa Ristic
-  title: Prof
+  title: Prof.
   id: sinisa
   email: risticsinisa@yahoo.com
   institution: Faculty of Medicine Foca

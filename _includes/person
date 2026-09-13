@@ -51,7 +51,14 @@ Parameters:
     {% endif %}
     {% if showemail == "yes" %}
         {% if person.email %}
-            <p class="person-email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+            {% assign email_parts = person.email | split: "@" %}
+            {% comment %} Email protection adapted from https://joemaller.com/js-mailer.shtml by Joe Maller. {% endcomment %}
+            <p class="person-email"><script>
+              (function () {
+                var emailAddress = {{ email_parts[0] | jsonify }} + "@" + {{ email_parts[1] | jsonify }};
+                document.write('<a href="mailto:' + emailAddress + '">' + emailAddress + '</a>');
+              }());
+            </script></p>
         {% else %}
             <p>&nbsp;</p>
         {% endif %}

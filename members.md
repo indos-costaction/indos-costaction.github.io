@@ -18,14 +18,14 @@ title: Members
     <input type="search" id="members-search" placeholder="Member name, institution, or country" />
   </div>
   <div class="members-filter">
-    <label for="members-filter-country">Country</label>
-    <select id="members-filter-country">
+    <label for="members-filter-institution">Institution</label>
+    <select id="members-filter-institution">
       <option value="">All</option>
     </select>
   </div>
   <div class="members-filter">
-    <label for="members-filter-institution">Institution</label>
-    <select id="members-filter-institution">
+    <label for="members-filter-country">Country</label>
+    <select id="members-filter-country">
       <option value="">All</option>
     </select>
   </div>
@@ -38,7 +38,19 @@ title: Members
 <div id="members-grid" class="members-grid"></div>
 
 <script>
-window.MEMBERS_DATA = {{ site.data.members | jsonify }};
+window.MEMBERS_DATA = [
+{% for member in site.data.members %}
+  {% assign email_parts = member.email | split: "@" %}
+  {
+    "name": {{ member.name | jsonify }},
+    "title": {{ member.title | jsonify }},
+    "emailName": {{ email_parts[0] | jsonify }},
+    "emailDomain": {{ email_parts[1] | jsonify }},
+    "institution": {{ member.institution | jsonify }},
+    "country": {{ member.country | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+];
 window.INSTITUTIONS_DATA = {{ site.data.institutions | jsonify }};
 </script>
 <script src="{{ '/assets/script/members.js' | relative_url }}"></script>

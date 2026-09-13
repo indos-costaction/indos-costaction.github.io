@@ -9,7 +9,9 @@ WG2 is dedicated to improving the way neuroimaging data and experimental informa
 ### Coordination
 
 <div class="person-cards">
-{% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG2 leader' or member.coordination contains 'WG2 co-leader'" | sort: "coordination_order" %}
+{% assign leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG2 leader'" %}
+{% assign co_leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG2 co-leader'" %}
+{% assign coordinators = leaders | concat: co_leaders | sort: "coordination_order" %}
 {% for person in coordinators %}
   {% include person person=person coordination="no" institution="no" %}
 {% endfor %}

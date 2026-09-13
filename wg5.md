@@ -9,7 +9,9 @@ WG5 ensures that the outcomes of the Action are visible, accessible, and impactf
 ### Coordination
 
 <div class="person-cards">
-{% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG5 leader' or member.coordination contains 'WG5 co-leader'" | sort: "coordination_order" %}
+{% assign leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG5 leader'" %}
+{% assign co_leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG5 co-leader'" %}
+{% assign coordinators = leaders | concat: co_leaders | sort: "coordination_order" %}
 {% for person in coordinators %}
   {% include person person=person coordination="no" institution="no" %}
 {% endfor %}

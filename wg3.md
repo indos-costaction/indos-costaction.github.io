@@ -17,7 +17,9 @@ Questions? See the [contact page](/contact) or write to the WG3 mailing list.
 ### Coordination
 
 <div class="person-cards">
-{% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG3 leader' or member.coordination contains 'WG3 co-leader'" | sort: "coordination_order" %}
+{% assign leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG3 leader'" %}
+{% assign co_leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG3 co-leader'" %}
+{% assign coordinators = leaders | concat: co_leaders | sort: "coordination_order" %}
 {% for person in coordinators %}
   {% include person person=person coordination="no" institution="no" %}
 {% endfor %}

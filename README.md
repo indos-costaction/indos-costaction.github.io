@@ -63,7 +63,7 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 │   ├── navigation.yaml
 │   ├── members.yaml
 │   ├── institutions.yaml
-│   └── contries.yaml
+│   └── countries.yaml
 ├── _layouts/
 ├── _includes/
 │   ├── header

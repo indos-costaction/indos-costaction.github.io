@@ -18,9 +18,10 @@ Here you can find the names and contact details of the people with a leading, co
 </div>
 
 <div class="narrow-grid">
-{% for person in site.data.people %}
-  <div class="narrow-card person-card" data-roles="{{ person.roles | join: ',' }}">
-    {% include person id=person.id roles="yes" %}
+{% assign coordinators = site.data.members | where_exp: "member", "member.coordination" | sort: "coordination_order" %}
+{% for person in coordinators %}
+  <div class="narrow-card person-card" data-roles="{{ person.coordination | join: ',' }}">
+    {% include person id=person.id coordination="yes" institution="no" %}
   </div>
 {% endfor %}
 </div>
@@ -35,8 +36,8 @@ Here you can find the names and contact details of the people with a leading, co
       const filter = btn.dataset.filter;
       const filterWord = filter.split(' ')[0].toLowerCase();
       personCards.forEach((card) => {
-        const roles = (card.dataset.roles || '').split(',').map((r) => r.trim().toLowerCase());
-        const show = filter === 'all' || roles.some((role) => role.split(' ')[0] === filterWord);
+        const coordination = (card.dataset.coordination || '').split(',').map((r) => r.trim().toLowerCase());
+        const show = filter === 'all' || coordination.some((role) => role.split(' ')[0] === filterWord);
         card.style.display = show ? '' : 'none';
       });
     });

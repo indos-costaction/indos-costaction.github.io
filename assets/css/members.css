@@ -1,8 +1,8 @@
-/* Labs page styles */
+/* Members page styles */
 
 /* ── Map ──────────────────────────────────────────────────────────────── */
 
-.labs-map {
+.members-map {
   width: 100%;
   height: 500px;
   border-radius: 10px;
@@ -12,33 +12,48 @@
 }
 
 /* Prevent global box-sizing from displacing Leaflet tiles and markers */
-.labs-map *,
-.labs-map *::before,
-.labs-map *::after {
+.members-map *,
+.members-map *::before,
+.members-map *::after {
   box-sizing: content-box;
 }
 
 /* Leaflet popups */
 
-.labs-popup h4 {
+.members-popup h4 {
   margin: 0 0 0.3rem;
   font-size: 1rem;
   color: var(--logo-blue);
 }
 
-.labs-popup p {
+.members-popup p {
   margin: 0.15rem 0;
   font-size: 0.88rem;
   line-height: 1.4;
 }
 
-.labs-popup a {
+.members-popup__count {
+  display: block;
+  margin: 0.15rem 0;
+  padding: 0;
+  border: 0;
+  background: none;
   color: #3498db;
+  font: inherit;
+  font-size: 0.88rem;
+  line-height: 1.4;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.members-popup__count:focus-visible {
+  outline: 2px solid var(--logo-blue);
+  outline-offset: 2px;
 }
 
 /* ── Filter bar ───────────────────────────────────────────────────────── */
 
-.labs-filters {
+.members-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
@@ -50,15 +65,15 @@
   border: 1px solid #e9ecef;
 }
 
-.labs-filters label {
+.members-filters label {
   font-size: 0.85rem;
   font-weight: 600;
   color: #555;
   margin-bottom: 0;
 }
 
-.labs-filters input,
-.labs-filters select {
+.members-filters input,
+.members-filters select {
   font-size: 0.95rem;
   padding: 0.4rem 0.7rem;
   border: 1px solid #ccc;
@@ -67,54 +82,52 @@
   transition: border-color 0.2s;
 }
 
-.labs-filters input:focus,
-.labs-filters select:focus {
+.members-filters input:focus,
+.members-filters select:focus {
   outline: none;
   border-color: var(--logo-blue);
   box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15);
 }
 
-.labs-search {
+.members-search {
   flex: 1 1 260px;
   min-width: 200px;
 }
 
-.labs-search input {
+.members-search input {
   width: 100%;
 }
 
-.labs-filter-country {
-  flex: 0 1 180px;
-}
-
-.labs-filter-country select {
-  width: 100%;
-}
-
-.labs-filter-area {
+.members-filter {
   flex: 0 1 200px;
 }
 
-.labs-filter-area select {
+.members-filter select {
   width: 100%;
 }
 
-.labs-count {
+#members-fit {
+  align-self: flex-end;
+}
+
+.members-count {
   font-size: 0.85rem;
   color: #777;
   margin-left: auto;
+  margin-bottom: 0.4rem;
+  align-self: flex-end;
   white-space: nowrap;
 }
 
-/* ── Lab cards grid ───────────────────────────────────────────────────── */
+/* ── Member cards grid ────────────────────────────────────────────────── */
 
-.labs-grid {
+.members-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   gap: 1.25rem;
 }
 
-.labs-card {
+.member-card {
   background: #f8f9fa;
   padding: 1.25rem;
   border-radius: 10px;
@@ -122,78 +135,62 @@
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.labs-card:hover {
+.member-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
 }
 
-.labs-card.highlight {
-  border-left-color: var(--logo-purple);
-  background: #f3eef9;
-}
-
-.labs-card h4 {
+.member-card h4 {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
   color: var(--logo-blue);
 }
 
-.labs-card .labs-card__university {
+.member-card__email {
+  font-size: 0.9rem;
+  margin: 0 0 0.3rem;
+}
+
+.member-card__institution {
   font-size: 0.92rem;
   color: #555;
   margin: 0 0 0.3rem;
   font-style: italic;
 }
 
-.labs-card .labs-card__location {
+.member-card__country {
   font-size: 0.88rem;
   color: #777;
   margin: 0 0 0.5rem;
 }
 
-.labs-card .labs-card__contact {
-  font-size: 0.9rem;
-  margin: 0 0 0.15rem;
-}
-
-.labs-card .labs-card__areas {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-top: 0.6rem;
-}
-
-.labs-tag {
-  display: inline-block;
-  font-size: 0.78rem;
-  padding: 0.15rem 0.55rem;
-  border-radius: 12px;
-  background: var(--logo-turquoise);
-  color: #fff;
-  font-weight: 500;
-}
-
-.labs-card.hidden {
+.member-card.hidden {
   display: none;
 }
 
 /* ── Responsive ───────────────────────────────────────────────────────── */
 
 @media (max-width: 768px) {
-  .labs-map {
+  .members-map {
     height: 350px;
   }
 
-  .labs-grid {
+  .members-grid {
     grid-template-columns: 1fr;
   }
 
-  .labs-filters {
+  .members-filters {
     flex-direction: column;
     align-items: stretch;
   }
 
-  .labs-count {
+  #members-fit {
+    align-self: auto;
+  }
+
+  .members-count {
     margin-left: 0;
+    margin-bottom: 0;
+    align-self: auto;
   }
 }

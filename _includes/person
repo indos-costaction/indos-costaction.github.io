@@ -1,8 +1,8 @@
 {% comment %}
-This piece of Liquid template language code includes a person's details from the _data/people.yml file.
+This piece of Liquid template language code includes a person's details from the _data/members.yml file.
 Parameters:
 - id: The unique identifier of the person (required).
-- roles: "yes" or "no" to show or hide the list of roles (default = "no")
+- coordination: "yes" or "no" to show or hide the list of coordination roles (default = "no")
 - photo: "yes" or "no" to show or hide the photo (default = "yes")
 - email: "yes" or "no" to show or hide the email (default = "yes")
 - affiliation: "yes" or "no" to show or hide the affiliation (default = "yes")
@@ -23,24 +23,24 @@ Parameters:
     {% assign showemail = include.email %}
 {% endif %}
 
-{% if include.roles == nill or include.roles == "" %}
-    {% assign showroles = "no" %}
+{% if include.coordination == nill or include.coordination == "" %}
+    {% assign showcoordination = "no" %}
 {% else %}
-    {% assign showroles = include.roles %}
+    {% assign showcoordination = include.coordination %}
 {% endif %}
 
-{% if include.affiliation == nill or include.affiliation == "" %}
-    {% assign showaffiliation = "yes" %}
+{% if include.institution == nill or include.institution == "" %}
+    {% assign showinstitution = "yes" %}
 {% else %}
-    {% assign showaffiliation = include.affiliation %}
+    {% assign showinstitution = include.institution %}
 {% endif %}
 
-{% assign person = site.data.people | where: "id", include.id | first %}
+{% assign person = site.data.members | where: "id", include.id | first %}
 
 {% if person %}
 <div class="person{% if include.class %} {{ include.class }}{% endif %}">
     <h4>
-    {{ person.fullname }}{% if include.tag %}{% assign tags = include.tag | split: "|" %} <span class="person-tags">{% for tag in tags %}{% assign tagname = tag | strip %}<span class="person-tag person-tag--{{ tagname | downcase | replace: ' ', '-' }}">{{ tagname }}</span> {% endfor %}</span>{% endif %}
+    {{ person.name }}{% if include.tag %}{% assign tags = include.tag | split: "|" %} <span class="person-tags">{% for tag in tags %}{% assign tagname = tag | strip %}<span class="person-tag person-tag--{{ tagname | downcase | replace: ' ', '-' }}">{{ tagname }}</span> {% endfor %}</span>{% endif %}
     </h4>
     {% if showphoto == "yes" %}
         {% if person.photo %}
@@ -56,18 +56,18 @@ Parameters:
             <p>&nbsp;</p>
         {% endif %}
     {% endif %}
-    {% if showroles == "yes" %}
-        {% if person.roles %}
+    {% if showcoordination == "yes" %}
+        {% if person.coordination %}
             <p class="person-roles">
-            {% for role in person.roles %}
+            {% for role in person.coordination %}
                 {{ role }}{% unless forloop.last %}<br>{% endunless %}
             {% endfor %}
             </p>
         {% endif %}
     {% endif %}
-    {% if showaffiliation == "yes" %}
-        {% if person.affiliation %}
-            <p class="person-affiliation">{{ person.affiliation }}</p>
+    {% if showinstitution == "yes" %}
+        {% if person.institution %}
+            <p class="person-">{{ person.institution }}</p>
         {% else %}
             <p>&nbsp;</p>
         {% endif %}

@@ -19,7 +19,7 @@ Please note that most website content is formatted in plain [Markdown](https://w
 - **Edit content**: Modify the Markdown files (`index.md`, `coordination.md`, `working-groups.md`, etc.)
 - **Styling**: Edit `assets/css/style.css`
 - **Navigation**: Update `_data/navigation.yaml`
-- **People data**: Edit `_data/people.yaml`
+- **Data**: Edit the yaml files in `_data`
 
 ### Running it locally
 
@@ -61,7 +61,9 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 ├── contact.md
 ├── _data/
 │   ├── navigation.yaml
-│   └── people.yaml
+│   ├── members.yaml
+│   ├── institutions.yaml
+│   └── contries.yaml
 ├── _layouts/
 ├── _includes/
 │   ├── header

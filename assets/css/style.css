@@ -513,7 +513,7 @@ body {
   object-fit: cover;
 }
 
-/* Person roles: compact, bullet-free list in a smaller distinct font. */
+/* Person coordination roles: compact, bullet-free list in a smaller distinct font. */
 .person-roles {
   margin: 0 0 0.5rem;
   padding: 0;

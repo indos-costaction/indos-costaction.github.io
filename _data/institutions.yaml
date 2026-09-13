@@ -1,0 +1,692 @@
+---
+- name: Aalto University
+  country: Finland
+  latitude: 60.186079
+  longitude: 24.828102
+- name: Afyonkarahisar Sağlık Bilimleri Üniversitesi
+  country: Türkiye
+  latitude: 38.784932
+  longitude: 30.466807
+- name: Agencia Estatal Consejo Superior de Investigaciones Cientificas
+  country: Spain
+  latitude: 40.440714
+  longitude: -3.687401
+- name: Agriculture University of Tirana, Department of Mathematics and Informatics
+  country: Albania
+  latitude: 41.362887
+  longitude: 19.768105
+- name: Aix Marseille Univ, CNRS, CRPN, Aix-en-Provence, France
+  country: France
+  latitude: 43.525913
+  longitude: 5.414104
+- name: An-najah National University
+  country: Palestine
+  latitude: 32.228066
+  longitude: 35.237042
+- name: Ankara Universitesi
+  country: Türkiye
+  latitude: 39.846486
+  longitude: 32.781493
+- name: Antalya Bilim Üniversitesi
+  country: Türkiye
+  latitude: 37.05256
+  longitude: 30.625147
+- name: Aristotle University of Thessaloniki
+  country: Greece
+  latitude: 40.629672
+  longitude: 22.959147
+- name: Athena - Research and Innovation Center in Information, Communication and
+    Knowledge Technologies
+  country: Greece
+  latitude: 37.975565
+  longitude: 23.734832
+- name: Babes-Bolyai University
+  country: Romania
+  latitude: 46.767784
+  longitude: 23.591977
+- name: Bangor University
+  country: United Kingdom
+  latitude: 53.215465
+  longitude: -4.178117
+- name: Bartin University
+  country: Türkiye
+  latitude: 41.551553
+  longitude: 32.281143
+- name: BCBL Basque Center On Cognition Brain And Language
+  country: Spain
+  latitude: 43.294339
+  longitude: -1.986063
+- name: Bilkent University
+  country: Türkiye
+  latitude: 39.870469
+  longitude: 32.753919
+- name: Boğaziçi Üniversitesi
+  country: Türkiye
+  latitude: 41.083273
+  longitude: 29.050501
+- name: Bursa Technical University
+  country: Türkiye
+  latitude: 40.188744
+  longitude: 29.130924
+- name: Bursa Uludag University
+  country: Türkiye
+  latitude: 40.238967
+  longitude: 28.869753
+- name: Carl Von Ossietzky Universitaet Oldenburg
+  country: Germany
+  latitude: 53.146729
+  longitude: 8.182885
+- name: Catholic Hospital "Our Lady of Good Council"
+  country: Albania
+  latitude: 41.328148
+  longitude: 19.818444
+- name: Centro Internazionale disordini apprendimento attenzione iperattività
+  country: Italy
+  latitude: 41.89332
+  longitude: 12.482932
+- name: Charité-Universitaetsmedizin Berlin
+  country: Germany
+  latitude: 52.529989
+  longitude: 13.348664
+- name: Copenhagen University Hospital Amager Hvidovre
+  country: Denmark
+  latitude: 55.644171
+  longitude: 12.477209
+- name: Cornell University
+  country: United States
+  latitude: 42.452916
+  longitude: -76.480063
+- name: Ebrains
+  country: Belgium
+  latitude: 50.846737
+  longitude: 4.352493
+- name: Ege University
+  country: Türkiye
+  latitude: 38.455693
+  longitude: 27.228186
+- name: Elektrotehnički fakultet Univerziteta u Beogradu
+  country: Serbia
+  latitude: 44.815332
+  longitude: 20.445659
+- name: Erciyes Universitesi
+  country: Türkiye
+  latitude: 38.707391
+  longitude: 35.533757
+- name: Erzurum Technical University
+  country: Türkiye
+  latitude: 39.923311
+  longitude: 41.224876
+- name: ETH Zurich
+  country: Switzerland
+  latitude: 47.413218
+  longitude: 8.537491
+- name: European University of Tirana
+  country: Albania
+  latitude: 41.342128
+  longitude: 19.845183
+- name: Faculdade de Ciências da Universidade de Lisboa
+  country: Portugal
+  latitude: 38.756702
+  longitude: -9.156658
+- name: Faculty of Medicine Foca
+  country: Bosnia and Herzegovina
+  latitude: 43.505855
+  longitude: 18.774393
+- name: Faculty of Philosophy, University of Belgrade
+  country: Serbia
+  latitude: 44.818004
+  longitude: 20.458127
+- name: Faculty of Philosophy, University of Novi Sad
+  country: Serbia
+  latitude: 45.246596
+  longitude: 19.853491
+- name: Faculty of Technical Sciences, University of Novi Sad
+  country: Serbia
+  latitude: 45.246192
+  longitude: 19.851395
+- name: Fondation Campus Biotech Geneva
+  country: Switzerland
+  latitude: 46.221774
+  longitude: 6.147153
+- name: Fonds De La Recherche Scientifique- Fnrs
+  country: Belgium
+  latitude: 50.839144
+  longitude: 4.365335
+- name: Forschungszentrum Jülich GmbH
+  country: Germany
+  latitude: 50.905401
+  longitude: 6.411869
+- name: Frankfurt University Hospital
+  country: Germany
+  latitude: 50.095204
+  longitude: 8.661105
+- name: Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la
+    Comunitat Valenciana
+  country: Spain
+  latitude: 39.469707
+  longitude: -0.376335
+- name: Fundacion Parque Cientifico De La Universidad De Salamanca
+  country: Spain
+  latitude: 40.965157
+  longitude: -5.664018
+- name: Fırat Üniversitesi
+  country: Türkiye
+  latitude: 38.683783
+  longitude: 39.187523
+- name: Gaziantep Universitesi
+  country: Türkiye
+  latitude: 37.035488
+  longitude: 37.318522
+- name: Gaziantep İslam Bilim ve Teknoloji Üniversitesi
+  country: Türkiye
+  latitude: 37.062832
+  longitude: 37.379262
+- name: Georg-august-universitat Gottingen Stiftung Offentlichen Rechts
+  country: Germany
+  latitude: 51.559225
+  longitude: 9.952444
+- name: Ghent University
+  country: Belgium
+  latitude: 51.007849
+  longitude: 3.710883
+- name: Giresun University
+  country: Türkiye
+  latitude: 40.915579
+  longitude: 38.389785
+- name: Government College University Lahore
+  country: Pakistan
+  latitude: 31.573152
+  longitude: 74.308354
+- name: Harran Universitesi
+  country: Türkiye
+  latitude: 37.155518
+  longitude: 38.796778
+- name: Heilbronn University
+  country: Germany
+  latitude: 49.12258
+  longitude: 9.209933
+- name: Helmholtz Zentrum Dresden Rossendorf
+  country: Germany
+  latitude: 51.057703
+  longitude: 13.953207
+- name: HES-SO Valais-Wallis
+  country: Switzerland
+  latitude: 46.22745
+  longitude: 7.364192
+- name: Hong Kong Metropolitan University
+  country: Hong Kong SAR
+  latitude: 22.316392
+  longitude: 114.1802
+- name: Igdir University
+  country: Türkiye
+  latitude: 39.807095
+  longitude: 44.081901
+- name: Insel Gruppe Ag
+  country: Switzerland
+  latitude: 46.947263
+  longitude: 7.424696
+- name: Institut du Cerveau
+  country: France
+  latitude: 48.835408
+  longitude: 2.364314
+- name: Institut national de recherche pour l'agriculture, l'alimentation et l'environnement
+  country: France
+  latitude: 48.860751
+  longitude: 2.306233
+- name: Institute of Experimental Physics, Slovak Academy Science
+  country: Slovakia
+  latitude: 48.717227
+  longitude: 21.249677
+- name: Institute of Mathematics, Physics and Mechanics
+  country: Slovenia
+  latitude: 46.050027
+  longitude: 14.506929
+- name: Instituto de Investigación Sanitaria Aragón
+  country: Spain
+  latitude: 41.691585
+  longitude: -0.910127
+- name: Instituto Superior Técnico
+  country: Portugal
+  latitude: 38.736745
+  longitude: -9.138391
+- name: Instytut Biologii Doswiadczalnej Im. M. Nenckiego Polskiej Akademii Nauk
+  country: Poland
+  latitude: 52.213592
+  longitude: 20.983266
+- name: International Burch University
+  country: Bosnia and Herzegovina
+  latitude: 43.818355
+  longitude: 18.311852
+- name: International University of Sarajevo
+  country: Bosnia and Herzegovina
+  latitude: 43.821545
+  longitude: 18.309099
+- name: IRCCS SYNLAB SDN
+  country: Italy
+  latitude: 40.835885
+  longitude: 14.248768
+- name: Istanbul Medeniyet University
+  country: Türkiye
+  latitude: 40.995684
+  longitude: 29.062245
+- name: Istanbul Sabahattin Zaim University
+  country: Türkiye
+  latitude: 41.023176
+  longitude: 29.046368
+- name: Istanbul Technical University
+  country: Türkiye
+  latitude: 41.104557
+  longitude: 29.026344
+- name: Istanbul University
+  country: Türkiye
+  latitude: 41.013242
+  longitude: 28.963761
+- name: Izmir Biyotip Ve Genom Merkezi
+  country: Türkiye
+  latitude: 38.393917
+  longitude: 27.030075
+- name: Izmir Demokrasi Unversitesi
+  country: Türkiye
+  latitude: 38.393487
+  longitude: 27.073604
+- name: İnönü Üniversitesi
+  country: Türkiye
+  latitude: 38.32779
+  longitude: 38.436184
+- name: Jagiellonian University
+  country: Poland
+  latitude: 50.060659
+  longitude: 19.930454
+- name: Karabük Üniversitesi
+  country: Türkiye
+  latitude: 41.207255
+  longitude: 32.65838
+- name: Karadeniz Teknik Universitesi
+  country: Türkiye
+  latitude: 40.993642
+  longitude: 39.77403
+- name: Karolinska Institutet
+  country: Sweden
+  latitude: 59.351545
+  longitude: 18.031066
+- name: Kauno Technologijos Universitetas
+  country: Lithuania
+  latitude: 54.898805
+  longitude: 23.912653
+- name: KAYSERİ ÜNİVERSİTESİ
+  country: Türkiye
+  latitude: 38.7132
+  longitude: 35.553197
+- name: Koç University
+  country: Türkiye
+  latitude: 41.206062
+  longitude: 29.073801
+- name: Konya Food and Agriculture University
+  country: Türkiye
+  latitude: 37.874628
+  longitude: 32.473956
+- name: Lausanne University Hospital
+  country: Switzerland
+  latitude: 46.521827
+  longitude: 6.632702
+- name: Leibniz Research Centre for Working Environment and Human Factors at Dortmund
+    University
+  country: Germany
+  latitude: 51.514227
+  longitude: 7.465279
+- name: LOKMAN HEKIM UNIVERSITY
+  country: Türkiye
+  latitude: 39.911107
+  longitude: 32.787585
+- name: Luleå University of Technology
+  country: Sweden
+  latitude: 65.618254
+  longitude: 22.138012
+- name: Masarykova univerzita
+  country: Czechia
+  latitude: 49.163418
+  longitude: 16.726758
+- name: Max Planck Institute for Human Cognitive and Brain Sciences
+  country: Germany
+  latitude: 51.340632
+  longitude: 12.374733
+- name: Medical University of Innsbruck
+  country: Austria
+  latitude: 47.259696
+  longitude: 11.387232
+- name: Medizinische Universität Wien
+  country: Austria
+  latitude: 48.216395
+  longitude: 16.360924
+- name: Mohammed V University in Rabat, Morocco
+  country: Morocco
+  latitude: 34.007437
+  longitude: -6.838045
+- name: Mudanya University
+  country: Türkiye
+  latitude: 40.300434
+  longitude: 28.947633
+- name: Mykolo Romerio universitetas
+  country: Lithuania
+  latitude: 54.734202
+  longitude: 25.258829
+- name: Narodni Ustav Dusevniho Zdravi
+  country: Czechia
+  latitude: 50.179129
+  longitude: 14.41984
+- name: Niğde Ömer Halisdemir University
+  country: Türkiye
+  latitude: 37.937962
+  longitude: 34.624236
+- name: Panteion University of Social and Political Sciences
+  country: Greece
+  latitude: 37.959623
+  longitude: 23.719271
+- name: Paris Lodron University of Salzburg
+  country: Austria
+  latitude: 47.794783
+  longitude: 13.05416
+- name: Parul University
+  country: India
+  latitude: 22.288749
+  longitude: 73.36384
+- name: Petre Shotadze Tbilisi Medical Academy
+  country: Georgia
+  latitude: 41.693459
+  longitude: 44.801449
+- name: Politechnika Wroclawska
+  country: Poland
+  latitude: 51.10802
+  longitude: 17.062802
+- name: Polytechnic University of Tirana
+  country: Albania
+  latitude: 41.31662
+  longitude: 19.821735
+- name: Radboud University
+  country: Netherlands
+  latitude: 51.821517
+  longitude: 5.863433
+- name: Recep Tayyip Erdogan University
+  country: Türkiye
+  latitude: 41.037498
+  longitude: 40.493106
+- name: Region Hovedstaden
+  country: Denmark
+  latitude: 55.861602
+  longitude: 12.313797
+- name: Rigshospitalet
+  country: Denmark
+  latitude: 55.697044
+  longitude: 12.565895
+- name: Sakarya University of Applied Sciences
+  country: Türkiye
+  latitude: 41.026218
+  longitude: 30.302221
+- name: Selcuk Universitesi
+  country: Türkiye
+  latitude: 38.024207
+  longitude: 32.505705
+- name: Siemens Healthineers
+  country: Türkiye
+  latitude: 41.006381
+  longitude: 28.975872
+- name: Siemens Healthineers AG
+  country: Germany
+  latitude: 49.702345
+  longitude: 11.055367
+- name: Singidunum University Belgrade
+  country: Serbia
+  latitude: 44.782186
+  longitude: 20.47879
+- name: Sinop Universitesi
+  country: Türkiye
+  latitude: 42.009669
+  longitude: 35.072408
+- name: Ss. Cyril and Methodius University in Skopje
+  country: North Macedonia
+  latitude: 42.000096
+  longitude: 21.443472
+- name: Staffordshire University
+  country: United Kingdom
+  latitude: 53.009475
+  longitude: -2.174269
+- name: Stanford University
+  country: United States
+  latitude: 37.431314
+  longitude: -122.169365
+- name: Suleyman Demirel University
+  country: Türkiye
+  latitude: 37.837955
+  longitude: 30.535046
+- name: Tallinn University of Technology
+  country: Estonia
+  latitude: 59.394974
+  longitude: 24.667619
+- name: Tarsus University
+  country: Türkiye
+  latitude: 36.95309
+  longitude: 34.848957
+- name: Tartu University
+  country: Estonia
+  latitude: 58.381014
+  longitude: 26.71956
+- name: Technical University of Kosice
+  country: Slovakia
+  latitude: 48.733115
+  longitude: 21.243993
+- name: The Hebrew University Of Jerusalem
+  country: Israel
+  latitude: 31.791856
+  longitude: 35.244723
+- name: The University of Birmingham
+  country: United Kingdom
+  latitude: 52.450433
+  longitude: -1.932003
+- name: Universidad Complutense De Madrid
+  country: Spain
+  latitude: 40.431474
+  longitude: -3.790044
+- name: Universidad Europea de Valencia
+  country: Spain
+  latitude: 39.475509
+  longitude: -0.365241
+- name: Universidad Nacional Mayor De San Marcos
+  country: Peru
+  latitude: -11.954637
+  longitude: -76.987467
+- name: Universidad Politécnica de Madrid
+  country: Spain
+  latitude: 40.547356
+  longitude: -3.691834
+- name: Universidade de Coimbra
+  country: Portugal
+  latitude: 40.18615
+  longitude: -8.41525
+- name: Universidade do Porto
+  country: Portugal
+  latitude: 41.178542
+  longitude: -8.602223
+- name: Universita Degli Studi Di Cagliari
+  country: Italy
+  latitude: 39.221826
+  longitude: 9.110659
+- name: Universita degli Studi di Torino
+  country: Italy
+  latitude: 45.073382
+  longitude: 7.699437
+- name: Universita Della Calabria
+  country: Italy
+  latitude: 39.362087
+  longitude: 16.223709
+- name: Universitaet Graz
+  country: Austria
+  latitude: 47.077857
+  longitude: 15.449849
+- name: Universitat Autònoma de Barcelona
+  country: Spain
+  latitude: 41.501553
+  longitude: 2.106261
+- name: Universitat de Barcelona
+  country: Spain
+  latitude: 41.386859
+  longitude: 2.163478
+- name: Universitatea "Alexandru Ioan Cuza" din Iași
+  country: Romania
+  latitude: 47.174207
+  longitude: 27.571375
+- name: Universitatea Lucian Blaga Din Sibiu
+  country: Romania
+  latitude: 45.790145
+  longitude: 24.146464
+- name: Università degli Studi di Padova
+  country: Italy
+  latitude: 45.40665
+  longitude: 11.877441
+- name: Università degli Studi di Verona
+  country: Italy
+  latitude: 45.43634
+  longitude: 11.00303
+- name: Università ta’ Malta
+  country: Malta
+  latitude: 35.902094
+  longitude: 14.483461
+- name: Universite De Rennes I
+  country: France
+  latitude: 48.119385
+  longitude: -1.701487
+- name: Universiteti i Prishtinës "Hasan Prishtina"
+  country: Kosovo
+  latitude: 42.657581
+  longitude: 21.162721
+- name: Université catholique de Louvain
+  country: Belgium
+  latitude: 50.821204
+  longitude: 4.349558
+- name: Université Claude Bernard Lyon 1
+  country: France
+  latitude: 45.781664
+  longitude: 4.868155
+- name: Université Grenoble Alpes
+  country: France
+  latitude: 45.193188
+  longitude: 5.76519
+- name: Université Toulouse III - Paul Sabatier
+  country: France
+  latitude: 43.604464
+  longitude: 1.444243
+- name: University College London
+  country: United Kingdom
+  latitude: 51.524203
+  longitude: -0.133001
+- name: University of Banja Luka
+  country: Bosnia and Herzegovina
+  latitude: 44.775151
+  longitude: 17.211454
+- name: University of Bergen
+  country: Norway
+  latitude: 60.380934
+  longitude: 5.331302
+- name: University of Bucharest
+  country: Romania
+  latitude: 44.435645
+  longitude: 26.100926
+- name: University of California San Diego
+  country: United States
+  latitude: 32.879244
+  longitude: -117.231125
+- name: University of Cambridge
+  country: United Kingdom
+  latitude: 52.189092
+  longitude: 0.121298
+- name: University of Copenhagen
+  country: Denmark
+  latitude: 55.68015
+  longitude: 12.572327
+- name: University of Haifa
+  country: Israel
+  latitude: 32.760946
+  longitude: 35.020464
+- name: University of Ioannina
+  country: Greece
+  latitude: 39.615659
+  longitude: 20.841265
+- name: University of Leeds
+  country: United Kingdom
+  latitude: 53.806572
+  longitude: -1.555785
+- name: University of Limassol
+  country: Cyprus
+  latitude: 34.685838
+  longitude: 33.037762
+- name: University Of Macedonia
+  country: Greece
+  latitude: 40.625138
+  longitude: 22.960103
+- name: University of Medicine and Pharmacy "Grigore T. Popa" Iasi
+  country: Romania
+  latitude: 47.16156
+  longitude: 27.583781
+- name: University of Medicine Tirana
+  country: Albania
+  latitude: 41.342348
+  longitude: 19.832943
+- name: University of Minho
+  country: Portugal
+  latitude: 41.559911
+  longitude: -8.396812
+- name: University of Nottingham
+  country: United Kingdom
+  latitude: 52.938743
+  longitude: -1.200296
+- name: University of Oxford
+  country: United Kingdom
+  latitude: 51.752546
+  longitude: -1.214317
+- name: University of Queensland
+  country: Australia
+  latitude: -27.498142
+  longitude: 153.011154
+- name: University of Science and Technology Houari Boumediene
+  country: Algeria
+  latitude: 36.772933
+  longitude: 3.058845
+- name: University of Sheffield
+  country: United Kingdom
+  latitude: 53.372962
+  longitude: -1.505931
+- name: University of Strathclyde
+  country: United Kingdom
+  latitude: 55.861881
+  longitude: -4.241957
+- name: University of Tirana
+  country: Albania
+  latitude: 41.31662
+  longitude: 19.821735
+- name: University of Trento
+  country: Italy
+  latitude: 46.066181
+  longitude: 11.116618
+- name: University of Trieste
+  country: Italy
+  latitude: 45.645564
+  longitude: 13.810768
+- name: University of Zagreb, School of Medicine
+  country: Croatia
+  latitude: 45.813097
+  longitude: 15.977279
+- name: Vilnius University, Life Sciences Center
+  country: Lithuania
+  latitude: 54.687046
+  longitude: 25.282911
+- name: Zurich University of Applied Sciences
+  country: Switzerland
+  latitude: 47.496843
+  longitude: 8.729807
+- name: University of Ljubljana
+  country: Slovenia
+  latitude: 46.0477
+  longitude: 14.5048
+- name: Inria, Université Rennes, CNRS, Inserm
+  country: France
+  latitude: 48.119385
+  longitude: -1.701487

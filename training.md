@@ -58,8 +58,16 @@ the waiting list takes it.
 ## Trainers and organisers
 
 <div class="person-cards">
-{% include person id="oscar" tag="Trainer|Organiser" class="person--both" %}
-{% include person id="guiomar" tag="Organiser" class="person--organiser" %}
+<div class="person person--both">
+<h4>Oscar Esteban <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span> <span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg" alt=""></p>
+<p class="person-affiliation">HES-SO Valais-Wallis</p>
+</div>
+<div class="person person--organiser">
+<h4>Guiomar Niso <span class="person-tags"><span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/guiomar.jpg" alt=""></p>
+<p class="person-affiliation">Agencia Estatal Consejo Superior de Investigaciones Cientificas</p>
+</div>
 <div class="person">
 <h4>Dr. Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>

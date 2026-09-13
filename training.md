@@ -14,7 +14,6 @@ hide_title: true
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
 
-
 ## Registration (e-COST invitation required)
 
 Taking part, in person or online, requires an **e-COST invitation**, which you receive from the

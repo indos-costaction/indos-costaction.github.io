@@ -8,12 +8,10 @@ This Working Group focuses on improving the reliability and usability of neuroim
 
 ### Coordination
 
-<div class="narrow-grid">
+<div class="person-cards">
 {% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG1 leader' or member.coordination contains 'WG1 co-leader'" | sort: "coordination_order" %}
 {% for person in coordinators %}
-  <div class="narrow-card person-card">
-    {% include person coordination="no" institution="no" %}
-  </div>
+  {% include person person=person coordination="no" institution="no" %}
 {% endfor %}
 </div>
 

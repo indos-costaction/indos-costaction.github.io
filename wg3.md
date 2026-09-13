@@ -16,12 +16,10 @@ Questions? See the [contact page](/contact) or write to the WG3 mailing list.
 
 ### Coordination
 
-<div class="narrow-grid">
+<div class="person-cards">
 {% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG3 leader' or member.coordination contains 'WG3 co-leader'" | sort: "coordination_order" %}
 {% for person in coordinators %}
-  <div class="narrow-card person-card">
-    {% include person coordination="no" institution="no" %}
-  </div>
+  {% include person person=person coordination="no" institution="no" %}
 {% endfor %}
 </div>
 

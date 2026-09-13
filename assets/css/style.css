@@ -844,7 +844,8 @@ details.fold > summary.fold__summary:hover > h2 {
 
 .person-cards > .person > h4,
 .person-cards > .person > .person-email,
-.person-cards > .person > .person-affiliation {
+.person-cards > .person > .person-affiliation,
+.person-cards > .person > .person-roles {
   grid-column: 2;
   margin: 0;
 }

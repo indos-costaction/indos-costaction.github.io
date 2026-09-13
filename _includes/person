@@ -9,6 +9,7 @@ Parameters:
 - country: "yes" or "no" to show or hide the country (default = "no")
 - coordination: "yes" or "no" to show or hide the list of coordination roles (default = "no")
 - workgroups: "yes" or "no" to show or hide the list of workgroups (default = "no")
+- filterable: "yes" to add coordination data for filter controls (default = "no")
 - tag: optional short marker(s) shown next to the name; separate several with "|" (e.g. "Trainer|Organiser").
        Each marker also gets a modifier class, e.g. person-tag--trainer, for per-marker colours.
 - class: optional extra class(es) on the wrapping div (e.g. "person--organiser")
@@ -57,7 +58,7 @@ Parameters:
 {% endif %}
 
 {% if person %}
-<div class="person{% if include.class %} {{ include.class }}{% endif %}">
+<div class="person{% if include.class %} {{ include.class }}{% endif %}"{% if include.filterable == "yes" %} data-coordination="{{ person.coordination | join: ',' }}"{% endif %}>
     <h4>
     {{ person.name }}{% if include.tag %}{% assign tags = include.tag | split: "|" %} <span class="person-tags">{% for tag in tags %}{% assign tagname = tag | strip %}<span class="person-tag person-tag--{{ tagname | downcase | replace: ' ', '-' }}">{{ tagname }}</span> {% endfor %}</span>{% endif %}
     </h4>

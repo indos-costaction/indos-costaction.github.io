@@ -17,12 +17,10 @@ Here you can find the names and contact details of the people with a leading, co
   <button class="filter-btn" data-filter="Management Committee">Management Committee</button>
 </div>
 
-<div class="narrow-grid">
+<div class="person-cards">
 {% assign coordinators = site.data.members | where_exp: "member", "member.coordination" | sort: "coordination_order" %}
 {% for person in coordinators %}
-  <div class="narrow-card person-card" data-coordination="{{ person.coordination | join: ',' }}">
-    {% include person coordination="yes" institution="no" %}
-  </div>
+  {% include person person=person coordination="yes" institution="no" class="person-card" filterable="yes" %}
 {% endfor %}
 </div>
 

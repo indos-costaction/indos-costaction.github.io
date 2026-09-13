@@ -8,12 +8,10 @@ Sharing human neuroimaging data raises important ethical and legal questions, pa
 
 ### Coordination
 
-<div class="narrow-grid">
+<div class="person-cards">
 {% assign coordinators = site.data.members | where_exp: "member", "member.coordination contains 'WG4 leader' or member.coordination contains 'WG4 co-leader'" | sort: "coordination_order" %}
 {% for person in coordinators %}
-  <div class="narrow-card person-card">
-    {% include person coordination="no" institution="no" %}
-  </div>
+  {% include person person=person coordination="no" institution="no" %}
 {% endfor %}
 </div>
 

@@ -123,6 +123,7 @@ online. See [the programme](#programme) for what each mode involves.
 <div class="agenda-session"><span class="agenda-title">BIDS across modalities</span></div>
 </td>
 <td>
+<div class="agenda-session"><span class="agenda-title">PET &mdash; Martin N&oslash;rgaard</span></div>
 <div class="agenda-session"><span class="agenda-title">EEG/MEG preprocessing</span></div>
 <div class="agenda-session"><span class="agenda-title">EEG/MEG hands-on in Neurodesk</span></div>
 </td>
@@ -139,7 +140,6 @@ online. See [the programme](#programme) for what each mode involves.
 <div class="agenda-session"><span class="agenda-title">Environment bring-up</span></div>
 </td>
 <td>
-<div class="agenda-session"><span class="agenda-title">PET <em>(to be confirmed)</em></span></div>
 <div class="agenda-session"><span class="agenda-title">Structural MRI</span></div>
 <div class="agenda-session"><span class="agenda-title">Structural MRI hands-on</span></div>
 </td>
@@ -201,16 +201,13 @@ event.
 Three days, each with a morning block (09:00 – 13:00) and an afternoon block (14:00 – 18:00),
 with lunch in between. Every block opens with theory and continues with hands-on practice, and
 every session is labelled **(Theory)**, **(Practice)** or **(Plenary)**. Across the three days
-that is about 7½ hours of theory and 12 hours of hands-on work, plus plenaries and breaks. The
+that is about 7¾ hours of theory and 12 hours of hands-on work, plus plenaries and breaks. The
 practical sessions run in the browser, so a laptop is usually all you need. See
 [For all attendees](#for-all-attendees) for what to set up beforehand.
 
 **Attending online.** The theory sessions and plenaries are streamed live, online attendees work
 through the hands-on exercises alongside the room, and Friday's personal projects are open to
 them too. The platform and connection details are sent by email before the event.
-
-The PET session is marked *to be confirmed*: it depends on an invited contribution and may move
-within its block, and if it does not confirm its time goes to structural MRI.
 
 ### Day 1 · Wednesday 30 September
 
@@ -243,14 +240,14 @@ within its block, and if it does not confirm its time goes to structural MRI.
 
 ### Day 2 · Thursday 1 October
 
-#### Block 3 · 09:00 – 13:00 · EEG/MEG and structural MRI
+#### Block 3 · 09:00 – 13:00 · PET, EEG/MEG and structural MRI
 
 | Time | Session |
 |---|---|
-| 09:00 – 09:55 | **(Theory)** EEG/MEG preprocessing: the landscape of pipelines, their defaults, and what "an fMRIPrep for M/EEG" would take |
-| 09:55 – 10:50 | **(Practice)** EEG/MEG hands-on in Neurodesk |
-| 10:50 – 11:05 | Coffee |
-| 11:05 – 11:35 | **(Theory)** PET: acquisition, preprocessing and PET-BIDS *(to be confirmed)* |
+| 09:00 – 09:45 | **(Theory)** PET: acquisition, preprocessing and PET-BIDS, with **Martin Nørgaard** |
+| 09:45 – 10:30 | **(Theory)** EEG/MEG preprocessing: the landscape of pipelines, their defaults, and what "an fMRIPrep for M/EEG" would take |
+| 10:30 – 11:20 | **(Practice)** EEG/MEG hands-on in Neurodesk |
+| 11:20 – 11:35 | Coffee |
 | 11:35 – 12:05 | **(Theory)** Structural MRI: FreeSurfer and VBM |
 | 12:05 – 13:00 | **(Practice)** Structural MRI hands-on |
 {: .schedule}

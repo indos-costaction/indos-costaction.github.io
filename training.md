@@ -518,7 +518,7 @@ with your own data, ideally in BIDS. Make sure you can actually reach it from a 
 Madrid, and arrange any access or download before you travel. If that is not possible, we
 provide a dataset.
 
-## Reimbursement (in-person participants)
+### Reimbursement
 
 **Travel and subsistence are covered** for eligible in-person participants, through the standard
 COST mechanism. Online attendance is not reimbursed: there is no travel claim and no daily

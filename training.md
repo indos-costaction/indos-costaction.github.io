@@ -90,6 +90,10 @@ reimbursement involved.
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
 <p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
 </div>
+<div class="person">
+<h4>Martin N&oslash;rgaard <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+</div>
 <div class="person person--assistant">
 <h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>

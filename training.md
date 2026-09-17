@@ -63,7 +63,7 @@ reimbursement involved.
 <div class="person person--both">
 <h4>Oscar Esteban <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span> <span class="person-tag person-tag--organiser">Organiser</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg" alt=""></p>
-<p class="person-affiliation">HES-SO Valais-Wallis</p>
+<p class="person-affiliation">HES-SO Valais-Wallis, Switzerland</p>
 </div>
 <div class="person person--organiser">
 <h4>Guiomar Niso <span class="person-tags"><span class="person-tag person-tag--organiser">Organiser</span></span></h4>
@@ -71,7 +71,7 @@ reimbursement involved.
 <p class="person-affiliation">Agencia Estatal Consejo Superior de Investigaciones Cientificas</p>
 </div>
 <div class="person">
-<h4>Dr. Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<h4>Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
 <p class="person-affiliation">Lausanne University Hospital and University of Lausanne, Switzerland</p>
 </div>
@@ -93,10 +93,12 @@ reimbursement involved.
 <div class="person">
 <h4>Martin N&oslash;rgaard <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">University of Copenhagen, Denmark</p>
 </div>
 <div class="person person--assistant">
 <h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Complutense University of Madrid, Spain</p>
 </div>
 </div>
 

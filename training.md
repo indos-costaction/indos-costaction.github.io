@@ -201,9 +201,9 @@ event.
 Three days, each with a morning block (09:00 – 13:00) and an afternoon block (14:00 – 18:00),
 with lunch in between. Every block opens with theory and continues with hands-on practice, and
 every session is labelled **(Theory)**, **(Practice)** or **(Plenary)**. Across the three days
-that is about 7½ hours of theory and 12 hours of hands-on work, plus plenaries and breaks. Many
-of the practical sessions run in [Neurodesk](https://www.neurodesk.org/), a browser-based
-environment, so a laptop is usually all you need.
+that is about 7½ hours of theory and 12 hours of hands-on work, plus plenaries and breaks. The
+practical sessions run in the browser, so a laptop is usually all you need. See
+[For all attendees](#for-all-attendees) for what to set up beforehand.
 
 **Attending online.** The theory sessions and plenaries are streamed live, online attendees work
 through the hands-on exercises alongside the room, and Friday's personal projects are open to
@@ -491,22 +491,12 @@ that is reported rather than filled from another category.
 
 ## For all attendees
 
-**Neurodesk Play Europe.** Several of the hands-on sessions run in
-[Neurodesk](https://www.neurodesk.org/), in a browser. Access is granted on request and a person
-has to approve it, so please ask now rather than the night before.
-
-1. Go to [play-europe.neurodesk.org](https://play-europe.neurodesk.org)
-2. Request access.
-3. In the **Reason** box, paste this:
-
-```
-I am a participant in the Training School of Working Group 3 of the INDoS COST Action (CA24161),
-held in Madrid from 30 September to 2 October 2026, where Neurodesk Play is used for the hands-on
-sessions. I will use it to run the school's training materials and to work on a small dataset
-during the project session on the final afternoon.
-```
-
-Then log in once and check it works.
+**Set up [Neurodesk](https://www.neurodesk.org/) before you arrive.** Several of the hands-on
+sessions run in Neurodesk Play Europe, in the browser, and access is granted on request by a
+person rather than automatically. Request it at
+[play-europe.neurodesk.org](https://play-europe.neurodesk.org) well ahead of the school, saying
+that you are taking part in this Training School, then log in once and check it works. Ask us if
+anything is unclear.
 
 **Journal Club papers.** Pick one or more papers from the
 [Journal Club](https://www.indos-costaction.eu/journal-club/), read them and annotate them with

@@ -517,7 +517,7 @@ it installs a certificate, a step that on most networks can only be completed at
 institution. Please connect at least once, on the laptop you are bringing, while you are still
 there.
 
-# 3 BYOD (bring your own data)
+### 3 BYOD (bring your own data)
 
 **Bring your own data.** Friday afternoon is a personal project session, and it is much better
 with your own data, ideally in BIDS. Make sure you can actually reach it from a browser in
@@ -558,4 +558,4 @@ See the [COST Annotated Rules](https://www.cost.eu/cost-actions/annotated-rules-
 
 <div data-fold-end></div>
 
-<script src="{{ '/assets/script/fold-sections.js' | relative_url }}?v={{ site.time | date: '%s' }}" data-open="programme-at-a-glance for-all-attendees for-in-person-attendees" defer></script>
+<script src="{{ '/assets/script/fold-sections.js' | relative_url }}?v={{ site.time | date: '%s' }}" data-open="programme-at-a-glance" defer></script>

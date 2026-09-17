@@ -505,13 +505,19 @@ session. Nobody assigns papers: you choose your own.
 
 ## For in-person attendees
 
+### 1 Fill out the form
+
 **There is a form in your inbox.** Please complete it by **Saturday 19 September, 23:59 CEST**.
 It covers your travel, accommodation, the group dinner, and what you would like to work on.
+
+### 2 Ensure your *eduroam* access is ready
 
 **Check eduroam before you travel.** The venue provides eduroam, and the first time you connect
 it installs a certificate, a step that on most networks can only be completed at your own
 institution. Please connect at least once, on the laptop you are bringing, while you are still
 there.
+
+# 3 BYOD (bring your own data)
 
 **Bring your own data.** Friday afternoon is a personal project session, and it is much better
 with your own data, ideally in BIDS. Make sure you can actually reach it from a browser in

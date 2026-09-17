@@ -12,10 +12,18 @@ on established MRI practice, the Group defines best practices and documentation
 standards for preprocessing pipelines. The outcome is clearer, more reusable pipelines
 that support consistent and trustworthy analyses across research sites.
 
-WG3 is co-chaired by Oscar Esteban (HES-SO Valais-Wallis) and Guiomar Niso (Cajal
-Institute CSIC).
-
 Questions? See the [contact page](/contact) or write to the WG3 mailing list.
+
+### Coordination
+
+<div class="person-cards">
+{% assign leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG3 leader'" %}
+{% assign co_leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG3 co-leader'" %}
+{% assign coordinators = leaders | concat: co_leaders | sort: "coordination_order" %}
+{% for person in coordinators %}
+  {% include person person=person coordination="no" institution="no" %}
+{% endfor %}
+</div>
 
 ### Task forces
 

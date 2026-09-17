@@ -61,7 +61,7 @@ body {
   padding: 1rem 0;
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 1100;
 }
 
 .nav-list {
@@ -513,7 +513,7 @@ body {
   object-fit: cover;
 }
 
-/* Person roles: compact, bullet-free list in a smaller distinct font. */
+/* Person coordination roles: compact, bullet-free list in a smaller distinct font. */
 .person-roles {
   margin: 0 0 0.5rem;
   padding: 0;
@@ -844,7 +844,8 @@ details.fold > summary.fold__summary:hover > h2 {
 
 .person-cards > .person > h4,
 .person-cards > .person > .person-email,
-.person-cards > .person > .person-affiliation {
+.person-cards > .person > .person-affiliation,
+.person-cards > .person > .person-roles {
   grid-column: 2;
   margin: 0;
 }

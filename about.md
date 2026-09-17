@@ -8,19 +8,19 @@ We welcome inquiries from researchers, students, and industry partners intereste
 
 <div class="wide-card">
   <h3>Action Chair</h3>
-  {% include person id="jochem" email="yes" photo="no" affiliation="no" %}
+  {% include person name="Jochem Rieger" email="yes" photo="no" institution="no" %}
 </div>
 
 <div class="wide-card">
   <h3>Vice Chair</h3>
-  {% include person id="guiomar" photo="no" affiliation="no"  %}
+  {% include person name="Guiomar Niso" photo="no" institution="no"  %}
 </div>
 
 For any administrative inquiries and questions regarding reimbursement of expenses, please contact:
 
 <div class="wide-card">
   <h3>Grand Holder Manager</h3>
-  {% include person id="mojca" photo="no" affiliation="no"  %}
+  {% include person name="Mojca Premuš" photo="no" institution="no"  %}
 </div>
 
 ## Mailing Address

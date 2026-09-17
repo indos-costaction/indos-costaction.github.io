@@ -6,6 +6,17 @@ title: WG2 - Metadata
 
 WG2 is dedicated to improving the way neuroimaging data and experimental information are described and annotated. Metadata plays a crucial role in making data findable, interoperable, and reusable, but current practices are often inconsistent or incomplete. This Working Group will extend and refine existing standards, such as BIDS, and foster collaboration between metadata developers, software tool creators, and researchers. By improving metadata practices, WG2 will make it easier to discover, understand, and reuse neuroimaging datasets across research groups and disciplines.
 
+### Coordination
+
+<div class="person-cards">
+{% assign leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG2 leader'" %}
+{% assign co_leaders = site.data.members | where_exp: "member", "member.coordination contains 'WG2 co-leader'" %}
+{% assign coordinators = leaders | concat: co_leaders | sort: "coordination_order" %}
+{% for person in coordinators %}
+  {% include person person=person coordination="no" institution="no" %}
+{% endfor %}
+</div>
+
 ### Task forces
 
 - BIDS outreach and augmentation

@@ -14,7 +14,6 @@ hide_title: true
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
 
-
 ## Registration (e-COST invitation required)
 
 Taking part, in person or online, requires an **e-COST invitation**, which you receive from the
@@ -61,8 +60,16 @@ reimbursement involved.
 ## Trainers and organisers
 
 <div class="person-cards">
-{% include person id="oscar" tag="Trainer|Organiser" class="person--both" %}
-{% include person id="guiomar" tag="Organiser" class="person--organiser" %}
+<div class="person person--both">
+<h4>Oscar Esteban <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span> <span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg" alt=""></p>
+<p class="person-affiliation">HES-SO Valais-Wallis</p>
+</div>
+<div class="person person--organiser">
+<h4>Guiomar Niso <span class="person-tags"><span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/guiomar.jpg" alt=""></p>
+<p class="person-affiliation">Agencia Estatal Consejo Superior de Investigaciones Cientificas</p>
+</div>
 <div class="person">
 <h4>Dr. Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
@@ -311,10 +318,13 @@ online attendees receive an e-COST invitation marked as online attendance.
 | **6 August 2026** | Potential attendees' availability confirmation closed ✓ |
 | **8 August** | Selection ran; places assigned from the pre-registration round ✓ |
 | **8 – 21 August** | **Open registration** for the remaining funded seats ✓ |
-| **by 14 August** | e-COST invitations of the selected pre-registered attendees are issued |
+| **by 14 August** | e-COST invitations of the selected pre-registered attendees are issued ✓ |
 | **21 August, 23:59 CEST** | Registration closes ✓ |
 | **22 August** | The waiting list is rebuilt under the published rule; the open seats are offered from it |
-| **by 28 August** | Everyone who registered is notified, selected or not; second-wave e-COST invitations issued |
+| **by 28 August** | Everyone who registered is notified, selected or not; second-wave e-COST invitations issued ✓ |
+| **until 13 September** | **Third registration window** ([register](#registration-e-cost-invitation-required)): online attendance, open to anyone |
+| **13 September, 23:59 CEST** | The window closes |
+| **from 14 September** | Online e-COST invitations issued. Places in the room that come free continue to go to the August waiting list |
 | **30 September – 2 October** | The Training School, in Madrid and online |
 | **3 October – 14 October** | Reimbursement requests must be filed |
 
@@ -337,39 +347,38 @@ online attendance, and has no affiliation condition. It is not reimbursed.
 
 ### Country representation
 
-Places are spread across countries before anything else (see
-[how places are allocated](#how-places-are-allocated)). Registration is now closed; the places
-already assigned count as taken when the waiting list is rebuilt, so what matters for anyone
-on the list is how represented their country already is:
+The funded cohort was built to spread places across countries: every country's first
+representative was seated before any country's second, and **no country holds more than two
+funded places**. The result is **27 funded places across 22 countries**, five of which hold two.
+Two more participants are in the room at their own cost, and around twenty attend online.
 
-- **No representative yet — highest priority.** The first registrant from any of these
-  countries is served before any country's second, no matter when they register:
-  Algeria, Armenia, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Egypt,
-  the Faroe Islands, Finland, Georgia, Greece, Hungary, Iceland, Ireland, Israel, Italy,
-  Jordan, Latvia, Lebanon, Libya, Lithuania, Luxembourg, Moldova, Montenegro, Morocco,
-  Netherlands, North Macedonia, Norway, Palestine, Slovenia, Spain, Sweden, Syria, Tunisia,
-  Ukraine, United Kingdom.
-- **One representative — prioritised.** Albania, Austria, Estonia, France, Kosovo, Malta,
-  Portugal, Romania, Serbia, Slovakia, Switzerland.
-- **Two representatives.** Bosnia and Herzegovina, Germany, Poland, Türkiye. Registrants from
-  these countries join the queue behind the groups above.
+**For this window, your country does not change the answer.** The country rule decides the order
+of a funded allocation, and there is no funded allocation left to run: the funded places are
+taken, and the waiting list from the August round is what fills any that come free. Online
+attendance is open to everyone, wherever you are.
 
-Trainees must be affiliated in one of the countries above or in a European RTD Organisation
-(COST Annotated Rules, Article 6.4). Affiliations in Russia and Belarus are not eligible:
-COST has [suspended cooperation](https://www.cost.eu/about/strategy/international-collaboration/)
-with both until further notice. Affiliations outside all of the above are welcome self-funded,
-seats permitting, but cannot hold a funded trainee place.
+A **funded** trainee place requires an affiliation in a COST Full or Cooperating Member, a
+Near-Neighbour Country, or a European RTD Organisation (COST Annotated Rules, Article 6.4).
+Affiliations in Russia and Belarus are not eligible: COST has
+[suspended cooperation](https://www.cost.eu/about/strategy/international-collaboration/) with
+both until further notice. An affiliation outside all of the above cannot hold a funded trainee
+place, but is welcome online, and in the room at its own cost, seats permitting.
 
 ### How places are allocated
 
 The Training School has more people who want a place than it has places.
 The process comprises six rules that implement the following principles:
 
+> **What this decides now.** These rules produced the cohort and the waiting list, and that
+> waiting list is what fills a place in the room when one comes free. They are **not re-run** for
+> the current window: an in-person request made now joins the queue behind the people the rules
+> have already ordered. Online attendance is outside all of it, and open.
+
 - **Gender balance.** The cohort is balanced between women and men, and those who do not declare a
   gender, or whom neither label represents, are seated without being assigned one.
-- **Spread across countries comes first.** A country with nobody in the cohort is served before
-  a country that already has three people. So a first candidate from an unrepresented country has
-  a genuinely good chance.
+- **Spread across countries comes first.** A country with nobody in the cohort is served before a
+  country that already holds two places, and no country holds more than two. A first candidate
+  from an unrepresented country therefore ranks high, whenever they apply.
 - **It is not first-come-first-served.** Time of registration decides the order *within* a
   country, not between countries. Registering early does not put you ahead of somebody from a
   country we have yet to reach, and we would rather say so than let anyone assume otherwise.
@@ -381,6 +390,8 @@ The process comprises six rules that implement the following principles:
   participants who waive reimbursement. They are allocated by the same ordering as the funded
   seats — waiving reimbursement does not buy priority, it only means the budget is not what
   limits you. The registration form asks.
+- **Online attendance is not allocated.** It is open: no cap, no ordering, no waiting list. The
+  rules below decide who holds a place in the room, and nothing else.
 
 #### Rule 1 — who enters the list
 
@@ -427,6 +438,16 @@ Read from the top. Position 1 should hold a woman, position 2 a man, position 3 
 4. An applicant who recorded neither *woman* nor *man*, met before the required gender, takes the
    position **without advancing the alternation**. They are never assigned a gender.
 5. If nobody of the required gender remains below, stop; the rest keeps its order.
+6. An applicant who answered *prefer not to say* is **not** covered by point 4: they declared no
+   identity for point 4 to respect, and leaving non-disclosure in the unassigned lane would make
+   saying nothing strictly better than either answer. A **declared** identity outside the two
+   categories, whether *non-binary* or described in the applicant's own words, stays under point
+   4. For the allocation only, and never on a badge or in communications, a non-disclosing
+   applicant is counted in whichever category is **most prevalent** across all qualified
+   registration records plus the already-seated cohort, counted when the ordering runs. Where two
+   categories tie, the applicant is counted in the tied category that gives them the later
+   position. Non-disclosure never helps and never hurts beyond that: the most prevalent category
+   is simply the most-competed one.
 
 #### Rule 5 — country slotting
 

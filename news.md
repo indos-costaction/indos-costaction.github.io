@@ -4,6 +4,20 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## 4 September 2026 - WG3 Training School: online registration open until 13 September
+
+The [WG3 Training School](/training) in Madrid (30 September to 2 October) is **hybrid**, and a
+third registration window is now open for **online attendance**, until **Sunday 13 September
+2026, 23:59 CEST**. There is no cap and no waiting list: ask for an online place and you have one.
+
+The places in the room are full, and any that come free go to the people already on the waiting
+list from the August round. The form asks whether you could come to Madrid all the same, in case
+a place comes free and nobody on that list takes it.
+
+Online attendance is not reimbursed. Like a place in the room, it needs INDoS membership in
+Working Group 3, which is free to [join](/join). Programme, venue and reimbursement details are
+on the [Training](/training) page.
+
 ## 3 September 2026 - WG3 Training School: programme published
 
 The three-day programme of the [WG3 Training School](/training#programme) in Madrid is now

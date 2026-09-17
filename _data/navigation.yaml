@@ -4,6 +4,9 @@
 - title: Coordination
   url: /coordination
   match: coordination
+- title: Members
+  url: /members
+  match: members
 - title: Working Groups
   match: working-groups
   children:

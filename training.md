@@ -17,32 +17,35 @@ hide_title: true
 ## Registration (e-COST invitation required)
 
 Taking part, in person or online, requires an **e-COST invitation**, which you receive from the
-organisers and must accept. Places in the room were allocated through a two-phase registration:
-a pre-registration round in July, whose answers also set the dates, and an open registration in
-August for the remaining funded seats. Both are closed, and a waiting list built under the
-[published rule](#how-places-are-allocated) fills any place that comes free. A third
-registration window, for **online participation only**, is open until 13 September. The form
-also asks whether you could come to Madrid, in case a place in the room comes free and nobody on
-the waiting list takes it.
+organisers and must accept.
+
+**The places in the room are full.** They were allocated through a pre-registration round in
+July, whose answers also set the dates, and an open registration in August for the remaining
+funded seats. Both are closed.
+
+**Registration for online participation is open**, to anyone, with no cap and no selection:
+register and we send you an e-COST invitation for online attendance. There is no travel and no
+reimbursement involved.
 
 <div class="ts-cta">
   <div class="ts-cta__text">
     <p class="ts-cta__eyebrow">Online registration open</p>
-    <p class="ts-cta__deadline">Closes <strong>13 September 2026</strong>, 23:59&nbsp;CEST</p>
+    <p class="ts-cta__note">Follow the three days from anywhere. An e-COST invitation for
+    online attendance needs INDoS membership in Working Group 3, which is free and takes a
+    few minutes: <a href="https://www.indos-costaction.eu/join">join here</a>.</p>
   </div>
-  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/852652?lang=en">Register <span aria-hidden="true">→</span></a>
+  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/852652?lang=en">Register for online attendance <span aria-hidden="true">→</span></a>
 </div>
 
 <div class="ts-cta ts-cta--closed">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Registration closed</p>
+    <p class="ts-cta__eyebrow">Places in the room: closed</p>
     <p class="ts-cta__deadline">Closed <strong>21 August 2026</strong>, 23:59&nbsp;CEST</p>
-    <p class="ts-cta__note">The August round for the funded places is closed and those
-    places are assigned. See
-    <a href="#country-representation">the countries represented</a> and
-    <a href="#how-places-are-allocated">how places are allocated</a>.</p>
+    <p class="ts-cta__note">The August round for the funded places is closed and those places
+    are assigned. See <a href="#country-representation">the countries represented</a> and
+    <a href="#how-places-are-allocated">how places were allocated</a>.</p>
   </div>
-  <span class="ts-cta__button" role="link" aria-disabled="true">Registration closed <span aria-hidden="true">✕</span></span>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
 </div>
 
 <div class="ts-cta ts-cta--closed">
@@ -82,6 +85,11 @@ the waiting list takes it.
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
 <p class="person-affiliation">CRIUGM &amp; Université de Montréal, Montréal, Canada</p>
 </div>
+<div class="person">
+<h4>Steffen Bollmann <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
+</div>
 <div class="person person--assistant">
 <h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
@@ -111,7 +119,8 @@ online. See [the programme](#programme) for what each mode involves.
 <div class="agenda-session"><span class="agenda-title">Welcome</span></div>
 <div class="agenda-session"><span class="agenda-title">INDoS and Working Group 3</span></div>
 <div class="agenda-session"><span class="agenda-title">Introductions</span></div>
-<div class="agenda-session"><span class="agenda-title">Neurodesk <em>(to be confirmed)</em></span></div>
+<div class="agenda-session"><span class="agenda-title">Standardized preprocessing</span></div>
+<div class="agenda-session"><span class="agenda-title">BIDS across modalities</span></div>
 </td>
 <td>
 <div class="agenda-session"><span class="agenda-title">EEG/MEG preprocessing</span></div>
@@ -125,10 +134,9 @@ online. See [the programme](#programme) for what each mode involves.
 <tr class="agenda-shared"><td colspan="3">Coffee</td></tr>
 <tr>
 <td>
-<div class="agenda-session"><span class="agenda-title">Standardized preprocessing</span></div>
-<div class="agenda-session"><span class="agenda-title">BIDS across modalities</span></div>
 <div class="agenda-session"><span class="agenda-title">BIDSvue hands-on</span></div>
 <div class="agenda-session"><span class="agenda-title">Containers</span></div>
+<div class="agenda-session"><span class="agenda-title">Environment bring-up</span></div>
 </td>
 <td>
 <div class="agenda-session"><span class="agenda-title">PET <em>(to be confirmed)</em></span></div>
@@ -143,7 +151,7 @@ online. See [the programme](#programme) for what each mode involves.
 <tr class="agenda-shared"><td colspan="3"><span class="agenda-time">13:00 – 14:00</span> Lunch</td></tr>
 <tr>
 <td>
-<div class="agenda-session"><span class="agenda-title">Environment bring-up and containers</span></div>
+<div class="agenda-session"><span class="agenda-title">Neurodesk &mdash; Steffen Bollmann <em>(remote)</em></span></div>
 <div class="agenda-session"><span class="agenda-title">How to read and review a neuroimaging paper</span></div>
 </td>
 <td>
@@ -193,7 +201,7 @@ event.
 Three days, each with a morning block (09:00 – 13:00) and an afternoon block (14:00 – 18:00),
 with lunch in between. Every block opens with theory and continues with hands-on practice, and
 every session is labelled **(Theory)**, **(Practice)** or **(Plenary)**. Across the three days
-that is about 7 hours of theory and 12½ hours of hands-on work, plus plenaries and breaks. The
+that is about 7½ hours of theory and 12 hours of hands-on work, plus plenaries and breaks. The
 practical sessions run in [Neurodesk](https://www.neurodesk.org/), a browser-based environment,
 so a laptop is all you need, in the room or at home.
 
@@ -202,8 +210,8 @@ run in Neurodesk so online attendees do the same exercises as the room, and Frid
 projects are open to online attendees too. The platform and connection details are sent by
 email before the event.
 
-Sessions marked *to be confirmed* depend on an invited contribution and may move within their
-block; if the PET session does not confirm, its time goes to structural MRI.
+The PET session is marked *to be confirmed*: it depends on an invited contribution and may move
+within its block, and if it does not confirm its time goes to structural MRI.
 
 ### Day 1 · Wednesday 30 September
 
@@ -214,24 +222,24 @@ block; if the PET session does not confirm, its time goes to structural MRI.
 | 09:00 – 09:20 | **(Plenary)** Welcome |
 | 09:20 – 09:35 | **(Plenary)** INDoS and Working Group 3 |
 | 09:35 – 10:00 | **(Plenary)** Introductions: 45 seconds each to say who you are, where you work, your research interests and your expectations for the Training School |
-| 10:00 – 10:30 | **(Theory)** Neurodesk *(to be confirmed)* |
-| 10:30 – 10:45 | Coffee |
-| 10:45 – 11:30 | **(Theory)** Standardized preprocessing: why pipelines, why automation, the pipeline end to end with fMRIPrep as the reference model |
-| 11:30 – 12:00 | **(Theory)** BIDS across modalities: structure, validation, the EEG/MEG extensions, BIDS Apps |
-| 12:00 – 12:30 | **(Practice)** BIDSvue hands-on |
-| 12:30 – 13:00 | **(Theory)** Containers |
+| 10:00 – 10:45 | **(Theory)** Standardized preprocessing: why pipelines, why automation, the pipeline end to end with fMRIPrep as the reference model |
+| 10:45 – 11:15 | **(Theory)** BIDS across modalities: structure, validation, the EEG/MEG extensions, BIDS Apps |
+| 11:15 – 11:30 | Coffee |
+| 11:30 – 12:00 | **(Practice)** BIDSvue hands-on |
+| 12:00 – 12:30 | **(Theory)** Containers |
+| 12:30 – 13:00 | **(Practice)** Environment bring-up: log in, check your setup works, fix anything that does not |
 {: .schedule}
 
 #### Block 2 · 14:00 – 18:00 · Environments, provenance, how to read a paper
 
 | Time | Session |
 |---|---|
-| 14:00 – 15:00 | **(Practice)** Environment bring-up and containers |
+| 14:00 – 15:00 | **(Theory)** Neurodesk, with **Steffen Bollmann** (Neurodesk), joining remotely from Toronto |
 | 15:00 – 15:45 | **(Theory)** How to read and review a neuroimaging paper: which parameters to look for, how to evaluate them, the Journal Club review guidelines |
 | 15:45 – 16:00 | Coffee |
 | 16:00 – 17:45 | **(Practice)** [Journal Club](https://www.indos-costaction.eu/journal-club/) |
 | 17:45 – 18:00 | **(Plenary)** Day wrap and preview of Thursday |
-| Evening | Informal group dinner |
+| 21:00 | Informal group dinner, optional and at your own cost |
 {: .schedule}
 
 ### Day 2 · Thursday 1 October

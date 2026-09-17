@@ -18,22 +18,35 @@ hide_title: true
 ## Registration (e-COST invitation required)
 
 Taking part, in person or online, requires an **e-COST invitation**, which you receive from the
-organisers and must accept. Places in the room were allocated through a two-phase registration:
-a pre-registration round in July, whose answers also set the dates, and an open registration in
-August for the remaining funded seats. Both are closed, and a waiting list built under the
-[published rule](#how-places-are-allocated) fills any place that comes free. A third
-registration window, for **online participation only**, will open soon.
+organisers and must accept.
+
+**The places in the room are full.** They were allocated through a pre-registration round in
+July, whose answers also set the dates, and an open registration in August for the remaining
+funded seats. Both are closed.
+
+**Registration for online participation is open**, to anyone, with no cap and no selection:
+register and we send you an e-COST invitation for online attendance. There is no travel and no
+reimbursement involved.
+
+<div class="ts-cta">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Online registration open</p>
+    <p class="ts-cta__note">Follow the three days from anywhere. An e-COST invitation for
+    online attendance needs INDoS membership in Working Group 3, which is free and takes a
+    few minutes: <a href="https://www.indos-costaction.eu/join">join here</a>.</p>
+  </div>
+  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/852652?lang=en">Register for online attendance <span aria-hidden="true">→</span></a>
+</div>
 
 <div class="ts-cta ts-cta--closed">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Registration closed</p>
+    <p class="ts-cta__eyebrow">Places in the room: closed</p>
     <p class="ts-cta__deadline">Closed <strong>21 August 2026</strong>, 23:59&nbsp;CEST</p>
-    <p class="ts-cta__note">Registration is now closed. We will notify everyone
-    who registered, selected or not, by <strong>Friday 28 August</strong>. See
-    <a href="#country-representation">which countries those are</a> and
-    <a href="#how-places-are-allocated">how places are allocated</a>.</p>
+    <p class="ts-cta__note">The August round for the funded places is closed and those places
+    are assigned. See <a href="#country-representation">the countries represented</a> and
+    <a href="#how-places-are-allocated">how places were allocated</a>.</p>
   </div>
-  <span class="ts-cta__button" role="link" aria-disabled="true">Registration closed <span aria-hidden="true">✕</span></span>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
 </div>
 
 <div class="ts-cta ts-cta--closed">
@@ -68,6 +81,7 @@ registration window, for **online participation only**, will open soon.
 <div class="person">
 <h4>Steffen Bollmann <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
 <p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
 </div>
 <div class="person person--assistant">
 <h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>

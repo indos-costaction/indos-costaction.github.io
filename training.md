@@ -291,6 +291,73 @@ within its block, and if it does not confirm its time goes to structural MRI.
 | 17:25 – 18:00 | **(Plenary)** Concluding remarks |
 {: .schedule}
 
+## For all attendees
+
+**Set up [Neurodesk](https://www.neurodesk.org/) before you arrive.** Several of the hands-on
+sessions run in Neurodesk Play Europe, in the browser, and access is granted on request by a
+person rather than automatically. Request it at
+[play-europe.neurodesk.org](https://play-europe.neurodesk.org) well ahead of the school, saying
+that you are taking part in this Training School, then log in once and check it works. Ask us if
+anything is unclear.
+
+**Journal Club papers.** Pick one or more papers from the
+[Journal Club](https://www.indos-costaction.eu/journal-club/), read them and annotate them with
+its review template before you arrive. Your annotations are the material of Wednesday afternoon's
+session. Nobody assigns papers: you choose your own.
+
+## For in-person attendees
+
+### 1 Fill out the form
+
+**There is a form in your inbox.** Please complete it by **Saturday 19 September, 23:59 CEST**.
+It covers your travel, accommodation, the group dinner, and what you would like to work on.
+
+### 2 Ensure your *eduroam* access is ready
+
+**Check eduroam before you travel.** The venue provides eduroam, and the first time you connect
+it installs a certificate, a step that on most networks can only be completed at your own
+institution. Please connect at least once, on the laptop you are bringing, while you are still
+there.
+
+### 3 BYOD (bring your own data)
+
+**Bring your own data.** Friday afternoon is a personal project session, and it is much better
+with your own data, ideally in BIDS. Make sure you can actually reach it from a browser in
+Madrid, and arrange any access or download before you travel. If that is not possible, we
+provide a dataset.
+
+### Reimbursement
+
+**Travel and subsistence are covered** for eligible in-person participants, through the standard
+COST mechanism. Online attendance is not reimbursed: there is no travel claim and no daily
+allowance, because there is no travel. There is no registration fee.
+
+Everything below is summarised, with the rules behind it, in the
+[COST Travel Reimbursement Rules 2025–2026](https://www.cost.eu/uploads/2025/11/COST-TRR-Rules-2025-2026.pdf)
+(PDF). It is worth ten minutes before you book anything.
+
+**Travel, up to €1,500 in total.** Reimbursed at actual cost against your tickets and receipts.
+Only journeys of **more than 100 km one way** are eligible, so local legs at either end are not
+claimable.
+
+**Daily allowance, up to €660.** A flat rate of **€150 a day** for Spain, covering accommodation,
+meals and local transport. It is not receipt-based. You can claim **up to 4.4 days**: 100% for
+each day of the school you attend, 100% for the day you travel in, and 40% for the day you travel
+home. The full 4.4 days, and so the full €660, means attending all three days **and** signing the
+attendance list on each of them.
+
+If you share accommodation with another participant, COST suggests adjusting what you each claim;
+the PDF above explains how.
+
+To be reimbursed you must be a registered INDoS member with an eligible affiliation; accept the
+**e-COST invitation** the local organiser issues; sign the attendance list at the event; and
+submit the Online Travel Reimbursement Request (OTRR) in e-COST **within 12 days of the event**
+(that is, 14 October 2026 at 23.59 CEST).
+Although COST allows 30 days for filing OTRRs, we cannot guarantee that your request will be processed
+in time if you submit after the 14 October deadline.
+See the [COST Annotated Rules](https://www.cost.eu/cost-actions/annotated-rules-qa/) and the
+[e-COST platform](https://e-services.cost.eu/) for details.
+
 ## Selection Process
 
 The selection below concerns places **in the room**. Online attendance is not selected or ranked:
@@ -488,73 +555,6 @@ fills it. Tying them to each other would strand them on the waiting list wheneve
 The balance between women and men is otherwise preserved, and people are skipped only across the
 categories, never within the list they are on. If nobody on the waiting list can hold the place,
 that is reported rather than filled from another category.
-
-## For all attendees
-
-**Set up [Neurodesk](https://www.neurodesk.org/) before you arrive.** Several of the hands-on
-sessions run in Neurodesk Play Europe, in the browser, and access is granted on request by a
-person rather than automatically. Request it at
-[play-europe.neurodesk.org](https://play-europe.neurodesk.org) well ahead of the school, saying
-that you are taking part in this Training School, then log in once and check it works. Ask us if
-anything is unclear.
-
-**Journal Club papers.** Pick one or more papers from the
-[Journal Club](https://www.indos-costaction.eu/journal-club/), read them and annotate them with
-its review template before you arrive. Your annotations are the material of Wednesday afternoon's
-session. Nobody assigns papers: you choose your own.
-
-## For in-person attendees
-
-### 1 Fill out the form
-
-**There is a form in your inbox.** Please complete it by **Saturday 19 September, 23:59 CEST**.
-It covers your travel, accommodation, the group dinner, and what you would like to work on.
-
-### 2 Ensure your *eduroam* access is ready
-
-**Check eduroam before you travel.** The venue provides eduroam, and the first time you connect
-it installs a certificate, a step that on most networks can only be completed at your own
-institution. Please connect at least once, on the laptop you are bringing, while you are still
-there.
-
-### 3 BYOD (bring your own data)
-
-**Bring your own data.** Friday afternoon is a personal project session, and it is much better
-with your own data, ideally in BIDS. Make sure you can actually reach it from a browser in
-Madrid, and arrange any access or download before you travel. If that is not possible, we
-provide a dataset.
-
-### Reimbursement
-
-**Travel and subsistence are covered** for eligible in-person participants, through the standard
-COST mechanism. Online attendance is not reimbursed: there is no travel claim and no daily
-allowance, because there is no travel. There is no registration fee.
-
-Everything below is summarised, with the rules behind it, in the
-[COST Travel Reimbursement Rules 2025–2026](https://www.cost.eu/uploads/2025/11/COST-TRR-Rules-2025-2026.pdf)
-(PDF). It is worth ten minutes before you book anything.
-
-**Travel, up to €1,500 in total.** Reimbursed at actual cost against your tickets and receipts.
-Only journeys of **more than 100 km one way** are eligible, so local legs at either end are not
-claimable.
-
-**Daily allowance, up to €660.** A flat rate of **€150 a day** for Spain, covering accommodation,
-meals and local transport. It is not receipt-based. You can claim **up to 4.4 days**: 100% for
-each day of the school you attend, 100% for the day you travel in, and 40% for the day you travel
-home. The full 4.4 days, and so the full €660, means attending all three days **and** signing the
-attendance list on each of them.
-
-If you share accommodation with another participant, COST suggests adjusting what you each claim;
-the PDF above explains how.
-
-To be reimbursed you must be a registered INDoS member with an eligible affiliation; accept the
-**e-COST invitation** the local organiser issues; sign the attendance list at the event; and
-submit the Online Travel Reimbursement Request (OTRR) in e-COST **within 12 days of the event**
-(that is, 14 October 2026 at 23.59 CEST).
-Although COST allows 30 days for filing OTRRs, we cannot guarantee that your request will be processed
-in time if you submit after the 14 October deadline.
-See the [COST Annotated Rules](https://www.cost.eu/cost-actions/annotated-rules-qa/) and the
-[e-COST platform](https://e-services.cost.eu/) for details.
 
 <div data-fold-end></div>
 

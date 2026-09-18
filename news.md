@@ -4,6 +4,16 @@ title: News
 
 Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 
+## 17 September 2026 - Discover the INDoS network: New interactive member map now live
+
+As the INDoS community continues to grow, we are excited to launch a new feature on our website: the [Interactive Member Map](/members).
+
+With over 240 researchers, developers, and data experts currently involved in our COST Action, this new tool allows you to visually explore our global network. Whether you are looking for collaborators in a specific country, searching for members at a particular institution, or wanting to see who is involved in each of our Working Groups, the interactive map makes it easier than ever to connect.
+
+We invite everyone inside and outside the network to explore the map and see the people driving the future of neuroimaging data stewardship.
+
+👉 Explore the map [here](/members).
+
 ## 4 September 2026 - WG3 Training School: online registration open until 13 September
 
 The [WG3 Training School](/training) in Madrid (30 September to 2 October) is **hybrid**, and a

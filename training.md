@@ -82,12 +82,12 @@ reimbursement involved.
 </div>
 <div class="person">
 <h4>Lea Waller <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/lea.jpg" alt=""></p>
 <p class="person-affiliation">CRIUGM &amp; Université de Montréal, Montréal, Canada</p>
 </div>
 <div class="person">
 <h4>Steffen Bollmann <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/steffen.jpg" alt=""></p>
 <p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
 </div>
 <div class="person">

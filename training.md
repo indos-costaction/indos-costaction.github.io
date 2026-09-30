@@ -23,18 +23,18 @@ organisers and must accept.
 July, whose answers also set the dates, and an open registration in August for the remaining
 funded seats. Both are closed.
 
-**Registration for online participation is open**, to anyone, with no cap and no selection:
-register and we send you an e-COST invitation for online attendance. There is no travel and no
-reimbursement involved.
+**Registration for online participation is closed too.** It was open to anyone, with no cap and
+no selection, through a third window announced until 13 September, and online sign-ups were
+accepted until the school opened on 30 September.
 
-<div class="ts-cta">
+<div class="ts-cta ts-cta--closed">
   <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Online registration open</p>
-    <p class="ts-cta__note">Follow the three days from anywhere. An e-COST invitation for
-    online attendance needs INDoS membership in Working Group 3, which is free and takes a
-    few minutes: <a href="https://www.indos-costaction.eu/join">join here</a>.</p>
+    <p class="ts-cta__eyebrow">Online registration: closed</p>
+    <p class="ts-cta__deadline">Closed <strong>30 September 2026</strong></p>
+    <p class="ts-cta__note">The third window was announced until 13 September, and online
+    sign-ups were accepted until the school opened.</p>
   </div>
-  <a class="ts-cta__button" href="https://limesurvey.hes-so.ch/index.php/852652?lang=en">Register for online attendance <span aria-hidden="true">→</span></a>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
 </div>
 
 <div class="ts-cta ts-cta--closed">
@@ -377,8 +377,8 @@ online attendees receive an e-COST invitation marked as online attendance.
 | **21 August, 23:59 CEST** | Registration closes ✓ |
 | **22 August** | The waiting list is rebuilt under the published rule; the open seats are offered from it |
 | **by 28 August** | Everyone who registered is notified, selected or not; second-wave e-COST invitations issued ✓ |
-| **until 13 September** | **Third registration window** ([register](#registration-e-cost-invitation-required)): online attendance, open to anyone |
-| **13 September, 23:59 CEST** | The window closes |
+| **28 August – 13 September** | **Third registration window**: online attendance, open to anyone ✓ |
+| **13 – 30 September** | Online sign-ups still accepted until the school opened ✓ |
 | **from 14 September** | Online e-COST invitations issued. Places in the room that come free continue to go to the August waiting list |
 | **30 September – 2 October** | The Training School, in Madrid and online |
 | **3 October – 14 October** | Reimbursement requests must be filed |
@@ -407,10 +407,10 @@ representative was seated before any country's second, and **no country holds mo
 funded places**. The result is **27 funded places across 22 countries**, five of which hold two.
 Two more participants are in the room at their own cost, and around twenty attend online.
 
-**For this window, your country does not change the answer.** The country rule decides the order
-of a funded allocation, and there is no funded allocation left to run: the funded places are
-taken, and the waiting list from the August round is what fills any that come free. Online
-attendance is open to everyone, wherever you are.
+**For the third window, your country did not change the answer.** The country rule decides the
+order of a funded allocation, and there was no funded allocation left to run: the funded places
+were taken, and the waiting list from the August round is what fills any that come free. Online
+attendance was open to everyone, wherever they were.
 
 A **funded** trainee place requires an affiliation in a COST Full or Cooperating Member, a
 Near-Neighbour Country, or a European RTD Organisation (COST Annotated Rules, Article 6.4).
@@ -425,9 +425,9 @@ The Training School has more people who want a place than it has places.
 The process comprises six rules that implement the following principles:
 
 > **What this decides now.** These rules produced the cohort and the waiting list, and that
-> waiting list is what fills a place in the room when one comes free. They are **not re-run** for
-> the current window: an in-person request made now joins the queue behind the people the rules
-> have already ordered. Online attendance is outside all of it, and open.
+> waiting list is what fills a place in the room when one comes free. They were **not re-run** for
+> the third window: an in-person request made then joined the queue behind the people the rules
+> had already ordered. Online attendance was outside all of it.
 
 - **Gender balance.** The cohort is balanced between women and men, and those who do not declare a
   gender, or whom neither label represents, are seated without being assigned one.
@@ -445,7 +445,7 @@ The process comprises six rules that implement the following principles:
   participants who waive reimbursement. They are allocated by the same ordering as the funded
   seats — waiving reimbursement does not buy priority, it only means the budget is not what
   limits you. The registration form asks.
-- **Online attendance is not allocated.** It is open: no cap, no ordering, no waiting list. The
+- **Online attendance is not allocated.** It was open: no cap, no ordering, no waiting list. The
   rules below decide who holds a place in the room, and nothing else.
 
 #### Rule 1 — who enters the list

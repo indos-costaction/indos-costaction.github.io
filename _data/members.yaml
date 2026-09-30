@@ -1821,6 +1821,8 @@
   - WG 3
 - name: Steffen Bollmann
   title: Dr.
+  id: steffen
+  photo: "/assets/images/people/steffen.jpg"
   email: s.bollmann@uq.edu.au
   institution: University of Queensland
   country: Australia

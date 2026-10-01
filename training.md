@@ -533,8 +533,7 @@ online attendance, and has no affiliation condition. It is not reimbursed.
 
 The funded cohort was built to spread places across countries: every country's first
 representative was seated before any country's second, and **no country holds more than two
-funded places**. The result is **27 funded places across 22 countries**, five of which hold two.
-Two more participants are in the room at their own cost, and around twenty attend online.
+funded places**.
 
 **For the third window, your country did not change the answer.** The country rule decides the
 order of a funded allocation, and there was no funded allocation left to run: the funded places

@@ -103,6 +103,135 @@ accepted until the school opened on 30 September.
 </div>
 
 
+## In-person attendees
+
+The trainees in the room in Madrid, by surname. Trainers, organisers and the assistant are
+listed [above](#trainers-and-organisers).
+
+<div class="person-cards">
+<div class="person person--attendee">
+<h4>Moustafa Almanla</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">University of Oldenburg, Germany</p>
+</div>
+<div class="person person--attendee">
+<h4>Jamsher Bhanbhro</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/bhanbhro-jamsher.jpg" alt=""></p>
+<p class="person-affiliation">Università della Calabria, Italy</p>
+</div>
+<div class="person person--attendee">
+<h4>Lluis Borràs Ferrís</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">HES-SO Valais-Wallis, Switzerland</p>
+</div>
+<div class="person person--attendee">
+<h4>Marek Bundzel</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Technical University in Košice, Slovakia</p>
+</div>
+<div class="person person--attendee">
+<h4>Friedrich Philipp Carrle</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Heilbronn University, Germany</p>
+</div>
+<div class="person person--attendee">
+<h4>Cèlia Cruz Escalera</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Universitat de Barcelona, Spain</p>
+</div>
+<div class="person person--attendee">
+<h4>Vanja Djenadija</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/djenadija-vanja.jpg" alt=""></p>
+<p class="person-affiliation">University of Banja Luka, Bosnia and Herzegovina</p>
+</div>
+<div class="person person--attendee">
+<h4>Anne-Sophie Dubarry</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">CNRS, France</p>
+</div>
+<div class="person person--attendee">
+<h4>Zigmunds Freibergs</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Institute of Psychology, University of Tartu, Estonia</p>
+</div>
+<div class="person person--attendee">
+<h4>Sephora Galea</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/galea-sephora.jpg" alt=""></p>
+<p class="person-affiliation">University of Malta, Malta</p>
+</div>
+<div class="person person--attendee">
+<h4>Mir Hassan</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/hassan-mir.jpg" alt=""></p>
+<p class="person-affiliation">Mykolas Romeris University, Vilnius, Lithuania</p>
+</div>
+<div class="person person--attendee">
+<h4>Pelin Ismailoglu</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Recep Tayyip Erdoğan University Faculty of Medicine, Department of Anatomy, Türkiye</p>
+</div>
+<div class="person person--attendee">
+<h4>Jovana Kljajić</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/kljajic-jovana.jpg" alt=""></p>
+<p class="person-affiliation">Faculty of Technical Sciences, University of Novi Sad, Serbia</p>
+</div>
+<div class="person person--attendee">
+<h4>Marcin Koculak</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/koculak-marcin.jpg" alt=""></p>
+<p class="person-affiliation">Centre for Brain Science, Jagiellonian University, Poland</p>
+</div>
+<div class="person person--attendee">
+<h4>David Linhardt</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/linhardt-david.jpg" alt=""></p>
+<p class="person-affiliation">Medical University of Vienna, Austria</p>
+</div>
+<div class="person person--attendee">
+<h4>Gabriela Mariana Marcu</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/marcu-gabriela-mariana.jpg" alt=""></p>
+<p class="person-affiliation">Lucian Blaga University of Sibiu, Romania</p>
+</div>
+<div class="person person--attendee">
+<h4>Marina Mas Argemí</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Universitat de Barcelona, Spain</p>
+</div>
+<div class="person person--attendee">
+<h4>Marta Navarro Bernad</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/navarro-bernad-marta.jpg" alt=""></p>
+<p class="person-affiliation">Institut du Cerveau et de la Moelle épinière, France</p>
+</div>
+<div class="person person--attendee">
+<h4>Ruiqing Ni</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">University of Bern, Inselspital, Switzerland</p>
+</div>
+<div class="person person--attendee">
+<h4>Tamara Parojčić</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">School of Electrical Engineering, University of Belgrade, Serbia</p>
+</div>
+<div class="person person--attendee">
+<h4>Sinisa Ristic</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/ristic-sinisa.jpg" alt=""></p>
+<p class="person-affiliation">Medical Faculty Foča, Bosnia and Herzegovina</p>
+</div>
+<div class="person person--attendee">
+<h4>Flavia Veppo</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/veppo-flavia.jpg" alt=""></p>
+<p class="person-affiliation">University of Minho, Portugal</p>
+</div>
+<div class="person person--attendee">
+<h4>Jiangtian Xu</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/training-school/xu-jiangtian.jpg" alt=""></p>
+<p class="person-affiliation">University of Bergen, Norway</p>
+</div>
+<div class="person person--attendee">
+<h4>Blerina Zanaj</h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Agriculture University of Tirana, Albania</p>
+</div>
+</div>
+
+
 ## Programme at a glance
 
 The Training School is **hybrid**: the three days can be followed in the room in Madrid or

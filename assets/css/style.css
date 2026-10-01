@@ -903,6 +903,10 @@ details.fold > summary.fold__summary:hover > h2 {
   border-left-color: var(--logo-lavender);
 }
 
+.person-cards > .person--attendee {
+  border-left-color: var(--logo-blue);
+}
+
 /* In the compact cards the markers sit on their own line under the name. */
 
 .person-cards .person-tags {

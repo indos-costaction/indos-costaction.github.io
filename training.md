@@ -14,93 +14,6 @@ hide_title: true
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
 
-## Registration (e-COST invitation required)
-
-Taking part, in person or online, requires an **e-COST invitation**, which you receive from the
-organisers and must accept.
-
-**The places in the room are full.** They were allocated through a pre-registration round in
-July, whose answers also set the dates, and an open registration in August for the remaining
-funded seats. Both are closed.
-
-**Registration for online participation is closed too.** It was open to anyone, with no cap and
-no selection, through a third window announced until 13 September, and online sign-ups were
-accepted until the school opened on 30 September.
-
-<div class="ts-cta ts-cta--closed">
-  <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Online registration: closed</p>
-    <p class="ts-cta__deadline">Closed <strong>30 September 2026</strong></p>
-    <p class="ts-cta__note">The third window was announced until 13 September, and online
-    sign-ups were accepted until the school opened.</p>
-  </div>
-  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
-</div>
-
-<div class="ts-cta ts-cta--closed">
-  <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Places in the room: closed</p>
-    <p class="ts-cta__deadline">Closed <strong>21 August 2026</strong>, 23:59&nbsp;CEST</p>
-    <p class="ts-cta__note">The August round for the funded places is closed and those places
-    are assigned. See <a href="#country-representation">the countries represented</a> and
-    <a href="#how-places-are-allocated">how places were allocated</a>.</p>
-  </div>
-  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
-</div>
-
-<div class="ts-cta ts-cta--closed">
-  <div class="ts-cta__text">
-    <p class="ts-cta__eyebrow">Pre-registration round closed</p>
-    <p class="ts-cta__deadline">Pre-registration closed <strong>25 July</strong> · availability confirmations closed <strong>6 August</strong></p>
-    <p class="ts-cta__note">Thanks to everyone who responded: your answers chose these dates, and
-    places were assigned from that round on 8 August. Both registration rounds are now closed.</p>
-  </div>
-</div>
-
-## Trainers and organisers
-
-<div class="person-cards">
-<div class="person person--both">
-<h4>Oscar Esteban <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span> <span class="person-tag person-tag--organiser">Organiser</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg" alt=""></p>
-<p class="person-affiliation">HES-SO Valais-Wallis, Switzerland</p>
-</div>
-<div class="person person--organiser">
-<h4>Guiomar Niso <span class="person-tags"><span class="person-tag person-tag--organiser">Organiser</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/guiomar.jpg" alt=""></p>
-<p class="person-affiliation">Agencia Estatal Consejo Superior de Investigaciones Cientificas</p>
-</div>
-<div class="person">
-<h4>Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
-<p class="person-affiliation">Lausanne University Hospital and University of Lausanne, Switzerland</p>
-</div>
-<div class="person">
-<h4>Mélanie Garcia <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
-<p class="person-affiliation">Massachusetts General Hospital, Harvard Medical School, Boston, USA</p>
-</div>
-<div class="person">
-<h4>Lea Waller <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/lea.jpg" alt=""></p>
-<p class="person-affiliation">CRIUGM &amp; Université de Montréal, Montréal, Canada</p>
-</div>
-<div class="person">
-<h4>Steffen Bollmann <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/steffen.jpg" alt=""></p>
-<p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
-</div>
-<div class="person">
-<h4>Martin N&oslash;rgaard <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/martin.jpg" alt=""></p>
-<p class="person-affiliation">University of Copenhagen, Denmark</p>
-</div>
-<div class="person person--assistant">
-<h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
-<p class="person-affiliation">Complutense University of Madrid, Spain</p>
-</div>
-</div>
 
 
 ## Programme at a glance
@@ -188,18 +101,6 @@ online. See [the programme](#programme) for what each mode involves.
 <tr class="agenda-shared"><td colspan="3"><span class="agenda-time">18:00</span> End of the day</td></tr>
 </tbody>
 </table>
-</div>
-
-## Venue
-
-**In person:** Room **COLABORA**, **Espacio Converge**, Campus Serrano del CSIC — C/ Serrano 113 posterior
-(entrance through the main CSIC Campus gate), 28006 Madrid, Spain.
-
-**Online:** the platform and connection details are sent by email to online attendees before the
-event.
-
-<div class="map-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.6433037257525!2d-3.6862125000000003!3d40.441207299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e91f36efad%3A0x22fd33292c016bd2!2sC.%20de%20Serrano%2C%20113%2C%20Chamart%C3%ADn%2C%2028006%20Madrid%2C%20Spain!5e1!3m2!1sen!2sch!4v1784190665485!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
 ## Programme
@@ -294,6 +195,51 @@ them too. The platform and connection details are sent by email before the event
 | 17:25 – 18:00 | **(Plenary)** Concluding remarks |
 {: .schedule}
 
+## Trainers and organisers
+
+<div class="person-cards">
+<div class="person person--both">
+<h4>Oscar Esteban <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span> <span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="https://www.axonlab.org/images/teampic/Oscar_HQD-1-square.jpg" alt=""></p>
+<p class="person-affiliation">HES-SO Valais-Wallis, Switzerland</p>
+</div>
+<div class="person person--organiser">
+<h4>Guiomar Niso <span class="person-tags"><span class="person-tag person-tag--organiser">Organiser</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/guiomar.jpg" alt=""></p>
+<p class="person-affiliation">Agencia Estatal Consejo Superior de Investigaciones Cientificas</p>
+</div>
+<div class="person">
+<h4>Yasser Alemán-Gómez <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Lausanne University Hospital and University of Lausanne, Switzerland</p>
+</div>
+<div class="person">
+<h4>Mélanie Garcia <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Massachusetts General Hospital, Harvard Medical School, Boston, USA</p>
+</div>
+<div class="person">
+<h4>Lea Waller <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/lea.jpg" alt=""></p>
+<p class="person-affiliation">CRIUGM &amp; Université de Montréal, Montréal, Canada</p>
+</div>
+<div class="person">
+<h4>Steffen Bollmann <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/steffen.jpg" alt=""></p>
+<p class="person-affiliation">Neurodesk, University of Queensland, Australia</p>
+</div>
+<div class="person">
+<h4>Martin N&oslash;rgaard <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/martin.jpg" alt=""></p>
+<p class="person-affiliation">University of Copenhagen, Denmark</p>
+</div>
+<div class="person person--assistant">
+<h4>Daniel Martín Díez <span class="person-tags"><span class="person-tag person-tag--assistant">Assistant</span></span></h4>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-affiliation">Complutense University of Madrid, Spain</p>
+</div>
+</div>
+
 ## For all attendees
 
 **Set up [Neurodesk](https://www.neurodesk.org/) before you arrive.** Several of the hands-on
@@ -329,6 +275,18 @@ with your own data, ideally in BIDS. Make sure you can actually reach it from a 
 Madrid, and arrange any access or download before you travel. If that is not possible, we
 provide a dataset.
 
+### Venue
+
+**In person:** Room **COLABORA**, **Espacio Converge**, Campus Serrano del CSIC — C/ Serrano 113 posterior
+(entrance through the main CSIC Campus gate), 28006 Madrid, Spain.
+
+**Online:** the platform and connection details are sent by email to online attendees before the
+event.
+
+<div class="map-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.6433037257525!2d-3.6862125000000003!3d40.441207299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e91f36efad%3A0x22fd33292c016bd2!2sC.%20de%20Serrano%2C%20113%2C%20Chamart%C3%ADn%2C%2028006%20Madrid%2C%20Spain!5e1!3m2!1sen!2sch!4v1784190665485!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+
 ### Reimbursement
 
 **Travel and subsistence are covered** for eligible in-person participants, through the standard
@@ -361,12 +319,55 @@ in time if you submit after the 14 October deadline.
 See the [COST Annotated Rules](https://www.cost.eu/cost-actions/annotated-rules-qa/) and the
 [e-COST platform](https://e-services.cost.eu/) for details.
 
-## Selection Process
+## Registration (e-COST invitation required)
+
+Taking part, in person or online, requires an **e-COST invitation**, which you receive from the
+organisers and must accept.
+
+**The places in the room are full.** They were allocated through a pre-registration round in
+July, whose answers also set the dates, and an open registration in August for the remaining
+funded seats. Both are closed.
+
+**Registration for online participation is closed too.** It was open to anyone, with no cap and
+no selection, through a third window announced until 13 September, and online sign-ups were
+accepted until the school opened on 30 September.
+
+<div class="ts-cta ts-cta--closed">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Online registration: closed</p>
+    <p class="ts-cta__deadline">Closed <strong>30 September 2026</strong></p>
+    <p class="ts-cta__note">The third window was announced until 13 September, and online
+    sign-ups were accepted until the school opened.</p>
+  </div>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
+</div>
+
+<div class="ts-cta ts-cta--closed">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Places in the room: closed</p>
+    <p class="ts-cta__deadline">Closed <strong>21 August 2026</strong>, 23:59&nbsp;CEST</p>
+    <p class="ts-cta__note">The August round for the funded places is closed and those places
+    are assigned. See <a href="#country-representation">the countries represented</a> and
+    <a href="#how-places-are-allocated">how places were allocated</a>.</p>
+  </div>
+  <span class="ts-cta__button" role="link" aria-disabled="true">Closed <span aria-hidden="true">✕</span></span>
+</div>
+
+<div class="ts-cta ts-cta--closed">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Pre-registration round closed</p>
+    <p class="ts-cta__deadline">Pre-registration closed <strong>25 July</strong> · availability confirmations closed <strong>6 August</strong></p>
+    <p class="ts-cta__note">Thanks to everyone who responded: your answers chose these dates, and
+    places were assigned from that round on 8 August. Both registration rounds are now closed.</p>
+  </div>
+</div>
+
+### Selection Process
 
 The selection below concerns places **in the room**. Online attendance is not selected or ranked:
 online attendees receive an e-COST invitation marked as online attendance.
 
-### Timeline
+#### Timeline
 
 | when | what |
 |---|---|
@@ -383,7 +384,7 @@ online attendees receive an e-COST invitation marked as online attendance.
 | **30 September – 2 October** | The Training School, in Madrid and online |
 | **3 October – 14 October** | Reimbursement requests must be filed |
 
-### Who can take part
+#### Who can take part
 
 To have your costs reimbursed you need to be a registered INDoS
 member with an affiliation in a COST Member, Cooperating Member, or Near-Neighbour country, or a
@@ -400,7 +401,7 @@ online attendance, and has no affiliation condition. It is not reimbursed.
 > separate from e-COST. Reimbursement requires INDoS membership and an **e-COST invitation** that
 > you accept. The local organiser issues these once the participant list is settled.
 
-### Country representation
+#### Country representation
 
 The funded cohort was built to spread places across countries: every country's first
 representative was seated before any country's second, and **no country holds more than two
@@ -419,7 +420,7 @@ Affiliations in Russia and Belarus are not eligible: COST has
 both until further notice. An affiliation outside all of the above cannot hold a funded trainee
 place, but is welcome online, and in the room at its own cost, seats permitting.
 
-### How places are allocated
+#### How places are allocated
 
 The Training School has more people who want a place than it has places.
 The process comprises six rules that implement the following principles:
@@ -448,7 +449,7 @@ The process comprises six rules that implement the following principles:
 - **Online attendance is not allocated.** It was open: no cap, no ordering, no waiting list. The
   rules below decide who holds a place in the room, and nothing else.
 
-#### Rule 1 — who enters the list
+##### Rule 1 — who enters the list
 
 A pre-registration enters the list unless it is set aside for one of these reasons:
 
@@ -464,7 +465,7 @@ Where one person pre-registered more than once, the entries are merged: their **
 taken from the most recent, their **place in the queue** from the earliest (correcting a
 pre-registration doesn't cost the initial position).
 
-#### Rule 2 — starting order
+##### Rule 2 — starting order
 
 Everyone left is ordered by the time of their pre-registration.
 
@@ -473,14 +474,14 @@ country, but full attendance comes first: people who cannot attend all three day
 the head of the waiting list rather than seated directly, because the training is cumulative and
 a funded place is for the whole school.
 
-#### Rule 3 — local filing time
+##### Rule 3 — local filing time
 
 The survey recorded one server clock, which favours applicants east of it: the same local hour of
 day produces an earlier recorded time. Every timestamp is restated in the applicant's own local
 time before ordering, so that filing first thing in the morning counts equally in Lisbon and in
 Istanbul.
 
-#### Rule 4 — gender interleaving
+##### Rule 4 — gender interleaving
 
 Read from the top. Position 1 should hold a woman, position 2 a man, position 3 a woman, and so on.
 
@@ -504,7 +505,7 @@ Read from the top. Position 1 should hold a woman, position 2 a man, position 3 
    position. Non-disclosure never helps and never hurts beyond that: the most prevalent category
    is simply the most-competed one.
 
-#### Rule 5 — country slotting
+##### Rule 5 — country slotting
 
 Read from the top, counting how many times each country has appeared.
 
@@ -515,7 +516,7 @@ Read from the top, counting how many times each country has appeared.
 
 Every country's first applicant therefore appears before any country's second.
 
-#### Rule 6 — iterative reslotting
+##### Rule 6 — iterative reslotting
 
 Rule 5 applied once leaves the applicants it moved back sitting together, so a large national
 group forms one uninterrupted run. Rule 5 is applied repeatedly, **each pass starting at the first
@@ -525,7 +526,7 @@ Pass 1 gathers every country's first applicant, pass 2 every country's second, p
 country's third, and so on, so each national group is separated by the equally-ranked applicants
 of other countries. It stops when a pass moves nobody.
 
-#### The algorithm: how these rules are applied
+##### The algorithm: how these rules are applied
 
 | step | rule |
 |---|---|
@@ -538,7 +539,7 @@ of other countries. It stops when a pass moves nobody.
 | 7 | Rules 5 and 6 — country reslotting |
 | 8 | Rule 4 — gender interleaving, **without** the same-country preference of step 3 |
 
-#### Waiting list
+##### Waiting list
 
 We invite from the top of the list, for as long as the funding lasts. Everyone below that point is
 on the waiting list, in list order.

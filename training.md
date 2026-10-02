@@ -92,7 +92,7 @@ accepted until the school opened on 30 September.
 </div>
 <div class="person">
 <h4>Martin N&oslash;rgaard <span class="person-tags"><span class="person-tag person-tag--trainer">Trainer</span></span></h4>
-<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/avatar.jpg" alt=""></p>
+<p class="person-photo-wrap"><img class="person-photo" src="/assets/images/people/martin.jpg" alt=""></p>
 <p class="person-affiliation">University of Copenhagen, Denmark</p>
 </div>
 <div class="person person--assistant">

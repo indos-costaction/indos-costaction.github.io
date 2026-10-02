@@ -914,3 +914,49 @@ details.fold > summary.fold__summary:hover > h2 {
   margin-left: 0;
   margin-right: 0.3rem;
 }
+
+/* Training School materials index (wg3-ts2026.md) */
+
+.material-links {
+  margin: 0.5rem 0 0;
+}
+
+.material-link,
+.page-content a.material-link {
+  display: inline-block;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  padding: 0.05rem 0.6rem;
+  border: 1px solid var(--logo-purple);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--logo-purple);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.page-content a.material-link:hover {
+  background: var(--logo-purple);
+  color: #fff;
+}
+
+.material-link--pending {
+  border-style: dashed;
+  border-color: #b6b6bd;
+  color: #8b8b93;
+  font-weight: 400;
+}
+
+.material-doi img {
+  vertical-align: middle;
+}
+
+.session-by {
+  display: block;
+  font-size: 0.85rem;
+  color: #6b6b75;
+}
+
+.materials-schedule td:last-child {
+  width: 32%;
+}

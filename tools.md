@@ -10,7 +10,7 @@ Since INDoS does not stand on its own but actively collaborates with other proje
 
 We use [AcademicCloud](https://academiccloud.de/) to share documents. You can access this in the browser, and/or keep it synchronized with a folder on your own computer using the OwnCloud client.
 
-Please sign up on AcademicCloud with the same email address that you are using on e-COST. If you cannot access the documents on AcademicCloud, please contact <a href="mailto:urban.marhl@imfm.si">Urban Mahl</a>.
+Please sign up on AcademicCloud with the same email address that you are used to sign up on e-COST. If you cannot access the documents on AcademicCloud, please contact <a href="mailto:urban.marhl@imfm.si">Urban Mahl</a>.
 
 ## Templates and Logos
 
@@ -33,8 +33,8 @@ For internal communication we make use of the following mailing lists :
 - [indos-mc](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-mc) for the management committee
 - [indos-core](https://mailman.uni-oldenburg.de/mailman/listinfo/indos-core) for the core group
 
-You will automatically be added to the appropriate working groups depending on your involvement in INDoS.
+You will be added to the appropriate mailing lists depending after you [sign up to INDoS](/join).
 
 ## Social media 🌐
 
-We are active on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
+We are active on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/company/indos-cost-action/).

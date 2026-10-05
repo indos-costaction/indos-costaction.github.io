@@ -44,4 +44,4 @@ We welcome researchers and students interested in improving neuroimaging data fo
 
 - Check the [news](/news) to see what is going on.
 - [Join](/join) one of the working groups to be added to the mailing list.
-- Follow our activities on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
+- Follow our activities on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/company/indos-cost-action/).

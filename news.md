@@ -2,7 +2,7 @@
 title: News
 ---
 
-Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
+Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/company/indos-cost-action/).
 
 ## 17 September 2026 - Discover the INDoS network: New interactive member map now live
 

@@ -1,0 +1,222 @@
+# Materials of the WG3 Training School 2026 (Madrid, 30 September to 2 October),
+# rendered by wg3-ts2026.md. Times and session titles follow the Programme section
+# of training.md; breaks are left out.
+#
+# repositories: one card per presenter repository.
+#   site: where the slides are served; doi: the Zenodo concept DOI ("all versions"),
+#   filled in after the repository's first release.
+# sessions:
+#   kind: Theory | Practice | Plenary
+#   materials: list of {label, url}
+#   pending: true when the presenter has not shared the materials yet
+
+repositories:
+  - presenter: Oscar Esteban
+    topic: "Block 1: standards, data, environments"
+    repo: https://github.com/indos-costaction/wg3-ts2026-esteban
+    site: https://www.indos-costaction.eu/wg3-ts2026-esteban/
+    doi: 10.5281/zenodo.23162294
+  - presenter: Mélanie Garcia
+    topic: "Block 2: how to read and review a paper, and the Journal Club"
+    repo: https://github.com/indos-costaction/wg3-ts2026-garcia
+    site: https://www.indos-costaction.eu/wg3-ts2026-garcia/
+    doi: 10.5281/zenodo.23164546
+  - presenter: Guiomar Niso
+    topic: "Block 3: EEG/MEG preprocessing"
+    repo: https://github.com/indos-costaction/wg3-ts2026-niso
+    site:
+    doi:
+  - presenter: Yasser Alemán-Gómez
+    topic: "Blocks 3 and 4: structural and diffusion MRI"
+    repo: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez
+    site:
+    doi: 10.5281/zenodo.23164764
+  - presenter: Lea Waller
+    topic: "Block 5: fMRI preprocessing and quality control"
+    repo: https://github.com/indos-costaction/wg3-ts2026-waller
+    site: https://www.indos-costaction.eu/wg3-ts2026-waller/
+    doi: 10.5281/zenodo.23164400
+
+days:
+  - title: "Day 1 · Wednesday 30 September"
+    blocks:
+      - title: "Block 1 · 09:00-13:00 · Standards, data, environments"
+        sessions:
+          - time: "09:00-09:20"
+            kind: Plenary
+            title: Welcome
+            by: Oscar Esteban
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-esteban/day1-01-welcome/
+          - time: "09:20-09:35"
+            kind: Plenary
+            title: INDoS and Working Group 3
+            by: Oscar Esteban
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-esteban/day1-01-welcome/
+          - time: "09:35-10:00"
+            kind: Plenary
+            title: Introductions
+          - time: "10:00-10:45"
+            kind: Theory
+            title: Standardized preprocessing
+            by: Oscar Esteban
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-esteban/day1-02-preprocessing/
+          - time: "10:45-11:15"
+            kind: Theory
+            title: BIDS across modalities
+            by: Oscar Esteban
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-esteban/day1-03-bids/
+          - time: "11:30-12:00"
+            kind: Practice
+            title: BIDS Manager hands-on
+            by: Moustafa Almanla
+            pending: true
+          - time: "12:00-12:30"
+            kind: Theory
+            title: Containers
+            by: Oscar Esteban
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-esteban/day1-04-containers/
+          - time: "12:30-13:00"
+            kind: Practice
+            title: Environment bring-up
+      - title: "Block 2 · 14:00-18:00 · Environments, provenance, how to read a paper"
+        sessions:
+          - time: "14:00-15:00"
+            kind: Theory
+            title: Neurodesk
+            by: Steffen Bollmann
+            pending: true
+          - time: "15:00-15:45"
+            kind: Theory
+            title: How to read and review a neuroimaging paper
+            by: Mélanie Garcia
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-garcia/2026-INDoS-WG3-training/
+          - time: "16:00-17:45"
+            kind: Practice
+            title: Journal Club
+            by: Mélanie Garcia
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-garcia/2026-INDoS-WG3-training/#10
+              - label: Journal Club
+                url: https://www.indos-costaction.eu/journal-club/
+          - time: "17:45-18:00"
+            kind: Plenary
+            title: Day wrap and preview of Thursday
+
+  - title: "Day 2 · Thursday 1 October"
+    blocks:
+      - title: "Block 3 · 09:00-13:00 · PET, EEG/MEG and structural MRI"
+        sessions:
+          - time: "09:00-09:45"
+            kind: Theory
+            title: "PET: acquisition, preprocessing and PET-BIDS"
+            by: Martin Nørgaard
+            pending: true
+          - time: "09:45-10:30"
+            kind: Theory
+            title: EEG/MEG preprocessing
+            by: Guiomar Niso
+            pending: true
+          - time: "10:30-11:20"
+            kind: Practice
+            title: EEG/MEG hands-on in Neurodesk
+            by: Guiomar Niso
+            pending: true
+          - time: "11:35-12:05"
+            kind: Theory
+            title: "Structural MRI: FreeSurfer and VBM"
+            by: Yasser Alemán-Gómez
+            materials:
+              - label: Slides (PDF)
+                url: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez/blob/main/Presentations/2026_10_01_Structural-INDOs_YAleman.pdf
+          - time: "12:05-13:00"
+            kind: Practice
+            title: Structural MRI hands-on
+            by: Yasser Alemán-Gómez
+            materials:
+              - label: Setup guide
+                url: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez/blob/main/HandsOn/README.md
+              - label: Notebook
+                url: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez/blob/main/HandsOn/01-FreeSurfer_SingleSubject-Processing-HandsOn.ipynb
+      - title: "Block 4 · 14:00-18:00 · Diffusion MRI"
+        sessions:
+          - time: "14:00-15:00"
+            kind: Theory
+            title: Diffusion MRI
+            by: Yasser Alemán-Gómez
+            materials:
+              - label: Slides (PDF)
+                url: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez/blob/main/Presentations/2026_10_01_DWMRI-INDOs_YAleman.pdf
+          - time: "15:00-17:45"
+            kind: Practice
+            title: Diffusion hands-on
+            by: Yasser Alemán-Gómez
+            materials:
+              - label: Notebook
+                url: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez/blob/main/HandsOn/02-DWMRI-Processing-HandsOn.ipynb
+          - time: "17:45-18:00"
+            kind: Plenary
+            title: Day wrap, and what to bring to Friday
+
+  - title: "Day 3 · Friday 2 October"
+    blocks:
+      - title: "Block 5 · 09:00-13:00 · Functional MRI: did it work?"
+        sessions:
+          - time: "09:00-10:15"
+            kind: Theory
+            title: fMRI preprocessing with fMRIPrep
+            by: Lea Waller
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/
+              - label: Visualization notebooks
+                url: https://github.com/indos-costaction/wg3-ts2026-waller/tree/main/fmri-visualization
+          - time: "10:15-10:45"
+            kind: Practice
+            title: Execution forensics
+            by: Lea Waller
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/#30
+              - label: Notebook
+                url: https://github.com/indos-costaction/wg3-ts2026-waller/blob/main/practical-1-fmriprep-setup.ipynb
+          - time: "11:00-12:40"
+            kind: Practice
+            title: QA/QC hands-on
+            by: Lea Waller
+            materials:
+              - label: Slides
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/#31
+              - label: QC app
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/practical-2-quality-control/
+              - label: Brain-age notebook
+                url: https://github.com/indos-costaction/wg3-ts2026-waller/blob/main/practical-3-age-prediction.ipynb
+          - time: "12:40-13:00"
+            kind: Plenary
+            title: Introduction to the afternoon's personal projects
+      - title: "Block 6 · 14:00-18:00 · Personal projects and closing"
+        sessions:
+          - time: "14:00-14:20"
+            kind: Plenary
+            title: Project pitches, roulette style
+          - time: "14:20-16:35"
+            kind: Practice
+            title: Project work
+          - time: "16:35-17:25"
+            kind: Practice
+            title: Project results presentation
+          - time: "17:25-18:00"
+            kind: Plenary
+            title: Concluding remarks

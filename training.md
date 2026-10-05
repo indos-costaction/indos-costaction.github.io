@@ -14,6 +14,14 @@ hide_title: true
   <p class="ts-hero__credit">Illustration generated with Google Gemini (AI)</p>
 </header>
 
+<div class="ts-cta">
+  <div class="ts-cta__text">
+    <p class="ts-cta__eyebrow">Training materials</p>
+    <p class="ts-cta__deadline">Slides, notebooks and hands-on guides from all three days</p>
+    <p class="ts-cta__note">Openly licensed under CC BY 4.0.</p>
+  </div>
+  <a class="ts-cta__button" href="/wg3-ts2026">Browse <span aria-hidden="true">→</span></a>
+</div>
 
 
 ## Programme at a glance

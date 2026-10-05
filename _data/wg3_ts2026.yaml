@@ -34,8 +34,8 @@ repositories:
   - presenter: Lea Waller
     topic: "Block 5: fMRI preprocessing and quality control"
     repo: https://github.com/indos-costaction/wg3-ts2026-waller
-    site: https://lea.science/teaching/wg3-ts2026-waller/
-    doi:
+    site: https://www.indos-costaction.eu/wg3-ts2026-waller/
+    doi: 10.5281/zenodo.23164400
 
 days:
   - title: "Day 1 · Wednesday 30 September"
@@ -180,7 +180,7 @@ days:
             by: Lea Waller
             materials:
               - label: Slides
-                url: https://lea.science/teaching/wg3-ts2026-waller/
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/
               - label: Visualization notebooks
                 url: https://github.com/indos-costaction/wg3-ts2026-waller/tree/main/fmri-visualization
           - time: "10:15-10:45"
@@ -189,7 +189,7 @@ days:
             by: Lea Waller
             materials:
               - label: Slides
-                url: https://lea.science/teaching/wg3-ts2026-waller/#30
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/#30
               - label: Notebook
                 url: https://github.com/indos-costaction/wg3-ts2026-waller/blob/main/practical-1-fmriprep-setup.ipynb
           - time: "11:00-12:40"
@@ -198,9 +198,9 @@ days:
             by: Lea Waller
             materials:
               - label: Slides
-                url: https://lea.science/teaching/wg3-ts2026-waller/#31
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/#31
               - label: QC app
-                url: https://lea.science/teaching/wg3-ts2026-waller/practical-2-quality-control/
+                url: https://www.indos-costaction.eu/wg3-ts2026-waller/practical-2-quality-control/
               - label: Brain-age notebook
                 url: https://github.com/indos-costaction/wg3-ts2026-waller/blob/main/practical-3-age-prediction.ipynb
           - time: "12:40-13:00"

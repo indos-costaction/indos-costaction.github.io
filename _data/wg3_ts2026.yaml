@@ -30,7 +30,7 @@ repositories:
     topic: "Blocks 3 and 4: structural and diffusion MRI"
     repo: https://github.com/indos-costaction/wg3-ts2026-aleman-gomez
     site:
-    doi:
+    doi: 10.5281/zenodo.23164764
   - presenter: Lea Waller
     topic: "Block 5: fMRI preprocessing and quality control"
     repo: https://github.com/indos-costaction/wg3-ts2026-waller

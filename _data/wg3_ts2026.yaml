@@ -20,7 +20,7 @@ repositories:
     topic: "Block 2: how to read and review a paper, and the Journal Club"
     repo: https://github.com/indos-costaction/wg3-ts2026-garcia
     site: https://www.indos-costaction.eu/wg3-ts2026-garcia/
-    doi:
+    doi: 10.5281/zenodo.23164546
   - presenter: Guiomar Niso
     topic: "Block 3: EEG/MEG preprocessing"
     repo: https://github.com/indos-costaction/wg3-ts2026-niso

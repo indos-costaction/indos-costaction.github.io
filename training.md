@@ -62,7 +62,7 @@ online. See [the programme](#programme) for what each mode involves.
 <tr class="agenda-shared"><td colspan="3">Coffee</td></tr>
 <tr>
 <td>
-<div class="agenda-session"><span class="agenda-title">BIDSvue hands-on</span></div>
+<div class="agenda-session"><span class="agenda-title">BIDS Manager hands-on</span></div>
 <div class="agenda-session"><span class="agenda-title">Containers</span></div>
 <div class="agenda-session"><span class="agenda-title">Environment bring-up</span></div>
 </td>
@@ -136,7 +136,7 @@ them too. The platform and connection details are sent by email before the event
 | 10:00 – 10:45 | **(Theory)** Standardized preprocessing: why pipelines, why automation, the pipeline end to end with fMRIPrep as the reference model |
 | 10:45 – 11:15 | **(Theory)** BIDS across modalities: structure, validation, the EEG/MEG extensions, BIDS Apps |
 | 11:15 – 11:30 | Coffee |
-| 11:30 – 12:00 | **(Practice)** BIDSvue hands-on |
+| 11:30 – 12:00 | **(Practice)** BIDS Manager hands-on |
 | 12:00 – 12:30 | **(Theory)** Containers |
 | 12:30 – 13:00 | **(Practice)** Environment bring-up: log in, check your setup works, fix anything that does not |
 {: .schedule}

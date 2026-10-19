@@ -44,12 +44,16 @@ Absolutely — INDoS prioritises Young Researchers & Innovators and ITC-based ap
 
 ### Where can I find host institutions for a STSM?
 
-Contact the Action chair [indos-chair@uol.de](mailto:indos-chair@uol.de) who can bring you in contact with potential hosts across the network.
+Contact the action chair or the [workgroup coordinators](/coordination) who can bring you in contact with potential hosts across the network.
 
 ### What happens after my conference or STSM visit?
 
 A short scientific report is required within 30 days of completion. Payment is released upon approval of your report.
 
-## Not sure whether you should apply?
+<div data-fold-end></div>
 
-Contact the Action chair [indos-chair@uol.de](mailto:indos-chair@uol.de) and/or the grant holder [urban.marhl@imfm.si](mailto:urban.marhl@imfm.si) who can help you to decide whether your ideas align with INDoS.
+## Still not sure whether you should apply?
+
+Contact the action chair [indos-chair@uol.de](mailto:indos-chair@uol.de) and/or the grant holder [urban.marhl@imfm.si](mailto:urban.marhl@imfm.si) who can help you to decide whether your ideas align with INDoS.
+
+<script src="{{ '/assets/script/fold-sections.js' | relative_url }}?v={{ site.time | date: '%s' }}" data-fold-level="3" defer></script>

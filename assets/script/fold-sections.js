@@ -1,9 +1,10 @@
-/* Foldable sections: wraps every h2 in .page-content, together with the content
-   that follows it up to the next h2, in a native <details> element.
+/* Foldable sections: wraps the selected heading level in .page-content, together with the content
+   that follows it up to the next heading at that level, in a native <details> element.
 
    Progressive enhancement: the page reads fine without this script, and anchors
-   keep working because the h2 keeps its id. Options, on the <script> tag:
-     data-open="id-one id-two"   sections open on load (space-separated h2 ids)
+   keep working because each heading keeps its id. Options, on the <script> tag:
+     data-open="id-one id-two"   sections open on load (space-separated heading ids)
+     data-fold-level="3"         fold h3 sections instead of the default h2 sections
    Content after an element carrying data-fold-end stays outside the folds.
    A section whose content is the target of the URL hash opens automatically,
    and every section opens for printing. */
@@ -13,6 +14,7 @@
   var script = document.currentScript;
   var openByDefault = ((script && script.getAttribute('data-open')) || '')
     .split(/\s+/).filter(Boolean);
+  var headingTag = script && script.getAttribute('data-fold-level') === '3' ? 'H3' : 'H2';
 
   function chevron() {
     var ns = 'http://www.w3.org/2000/svg';
@@ -46,7 +48,7 @@
       if (stopped) return;
       var isElement = node.nodeType === 1;
       if (isElement && node.hasAttribute('data-fold-end')) { stopped = true; return; }
-      if (isElement && node.tagName === 'H2') {
+      if (isElement && node.tagName === headingTag) {
         var details = document.createElement('details');
         details.className = 'fold';
         if (openByDefault.indexOf(node.id) !== -1) details.open = true;

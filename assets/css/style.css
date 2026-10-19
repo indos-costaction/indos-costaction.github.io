@@ -742,7 +742,7 @@ body {
 .agenda-kind--practice { color: #1f6f63; background: #e3f4f0; }
 .agenda-kind--plenary  { color: var(--logo-blue);   background: #e6eaf3; }
 
-/* Foldable sections (assets/script/fold-sections.js): each h2 becomes the
+/* Foldable sections (assets/script/fold-sections.js): each selected heading becomes the
    summary of a <details>, with a chevron that turns when the section opens. */
 
 .fold-controls {
@@ -787,11 +787,13 @@ details.fold[open] > summary.fold__summary > .fold__chevron {
   transform: rotate(90deg);
 }
 
-.page-content details.fold > summary.fold__summary > h2 {
+.page-content details.fold > summary.fold__summary > h2,
+.page-content details.fold > summary.fold__summary > h3 {
   margin: 0.6rem 0;
 }
 
-details.fold > summary.fold__summary:hover > h2 {
+details.fold > summary.fold__summary:hover > h2,
+details.fold > summary.fold__summary:hover > h3 {
   color: var(--logo-purple);
 }
 

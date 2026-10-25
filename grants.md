@@ -30,13 +30,13 @@ The [ICT grant application procedure](/assets/docs/Call-for-ITC-conference-suppo
 
 ## Frequently asked questions?
 
-### Who can apply for EEG101 grants?
+### Who can apply for INDoS grants?
 
 Applicants must be affiliated with an institution in a COST Full Member or Cooperating Member country. You do not need to be from the same country as your host institution. Membership of INDoS is free — [join here](/join).
 
-### Do I need to be a current EEG101 member?
+### Do I need to be a current INDoS member?
 
-Yes. Join INDoS through e-COST before submitting a grant application. You shoudl also check the specific eligibility in the detailled application instructions.
+Yes. Join INDoS through e-COST before submitting a grant application. You should also check the specific eligibility in the detailled application instructions.
 
 ### Can early career researchers apply?
 

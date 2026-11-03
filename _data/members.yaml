@@ -540,7 +540,7 @@
 - name: Niko Hyka
   title: Prof.
   id: niko
-  email: nikohyka@gmail.com
+  email: niko.hyka@umed.edu.al
   institution: University of Medicine Tirana
   country: Albania
   working_groups:
@@ -571,7 +571,7 @@
   - WG3
 - name: Nurcan Doğan
   title: Dr.
-  email: doganbingolbali@itu.edu.tr
+  email: nurcandogan@itu.edu.tr
   institution: Istanbul Technical University
   country: Türkiye
   working_groups:
@@ -1980,7 +1980,7 @@
   - WG3
 - name: Chiara Gallese
   title: Dr.
-  email: chiara.gallese@lexpadova.it
+  email: avv.gallese@gmail.com
   institution: Universita degli Studi di Torino
   country: Italy
   working_groups:
@@ -2250,9 +2250,303 @@
 - name: Sinisa Ristic
   title: Prof.
   id: sinisa
-  email: risticsinisa@yahoo.com
+  email: ristic.m.sinisa@gmail.com
   institution: Faculty of Medicine Foca
   country: Bosnia and Herzegovina
   coordination:
   - Management Committee
   coordination_order: 39
+- name: Wajiha Bano
+  title: Dr.
+  email: wajiha.bano@aalto.fi
+  institution: Aalto University
+  country: Finland
+  working_groups:
+  - WG1
+  - WG3
+  - WG5
+- name: Sena Azamat
+  title: Dr.
+  email: sena.azamat@gmail.com
+  institution: Boğaziçi Üniversitesi
+  country: Türkiye
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+- name: Evgenia Charikleia Lazari
+  title: Ms.
+  email: lazari.evgenia.charikleia@gmail.com
+  institution: Panteion University of Social and Political Sciences
+  country: Greece
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+  - WG4
+  - WG5
+- name: Mir Hassan
+  title: Dr.
+  email: meerrhassan@gmail.com
+  institution: Mykolo Romerio universitetas
+  country: Lithuania
+  working_groups:
+  - WG1
+  - WG3
+  - WG4
+- name: Mohamed El Mekkaoui
+  title: Mr.
+  email: mohamed.elmekkaoui@um5r.ac.ma
+  institution: Mohammed V University in Rabat, Morocco
+  country: Morocco
+  working_groups:
+  - WG3
+- name: Mohammad Bdair
+  title: Mr.
+  email: mohammad.bdair02@gmail.com
+  institution: An-najah National University
+  country: Palestine
+  working_groups:
+  - WG3
+- name: Jiangtian Xu
+  title: Mr.
+  email: jiangtianbomlo@outlook.com
+  institution: University of Bergen
+  country: Norway
+  working_groups:
+  - WG3
+- name: Inzamam Mashood Nasir
+  title: Dr.
+  email: inzamam.nasir@mruni.eu
+  institution: Mykolo Romerio universitetas
+  country: Lithuania
+  working_groups:
+  - WG3
+- name: Riccardo Iandolo
+  title: Dr.
+  email: riccardo.iandolo@gmail.com
+  institution: IRCCS SYNLAB SDN
+  country: Italy
+  working_groups:
+  - WG3
+- name: Lea Waller
+  title: Ms.
+  email: lea.waller@charite.de
+  institution: Charité-Universitaetsmedizin Berlin
+  country: Germany
+  working_groups:
+  - WG3
+- name: Chentianyi Yang
+  title: Mr.
+  email: chentianyi.yang@mrc-cbu.cam.ac.uk
+  institution: University of Cambridge
+  country: United Kingdom
+  working_groups:
+  - WG3
+- name: Adan Mhameed
+  title: Ms.
+  email: adanmhameed835@gmail.com
+  institution: The Hebrew University Of Jerusalem
+  country: Israel
+  working_groups:
+  - WG3
+- name: Tobias Harritz
+  title: Mr.
+  email: tharritz@hotmail.com
+  institution: University of Oxford
+  country: United Kingdom
+  working_groups:
+  - WG3
+- name: Melisa Özakçakaya
+  title: Ms.
+  email: ozakcakaya.melisa@gmail.com
+  institution: Boğaziçi Üniversitesi
+  country: Türkiye
+  working_groups:
+  - WG3
+- name: Xiantong Cheng
+  title: Mr.
+  email: XXC638@student.bham.ac.uk
+  institution: The University of Birmingham
+  country: United Kingdom
+  working_groups:
+  - WG3
+- name: Elena Fernández Zorrilla
+  title: Ms.
+  email: elena.fzorrilla@upm.es
+  institution: Universidad Politécnica de Madrid
+  country: Spain
+  working_groups:
+  - WG3
+- name: Laura Päeske
+  title: Dr.
+  email: laura.paeske@taltech.ee
+  institution: Tallinn University of Technology
+  country: Estonia
+  working_groups:
+  - WG1
+  - WG3
+- name: Rossana Confreda
+  title: Dr.
+  email: rossana.confreda@gmail.com
+  institution: IRCCS SYNLAB SDN
+  country: Italy
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+  - WG5
+- name: Lluis Borras Ferris
+  title: Mr.
+  email: lluis.borrasferris@hevs.ch
+  institution: HES-SO Valais-Wallis
+  country: Switzerland
+  working_groups:
+  - WG3
+- name: Javier Sanz-Aznar
+  title: Dr.
+  email: javier.sanz@ub.edu
+  institution: Universitat de Barcelona
+  country: Spain
+  working_groups:
+  - WG1
+  - WG3
+- name: Francesca Benuzzi
+  title: Prof.
+  email: francesca.benuzzi@unimore.it
+  institution: Università di Modena e Reggio Emilia
+  country: Italy
+  working_groups:
+  - WG1
+- name: Olgerta Asko
+  title: Dr.
+  email: olgertaa@uio.no
+  institution: University of Oslo
+  country: Norway
+  working_groups:
+  - WG2
+- name: Dorian Pustina
+  title: Dr.
+  email: dorian.pustina@chdifoundation.org
+  institution: CHDI
+  country: United States
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+- name: Aneta Kartali
+  title: Ms.
+  email: aneta.kartali@fri.uni-lj.si
+  institution: University of Ljubljana
+  country: Slovenia
+  working_groups:
+  - WG3
+- name: Yasser Alemán-Gómez
+  title: Dr.
+  email: yasser.aleman-gomez@chuv.ch
+  institution: Centre Hospitalier Universitaire Vaudois
+  country: Switzerland
+  working_groups:
+  - WG3
+- name: Marta Navarro Bernad
+  title: Ms.
+  email: marta.navarrobernad@icm-institute.org
+  institution: Institut du Cerveau
+  country: France
+  working_groups:
+  - WG3
+- name: Cèlia Cruz Escalera
+  title: Ms.
+  email: celia.cruz@ub.edu
+  institution: Universitat de Barcelona
+  country: Spain
+  working_groups:
+  - WG3
+- name: Marina Mas Argemí
+  title: Ms.
+  email: mmasa@ub.edu
+  institution: Universitat de Barcelona
+  country: Spain
+  working_groups:
+  - WG3
+- name: Martin Oevsthus
+  title: Dr.
+  email: martiovs@uio.no
+  institution: University of Oslo
+  country: Norway
+  working_groups:
+  - WG2
+- name: Daniel Martín Díez
+  title: Mr.
+  email: daniel.martin.diez.04@gmail.com
+  institution: Universidad Complutense De Madrid
+  country: Spain
+  working_groups:
+  - WG1
+  - WG2
+- name: Francesca Pesciarelli
+  title: Dr.
+  email: francesca.pesciarelli@unimore.it
+  institution: Università di Modena e Reggio Emilia
+  country: Italy
+  working_groups:
+  - WG1
+  - WG3
+  - WG5
+- name: Melanie Garcia
+  title: Dr.
+  email: garciaml@tcd.ie
+  institution: Trinity College Dublin
+  country: Ireland
+  working_groups:
+  - WG3
+- name: Daniele Marinazzo
+  title: Prof.
+  email: daniele.marinazzo@gmail.com
+  institution: Ghent University
+  country: Belgium
+  working_groups:
+  - WG3
+- name: Francisco José Sánchez Cuesta
+  title: Dr.
+  email: fjose.sanchez@ufv.es
+  institution: Fundacion Universidad Francisco de Vitoria
+  country: Spain
+  working_groups:
+  - WG2
+  - WG5
+- name: Zuzanna Szałek
+  title: Ms.
+  email: z.szalek@nencki.edu.pl
+  institution: Instytut Biologii Doswiadczalnej Im. M. Nenckiego Polskiej Akademii Nauk
+  country: Poland
+  working_groups:
+  - WG3
+- name: Andrius Daranda
+  title: Dr.
+  email: andrius.daranda@go.kauko.lt
+  institution: Kauno kolegija Higher Education Institution
+  country: Lithuania
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+- name: Helena Catarina de Bastos Marques Pereira
+  title: Dr.
+  email: hpereira@uc.pt
+  institution: Universidade de Coimbra
+  country: Portugal
+  working_groups:
+  - WG1
+  - WG2
+  - WG3
+  - WG5
+- name: Sarshar Dorosti
+  title: Mr.
+  email: Dorosti-S@ulster.ac.uk
+  institution: University of Ulster
+  country: United Kingdom
+  working_groups:
+  - WG1
+  - WG2
+  - WG3

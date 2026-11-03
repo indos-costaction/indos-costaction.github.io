@@ -690,3 +690,35 @@
   country: France
   latitude: 48.119385
   longitude: -1.701487
+- name: Centre Hospitalier Universitaire Vaudois
+  country: Switzerland
+  latitude: 46.525508
+  longitude: 6.642269
+- name: CHDI
+  country: United States
+  latitude: 40.748169
+  longitude: -73.992908
+- name: Fundacion Universidad Francisco de Vitoria
+  country: Spain
+  latitude: 40.440265
+  longitude: -3.833906
+- name: Kauno kolegija Higher Education Institution
+  country: Lithuania
+  latitude: 54.921002
+  longitude: 23.984512
+- name: Trinity College Dublin
+  country: Ireland
+  latitude: 53.343706
+  longitude: -6.254428
+- name: Università di Modena e Reggio Emilia
+  country: Italy
+  latitude: 44.645054
+  longitude: 10.928176
+- name: University of Oslo
+  country: Norway
+  latitude: 59.941417
+  longitude: 10.722768
+- name: University of Ulster
+  country: United Kingdom
+  latitude: 55.151112
+  longitude: -6.676643

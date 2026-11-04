@@ -2,7 +2,9 @@
 title: News
 ---
 
-Follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/company/indos-cost-action/).
+Please follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/company/indos-cost-action/). 
+
+You can contact Mathew Abrams (<mathew@incf.org>) if you have news that you want to distribute in our network.
 
 ## 17 September 2026 - Discover the INDoS network: New interactive member map now live
 
@@ -61,7 +63,7 @@ As soon as they are set we will announce them here and on the [Training](/traini
 Everyone who marked the chosen date as *Yes* or *If need be* moves from pre-registered to registered, subject to capacity and in priority order.
 
 **Did not pre-register?** You can still register once the date is announced, seats permitting; you simply join the back of the queue.
-Write to [oscar.esteban@hes-so.ch](mailto:oscar.esteban@hes-so.ch) to be added.
+Write to Oscar Esteban (<oscar.esteban@hes-so.ch>) to be added.
 
 ## 16 July 2026 - WG3 Training School in Madrid: pre-registration open
 
@@ -81,21 +83,18 @@ The slot that maximizes attendance will be selected based on the pre-registratio
 **Program and other details**.
 See the [Training](/training) page for the programme, venue, eligibility, and reimbursement details.
 
-## 6 July 2026 - INDoS workgroup on "Ethics, practices, and regulations" published a comment on EDPB Guidelines on processing of personal data for scientific research purposes
+## 6 July 2026 - INDoS workgroup on "Ethics, practices, and regulations" published a comment on the EDPB guidelines on processing of personal data for scientific research purposes
 
-With the lead of INDoS WG4 members Mireille M Sant, Claude J Bajada, Cyril Pernet, and Jochem Rieger we have published a commentary on the European Data Protection Boards draft for the long awaited [guidelines 1/2026 on processing of personal data for scientific research purposes](https://www.edpb.europa.eu/public-consultations/guidelines-12026-on-processing-of-personal-data-for-scientific-research_en). Our commentary has been published [here](https://www.edpb.europa.eu/system/files/consultation_feedback/1495/feedback_1495_edpb_guidelines_1_2026_consultation_response.pdf) and was signed by 109 co-signatories from 26 countries from within and oustside the INDoS network. 
-In general we appreciate that the EDPB formulates recommendation specific for the exemptions for scientific research in GDPR. However, we also fear that unclear definitions and unnecessary multiplication of checks might lead to procedures and requiremnts that exceed the capacity and resources of research instiutions. Importantly, we suggest to limit the scope of the recommendations to GDPR specific regulations and to remove recommendations that cover external areas covered typically by IRBs (e.g. safeguards) or interfere with freedom of research guaranteed by  Article 13 of the EU Charter of Fundamental Rights and the constitutions of most European countries. 
+With the lead of INDoS WG4 members Mireille Sant, Claude Bajada, Cyril Pernet, and Jochem Rieger we have published a commentary on the European Data Protection Boards draft for the long awaited [guidelines 1/2026 on processing of personal data for scientific research purposes](https://www.edpb.europa.eu/public-consultations/guidelines-12026-on-processing-of-personal-data-for-scientific-research_en). Our commentary has been published [here](https://www.edpb.europa.eu/system/files/consultation_feedback/1495/feedback_1495_edpb_guidelines_1_2026_consultation_response.pdf) and was signed by 109 co-signatories from 26 countries from within and oustside the INDoS network. 
+In general, we appreciate that the EDPB formulates recommendation specific for the exemptions for scientific research in GDPR. However, we also fear that unclear definitions and unnecessary multiplication of checks might lead to procedures and requiremnts that exceed the capacity and resources of research instiutions. Importantly, we suggest to limit the scope of the recommendations to GDPR specific regulations and to remove recommendations that cover external areas covered typically by IRBs (e.g. safeguards) or interfere with freedom of research guaranteed by  Article 13 of the EU Charter of Fundamental Rights and the constitutions of most European countries.
 
 ## 5 July 2026 - Second call for STSM grant applications
 
-We have opened second call to apply for Short-Term Scientific Mission (STSM) grants. The restriction on the host institution has been removed in this call and any institution relevant to INDoS activities is eligible now.  See the [grants](/grants) page for details on how to apply.
+We have opened a second call to apply for Short-Term Scientific Mission (STSM) grants. The restriction on the host institution has been removed in this call and any institution relevant to INDoS activities is now eligible. See the [grants](/grants) page for details on how to apply.
 
 ## 4 July 2026 - Federated Journal Club
 
-WG3 (Automated Preprocessing Pipelines) is launching a
-[**Federated Journal Club**](/wg3#federated-journal-club):
-a trainee-oriented activity to collaboratively read and critically annotate the neuroimaging-preprocessing
-literature across nine modalities, as part of TF2's efforts.
+WG3 (Automated Preprocessing Pipelines) is launching a [**Federated Journal Club**](/wg3#federated-journal-club): a trainee-oriented activity to collaboratively read and critically annotate the neuroimaging-preprocessing literature across nine modalities, as part of TF2's efforts.
 
 ## 15 June 2026 - INDoS Annnual Meeting (aligned with OHBM)
 

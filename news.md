@@ -6,6 +6,14 @@ Please follow us on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.soc
 
 You can contact Mathew Abrams (<mathew@incf.org>) if you have news that you want to distribute in our network.
 
+## 4 November 2026 - Voting for the BIDS Steering Group Elections is now open
+
+🗳️ Voting for the 2026 BIDS Steering Group Elections is open until November 6th. BIDS is a core standard  for the work of INDoS and we encourage all of you to get engaged in BIDS and BEP (BIDS Extension Proposal) development. If you are unsure what that means  take a look at the links in the document below and discuss this with your WG or taskforce leads.
+
+INDoS has two candidates on the list: **Karel Lopez Vilaret** and **Lyuba Zehl**. We encourage all INDoS members that are eligible to vote to review all candidate statements at this link: <https://docs.google.com/document/d/1sokncdF7GczibjVuo1Fr4Fi4ZD6V8EcI7iFCmm_SD5E>. Please make an informed decision and vote!
+
+Thank you, and let INDoS be a strong partner of the BIDS 🧠 community!
+
 ## 17 September 2026 - Discover the INDoS network: New interactive member map now live
 
 As the INDoS community continues to grow, we are excited to launch a new feature on our website: the [Interactive Member Map](/members).

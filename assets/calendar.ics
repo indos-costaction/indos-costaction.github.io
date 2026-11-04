@@ -294,6 +294,20 @@ DESCRIPTION:See the grants page for details on how to apply.
 LOCATION:announced via the mailing list
 END:VEVENT
 BEGIN:VEVENT
+CREATED:20261104T160906Z
+DTSTAMP:20261104T161428Z
+LAST-MODIFIED:20261104T161428Z
+SEQUENCE:6
+UID:d9157782-1a11-4023-9e57-23d947c7b640
+DTSTART;TZID=Europe/Ljubljana:20261113T140000
+DTEND;TZID=Europe/Ljubljana:20261113T150000
+STATUS:CONFIRMED
+SUMMARY:WG1 Bi-weekly Working Meeting
+LOCATION:announced via the mailing list
+DESCRIPTION:Regular WG1 bi-weekly working meetings.\n\nFocus on collaborative work towards WG1 objectives\, particularly reviewing QA/QC tools\, scientific practices\, and developing a community survey.\n\nZoom Meeting ID: 875 9600 9844\nPasscode: 543209
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
 ORGANIZER;CN=Lyuba Zehl:mailto:Lyuba.Zehl@ebrains.eu
 ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Urban Marhl:mailto:urban.marhl@imfm.si
 ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Lyuba Zehl:mailto:Lyuba.Zehl@ebrains.eu

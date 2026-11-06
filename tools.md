@@ -10,7 +10,7 @@ Since INDoS does not stand on its own but actively collaborates with other proje
 
 We use [AcademicCloud](https://academiccloud.de/) to share documents. You can access this in the browser, and/or keep it synchronized with a folder on your own computer using the OwnCloud client.
 
-Please sign up on AcademicCloud with the same email address that you are used to sign up on e-COST. If you cannot access the documents on AcademicCloud, please contact <a href="mailto:urban.marhl@imfm.si">Urban Mahl</a>.
+Please sign up on AcademicCloud with the same email address that you are used to sign up on e-COST. If you cannot access the documents on AcademicCloud, please contact Urban Mahl (<urban.marhl@imfm.si>).
 
 ## Templates and Logos
 
@@ -18,7 +18,7 @@ We have a [resources](/resources) page with the INDoS logos and where in the fut
 
 ## Shared calendar 📅
 
-We have a shared calendar which you can view [online](/calendar) and/or subscribe to with an ICS file in your calendar application. Please contact <a href="mailto:urban.marhl@imfm.si">Urban Mahl</a> to add items to the calendar.
+We have a shared calendar which you can view [online](/calendar) and/or subscribe to with an ICS file in your calendar application. Please contact Urban Mahl (<urban.marhl@imfm.si>) to add items to the calendar.
 
 ## Mailing lists 📨
 

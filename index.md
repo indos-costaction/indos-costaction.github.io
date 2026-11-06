@@ -38,7 +38,7 @@ COST (European Cooperation in Science and Technology) is a funding agency for re
 
 ## Join Our Network
 
-We welcome researchers and students interested in improving neuroimaging data for sharing. If you would like to join our network or collaborate with us, please see the [contact page](/contact).
+We welcome researchers and students interested in improving neuroimaging data for sharing to [join](/join) our network.
 
 ## News and Updates
 

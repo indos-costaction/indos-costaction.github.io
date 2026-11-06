@@ -31,6 +31,9 @@
 - title: Grants
   url: /grants
   match: grants
+- title: Hosts
+  url: /hosts
+  match: hosts
 - title: Training
   url: /training
   match: training

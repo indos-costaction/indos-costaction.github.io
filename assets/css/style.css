@@ -623,6 +623,22 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.hosts-list {
+  margin-top: 2rem;
+}
+
+.host-meta {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.host-contact {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
 /* Footer Styles */
 
 .site-footer {

@@ -16,9 +16,14 @@ STSMs visits are in principle possible to all INDoS [member](/members) organizat
       </p>
     {% endif %}
     {% if host.contact %}
-      {% assign contact_member = site.data.members | where: "name", host.contact | first %}
+      {% comment %} contact is one name or a list of names; each email comes from members.yaml {% endcomment %}
+      {% assign contact_names = host.contact | join: "|" | split: "|" %}
       <p class="host-contact">
-        Contact: {{ host.contact }}{% if contact_member.email %} (<a href="mailto:{{ contact_member.email }}">{{ contact_member.email }}</a>){% endif %}
+        Contact{% if contact_names.size > 1 %}s{% endif %}:
+        {% for contact_name in contact_names %}
+          {% assign contact_member = site.data.members | where: "name", contact_name | first %}
+          {{ contact_name }}{% if contact_member.email %} (<a href="mailto:{{ contact_member.email }}">{{ contact_member.email }}</a>){% endif %}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
       </p>
     {% endif %}
     {% if host.description %}
